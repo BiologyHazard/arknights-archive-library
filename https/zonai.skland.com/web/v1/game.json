@@ -1,0 +1,1739 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747568921",
+  "data": {
+    "list": [
+      {
+        "game": {
+          "gameId": 1,
+          "name": "明日方舟",
+          "iconUrl": "https://bbs.hycdn.cn/asset/rhodes_island.png",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/arknights_bg.png",
+          "tabIconNor": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_rhodesisland_unsel.png",
+            "width": 183,
+            "height": 84,
+            "size": 4230,
+            "format": "png"
+          },
+          "tabIconSel": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_rhodesisland_sel.png",
+            "width": 198,
+            "height": 84,
+            "size": 4129,
+            "format": "png"
+          },
+          "chineseIconUrl": "https://bbs.hycdn.cn/asset/arknights_zh_cn.svg",
+          "pcIconUrl": "https://bbs.hycdn.cn/asset/rhodes_island.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/arknights_pc_bg.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/arknights_pc_underlying.png",
+          "englishIconUrl": "https://bbs.hycdn.cn/asset/arknights_en_us.svg",
+          "backgroundStyle": 1
+        },
+        "cates": [
+          {
+            "id": 14,
+            "gameId": 1,
+            "name": "推荐",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "kind": 30,
+            "allowedViewKinds": [],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 2,
+            "gameId": 1,
+            "name": "论坛",
+            "description": "畅所欲言，聊个痛快！",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/26/77dd4f800116129f4b893e446a1475a8.jpg",
+              "width": 150,
+              "height": 150,
+              "size": 21691,
+              "format": "jpg"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 4,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 4,
+            "gameId": 1,
+            "name": "攻略",
+            "description": "攻略分析数值计算，大佬请指教",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/26/02f4c00e64b3ee32aa50004db0bfa7ab.jpg",
+              "width": 150,
+              "height": 150,
+              "size": 23011,
+              "format": "jpg"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 3,
+            "gameId": 1,
+            "name": "同人",
+            "description": "游戏衍生创作，给您递笔",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/26/d98ffb229db8c857c334fe0caee3522a.jpg",
+              "width": 150,
+              "height": 150,
+              "size": 21821,
+              "format": "jpg"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 32,
+            "gameId": 1,
+            "name": "COS",
+            "description": "正片、场照、试装、道具……欢迎分享",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/18/f4f3b3e755cf11ce2f77ecf7e491d70e.png",
+              "width": 150,
+              "height": 150,
+              "size": 35723,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 5,
+            "gameId": 1,
+            "name": "探索泰拉",
+            "description": "剧情解析、世界观讨论，探索泰拉奥秘",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/26/192d43bc1d274811840b947ca0f5a58a.jpg",
+              "width": 150,
+              "height": 150,
+              "size": 22418,
+              "format": "jpg"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 1,
+            "gameId": 1,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/fec4f6fa8d21260b29b7bcb6db96df47.png",
+              "width": 150,
+              "height": 150,
+              "size": 35400,
+              "format": "png"
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          }
+        ],
+        "quickaccesses": [
+          {
+            "id": 14,
+            "gameId": 1,
+            "name": "签到福利",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/07/13/0357633a18db92bb9a32f256332a0971.png",
+              "width": 120,
+              "height": 120,
+              "size": 2121,
+              "format": "png"
+            },
+            "link": "skland://rn?moduleName=ArknightsGameSignIn",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1693497600,
+            "pcLink": "https://www.skland.com/download?type=checkIn",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1747368000",
+                "endAtTs": "1748188799"
+              }
+            }
+          },
+          {
+            "id": 51,
+            "gameId": 1,
+            "name": "工具箱",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/5d2c710278d3ae6ed1bf7ea52c8ef12f.png",
+              "width": 120,
+              "height": 120,
+              "size": 9580,
+              "format": "png"
+            },
+            "link": "skland://rn?moduleName=Toolbox&gameId=1",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1709539674,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2
+          },
+          {
+            "id": 26,
+            "gameId": 1,
+            "name": "活动战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fthe-masses-travels-record%3Fheader%3D0",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1706780972,
+            "pcLink": "https://www.skland.com/act/ak/the-masses-travels-record?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1746086400",
+                "endAtTs": "1747756800"
+              }
+            }
+          },
+          {
+            "id": 69,
+            "gameId": 1,
+            "name": "养成计算器",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
+              "width": 120,
+              "height": 120,
+              "size": 6779,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1744170644,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          },
+          {
+            "id": 66,
+            "gameId": 1,
+            "name": "干员图鉴",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/28/9ef6ca79dd71f2645d2cc544fc6bd3eb.png",
+              "width": 120,
+              "height": 120,
+              "size": 10595,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 1740710860,
+            "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          },
+          {
+            "id": 70,
+            "gameId": 1,
+            "name": "公招索引",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/09/7c70bfe544484237dde538f8eeadf6d1.png",
+              "width": 120,
+              "height": 120,
+              "size": 10296,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "position": 9,
+            "status": 2,
+            "startAtTs": 1744183630,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          },
+          {
+            "id": 15,
+            "gameId": 1,
+            "name": "WIKI",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/07/13/a47332bc07c087e04228ecbd984ac729.png",
+              "width": 120,
+              "height": 120,
+              "size": 3474,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
+            "position": 12,
+            "status": 2,
+            "startAtTs": 1687858966,
+            "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
+            "pcStatus": 2
+          },
+          {
+            "id": 16,
+            "gameId": 1,
+            "name": "可汗大帐",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/07/31/7e13a9a3c1b4a1079f72de7b9b595df3.png",
+              "width": 120,
+              "height": 120,
+              "size": 12548,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
+            "position": 13,
+            "status": 2,
+            "startAtTs": 1690790209,
+            "pcLink": "https://strategy.skland.com/home",
+            "pcStatus": 2
+          },
+          {
+            "id": 11,
+            "gameId": 1,
+            "name": "塞壬唱片",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
+              "width": 120,
+              "height": 120,
+              "size": 2178,
+              "format": "png"
+            },
+            "link": "https://monster-siren.hypergryph.com/",
+            "position": 16,
+            "status": 2,
+            "startAtTs": 1687854408,
+            "pcLink": "https://monster-siren.hypergryph.com/",
+            "pcStatus": 2
+          }
+        ],
+        "tag": {
+          "id": 474,
+          "name": "明日方舟",
+          "description": "重铸未来，方舟启航。",
+          "status": 1,
+          "cover": "https://bbs.hycdn.cn/image/2023/07/12/f41650d51010e057bc3c211f72a4eeb2.png",
+          "publishAtTs": 1688025829,
+          "createdAtTs": 1688025830,
+          "updatedAtTs": 1689245493,
+          "kind": 1,
+          "bulletinStatus": 0
+        }
+      },
+      {
+        "game": {
+          "gameId": 2,
+          "name": "来自星尘",
+          "iconUrl": "https://bbs.hycdn.cn/asset/games/8a6d6e84e89dc408518aee76cf2a89d1.png",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/exastris_bg.png",
+          "tabIconNor": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_exastris_unsel.png",
+            "width": 285,
+            "height": 84,
+            "size": 5494,
+            "format": "png"
+          },
+          "tabIconSel": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_exastris_sel.png",
+            "width": 300,
+            "height": 84,
+            "size": 5024,
+            "format": "png"
+          },
+          "chineseIconUrl": "https://bbs.hycdn.cn/asset/exastris_zh_cn.svg",
+          "pcIconUrl": "https://bbs.hycdn.cn/asset/ex_astris.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/exastris_pc_bg.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/exastris_pc_underlying.png",
+          "englishIconUrl": "https://bbs.hycdn.cn/asset/exastris_en_us.svg",
+          "backgroundStyle": 1
+        },
+        "cates": [
+          {
+            "id": 15,
+            "gameId": 2,
+            "name": "推荐",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "kind": 30,
+            "allowedViewKinds": [],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 8,
+            "gameId": 2,
+            "name": "论坛",
+            "description": "畅所欲言，聊个痛快！",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/2f2229b1cbbbc20a5e1da88aff559540.png",
+              "width": 150,
+              "height": 150,
+              "size": 18044,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 4,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 23,
+            "gameId": 2,
+            "name": "攻略",
+            "description": "攻略分析数值计算，大佬请指教",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/12/21/ac1efd9d48dae50012cbec05a44e06b8.png",
+              "width": 150,
+              "height": 150,
+              "size": 9290,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 9,
+            "gameId": 2,
+            "name": "同人",
+            "description": "游戏衍生创作，给您递笔",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/84415312c1bbd76d8313afc5a493331a.png",
+              "width": 150,
+              "height": 150,
+              "size": 21320,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 7,
+            "gameId": 2,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/db53fd6a9ba69b7703bb4de353d0ac9f.png",
+              "width": 150,
+              "height": 150,
+              "size": 10604,
+              "format": "png"
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          }
+        ],
+        "quickaccesses": [
+          {
+            "id": 29,
+            "gameId": 2,
+            "name": "游戏下载",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/afa71fc6825177f3c60fbaa1d5f215aa.png",
+              "width": 120,
+              "height": 120,
+              "size": 9188,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fexa-buy%3Fheader%3D0",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1708963200,
+            "pcLink": "https://www.skland.com/act/exa-buy?header=0",
+            "pcStatus": 2
+          },
+          {
+            "id": 50,
+            "gameId": 2,
+            "name": "成就系统",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/56198dfb67cf4fa0b427553df307d0a2.png",
+              "width": 120,
+              "height": 120,
+              "size": 9633,
+              "format": "png"
+            },
+            "link": "skland://rn?moduleName=ExaGameData",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1708963200,
+            "pcLink": "https://www.skland.com/download?type=exa",
+            "pcStatus": 2
+          },
+          {
+            "id": 25,
+            "gameId": 2,
+            "name": "攻略专区",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/1fbf46e0843db08defd52ed612d40abe.png",
+              "width": 120,
+              "height": 120,
+              "size": 12985,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fexa%2Fhome%3Fheader%3D0",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1709178072,
+            "pcLink": "https://www.skland.com/game/exastris?cateId=23",
+            "pcStatus": 2
+          },
+          {
+            "id": 27,
+            "gameId": 2,
+            "name": "旅行日志",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/3b628bb31ecf36135b8dfe862f0af0ee.png",
+              "width": 120,
+              "height": 120,
+              "size": 12081,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fexa.hypergryph.com%2Factivity%2Freiseprotokoll%3Fheader%3D0%26source_from%3Dskland",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1708056000,
+            "pcLink": "https://exa.hypergryph.com/activity/reiseprotokoll?header=0&source_from=skland",
+            "pcStatus": 2
+          },
+          {
+            "id": 24,
+            "gameId": 2,
+            "name": "游戏官网",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/4ac421dc173a8c670ac43f76abf97cd7.png",
+              "width": 120,
+              "height": 120,
+              "size": 11989,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fexa.hypergryph.com%2F",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1706239329,
+            "pcLink": "https://exa.hypergryph.com/",
+            "pcStatus": 2
+          }
+        ],
+        "tag": {
+          "id": 35,
+          "name": "来自星尘",
+          "description": "穿过风暴，越过永恒，祝你旅途愉快",
+          "status": 1,
+          "cover": "https://bbs.hycdn.cn/image/2024/01/26/507bcbc10f9f8f85c1595de45df9b530.png",
+          "publishAtTs": 1687752840,
+          "createdAtTs": 1687752841,
+          "updatedAtTs": 1723000242,
+          "kind": 1,
+          "bulletinStatus": 0
+        }
+      },
+      {
+        "game": {
+          "gameId": 3,
+          "name": "明日方舟：终末地",
+          "iconUrl": "https://bbs.hycdn.cn/asset/endfleld.png",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/endfield_bg.png",
+          "tabIconNor": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_endfleld_unsel.png",
+            "width": 201,
+            "height": 84,
+            "size": 4241,
+            "format": "png"
+          },
+          "tabIconSel": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_endfleld_sel.png",
+            "width": 214,
+            "height": 84,
+            "size": 4242,
+            "format": "png"
+          },
+          "chineseIconUrl": "https://bbs.hycdn.cn/asset/endfield_zh_cn.svg",
+          "pcIconUrl": "https://bbs.hycdn.cn/asset/endfleld.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/c7744f993ad54eeccb72f162413caf88.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/endfield_pc_underlying.png",
+          "englishIconUrl": "https://bbs.hycdn.cn/asset/endfield_en_us.svg",
+          "backgroundStyle": 1
+        },
+        "cates": [
+          {
+            "id": 16,
+            "gameId": 3,
+            "name": "推荐",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "kind": 30,
+            "allowedViewKinds": [],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 11,
+            "gameId": 3,
+            "name": "论坛",
+            "description": "畅所欲言，聊个痛快！",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/3ff860d081f076db3ed0c24b1e0ec07b.png",
+              "width": 150,
+              "height": 150,
+              "size": 7071,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 4,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 10,
+            "gameId": 3,
+            "name": "同人",
+            "description": "游戏衍生创作，给您递笔",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/58d59e53e80a9f141f8b7ba9517d76ca.png",
+              "width": 150,
+              "height": 150,
+              "size": 11797,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 33,
+            "gameId": 3,
+            "name": "COS",
+            "description": "正片、场照、试装、道具……欢迎分享",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/18/1441a88e180f656abf9a0db9e3edf30d.png",
+              "width": 150,
+              "height": 150,
+              "size": 10897,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 12,
+            "gameId": 3,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/f3fed67e8092412c11620befb259f3ab.png",
+              "width": 150,
+              "height": 150,
+              "size": 7403,
+              "format": "png"
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          }
+        ],
+        "quickaccesses": [
+          {
+            "id": 17,
+            "gameId": 3,
+            "name": "游戏预约",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/08/14/e8159f0ea7d58a8c52a601ca8f4fc8c4.png",
+              "width": 120,
+              "height": 120,
+              "size": 1348,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Freservation%3Fheader%3D0",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1698647844,
+            "pcLink": "https://game.skland.com/endfield/reservation",
+            "pcStatus": 2
+          },
+          {
+            "id": 18,
+            "gameId": 3,
+            "name": "角色资料",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/10/30/8467201c3b7a4f4bc92c829c67247b3a.png",
+              "width": 120,
+              "height": 120,
+              "size": 4359,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2459129&viewKind=3",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1698648006,
+            "pcLink": "skland://detail?id=2459129&viewKind=3",
+            "pcStatus": 2
+          },
+          {
+            "id": 20,
+            "gameId": 3,
+            "name": "概念设定",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/11/13/744b62402745f0b651d062f198a37ed4.png",
+              "width": 120,
+              "height": 120,
+              "size": 5285,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2471087&viewKind=3",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1699865274,
+            "pcLink": "skland://detail?id=2471087&viewKind=3",
+            "pcStatus": 2
+          },
+          {
+            "id": 19,
+            "gameId": 3,
+            "name": "最新PV",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/10/30/df8bb28f2796123f1e16fb27aabb141d.png",
+              "width": 120,
+              "height": 120,
+              "size": 3539,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2447309&viewKind=1",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1698648105,
+            "pcLink": "skland://detail?id=2447309&viewKind=1",
+            "pcStatus": 2
+          },
+          {
+            "id": 52,
+            "gameId": 3,
+            "name": "游戏官网",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/08/14/861f2ecc5421b71d2f44541e9b0f6659.png",
+              "width": 120,
+              "height": 120,
+              "size": 3437,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2F",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1723617068,
+            "pcLink": "https://endfield.hypergryph.com/",
+            "pcStatus": 2
+          }
+        ],
+        "tag": {
+          "id": 297,
+          "name": "明日方舟：终末地",
+          "description": "跨越边境，直至前线。",
+          "status": 1,
+          "cover": "https://bbs.hycdn.cn/image/2023/07/12/48aa1c967ae457f8d94c296595c9c3e6.png",
+          "publishAtTs": 1688108766,
+          "createdAtTs": 1687752841,
+          "updatedAtTs": 1689317406,
+          "kind": 1,
+          "bulletinStatus": 0
+        }
+      },
+      {
+        "game": {
+          "gameId": 4,
+          "name": "泡姆泡姆",
+          "iconUrl": "https://bbs.hycdn.cn/asset/popucom.webp",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/popucom_bg.png",
+          "tabIconNor": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_popucom_unsel.png",
+            "width": 219,
+            "height": 84,
+            "size": 6558,
+            "format": "png"
+          },
+          "tabIconSel": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_popucom_sel.png",
+            "width": 234,
+            "height": 84,
+            "size": 5778,
+            "format": "png"
+          },
+          "chineseIconUrl": "https://bbs.hycdn.cn/asset/popucom_zh_cn.svg",
+          "pcIconUrl": "https://bbs.hycdn.cn/asset/popucom.webp",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/popucom_pc_bg.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/popucom_pc_underlying.png",
+          "englishIconUrl": "https://bbs.hycdn.cn/asset/popucom_en_us.svg",
+          "backgroundStyle": 1
+        },
+        "cates": [
+          {
+            "id": 18,
+            "gameId": 4,
+            "name": "推荐",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/26/5ef25645da53303eed34275e21e6c3bb.png",
+              "width": 150,
+              "height": 150,
+              "size": 21682,
+              "format": "png"
+            },
+            "kind": 30,
+            "allowedViewKinds": [],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 19,
+            "gameId": 4,
+            "name": "论坛",
+            "description": "畅所欲言，聊个痛快！",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/09/08/6b20be3f660a3b3fa5d7ecd70c939c21.png",
+              "width": 150,
+              "height": 150,
+              "size": 16356,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              2,
+              3,
+              4,
+              1
+            ],
+            "defaultSortType": 4,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 20,
+            "gameId": 4,
+            "name": "同人",
+            "description": "游戏衍生创作，给您递笔",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/09/08/6c40a008b641eb96e88b6bc08c2841d1.png",
+              "width": 150,
+              "height": 150,
+              "size": 17080,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 22,
+            "gameId": 4,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/09/08/d973576d07faebe303f632dd16433c45.png",
+              "width": 150,
+              "height": 150,
+              "size": 8025,
+              "format": "png"
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          }
+        ],
+        "quickaccesses": [
+          {
+            "id": 55,
+            "gameId": 4,
+            "name": "游戏官网",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/05/fe42cae4f83eb928ccdde2e17ad840c7.png",
+              "width": 120,
+              "height": 120,
+              "size": 7462,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2F",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1725521053,
+            "pcLink": "https://popucom.hypergryph.com/",
+            "pcStatus": 2
+          },
+          {
+            "id": 56,
+            "gameId": 4,
+            "name": "泡噗高手",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/05/9a0e9e700ad99cfff72e8e92d1568422.png",
+              "width": 120,
+              "height": 120,
+              "size": 7698,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpopuu",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1725521095,
+            "pcLink": "https://game.skland.com/popucom/popuu",
+            "pcStatus": 2
+          },
+          {
+            "id": 54,
+            "gameId": 4,
+            "name": "游戏预约",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/05/6538471142cab09b4f28b9710ccaf84c.png",
+              "width": 120,
+              "height": 120,
+              "size": 4732,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Freservation%3Fheader%3D0",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1725521028,
+            "pcLink": "https://game.skland.com/popucom/reservation",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          }
+        ],
+        "tag": {
+          "id": 588,
+          "name": "泡姆泡姆",
+          "description": "带上彩虹的颜色，完成冒险的约定",
+          "status": 1,
+          "cover": "https://bbs.hycdn.cn/image/2023/09/08/7c041d2937bca53e76b84c66f104c503.jpg",
+          "publishAtTs": 1694141700,
+          "createdAtTs": 1693999557,
+          "updatedAtTs": 1694188345,
+          "kind": 1,
+          "bulletinStatus": 0
+        }
+      },
+      {
+        "game": {
+          "gameId": 101,
+          "name": "开拓芯",
+          "iconUrl": "https://bbs.hycdn.cn/asset/openup.webp",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/1d26c8c579a0c283079ffdac4680c0ed.webp",
+          "tabIconNor": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_openup_unsel.webp",
+            "width": 192,
+            "height": 84,
+            "size": 1246,
+            "format": "png"
+          },
+          "tabIconSel": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_openup_sel.webp",
+            "width": 207,
+            "height": 84,
+            "size": 1522,
+            "format": "png"
+          },
+          "chineseIconUrl": "https://bbs.hycdn.cn/asset/openup_zh_cn.svg",
+          "pcIconUrl": "https://bbs.hycdn.cn/asset/openup_pc.webp",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/openup_pc_bg.webp",
+          "englishIconUrl": "https://bbs.hycdn.cn/asset/openup_en_us.svg",
+          "backgroundStyle": 1
+        },
+        "cates": [
+          {
+            "id": 29,
+            "gameId": 101,
+            "name": "推荐",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/04/22/6bfec26e87d72769d22db27c3c1321d9.png",
+              "width": 150,
+              "height": 150,
+              "size": 7728,
+              "format": "png"
+            },
+            "kind": 30,
+            "allowedViewKinds": [],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 27,
+            "gameId": 101,
+            "name": "论坛",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/04/22/5d875d94fbf6afccdd1962444a6c38ff.png",
+              "width": 150,
+              "height": 150,
+              "size": 6235,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              2,
+              3,
+              4,
+              1
+            ],
+            "defaultSortType": 4,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 31,
+            "gameId": 101,
+            "name": "📣资讯",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/12/05/da677011cfc1cc559ff501dfb7260b7f.png",
+              "width": 150,
+              "height": 150,
+              "size": 7728,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 28,
+            "gameId": 101,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/04/22/572150912a596f24786385918089df92.png",
+              "width": 150,
+              "height": 150,
+              "size": 6768,
+              "format": "png"
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          }
+        ],
+        "quickaccesses": [
+          {
+            "id": 64,
+            "gameId": 101,
+            "name": "比赛组队",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/19/019cdf57ce828068feba6efda612b3c7.gif",
+              "width": 120,
+              "height": 120,
+              "size": 46585,
+              "format": "gif"
+            },
+            "link": "skland://tag?id=804",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1736352000,
+            "pcLink": "skland://detail?id=2665505&viewKind=3",
+            "pcStatus": 2
+          },
+          {
+            "id": 57,
+            "gameId": 101,
+            "name": "游戏日报",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/13/91e8584ebe6b51c969cfd7cbacb5e1a7.png",
+              "width": 120,
+              "height": 120,
+              "size": 2888,
+              "format": "png"
+            },
+            "link": "skland://rn?moduleName=Collection&id=61",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1726219370,
+            "pcLink": "https://www.skland.com/download",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1744104660",
+                "endAtTs": "1744387200"
+              }
+            }
+          },
+          {
+            "id": 58,
+            "gameId": 101,
+            "name": "游戏观察站",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/13/6a49c35e0e8b0b0ccfb6f1d9b555b36f.png",
+              "width": 120,
+              "height": 120,
+              "size": 2177,
+              "format": "png"
+            },
+            "link": "skland://rn?moduleName=Collection&id=25",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1726219921,
+            "pcLink": "https://www.skland.com/download",
+            "pcStatus": 2
+          },
+          {
+            "id": 60,
+            "gameId": 101,
+            "name": "芯声热议",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/12/12/965869b57ab16e34a7e3a3dc156d9fae.png",
+              "width": 120,
+              "height": 120,
+              "size": 4351,
+              "format": "png"
+            },
+            "link": "skland://tag?id=868",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1727419360,
+            "pcLink": "skland://detail?id=2442532&viewKind=3",
+            "pcStatus": 2
+          },
+          {
+            "id": 59,
+            "gameId": 101,
+            "name": "账号绑定",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/14/2630e04cfcbf97f6bc02b1fdb780e07f.png",
+              "width": 120,
+              "height": 120,
+              "size": 2310,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2127350&viewKind=3",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1726219988,
+            "pcLink": "skland://detail?id=2127350&viewKind=3",
+            "pcStatus": 2
+          }
+        ],
+        "tag": {
+          "id": 652,
+          "name": "开拓芯",
+          "description": "开拓芯是由鹰角网络发起，旨在鼓励与协助优秀团队进行游戏创作的扶持品牌。",
+          "status": 1,
+          "cover": "https://bbs.hycdn.cn/image/2023/12/07/146d9e0cbdd842a746483b1cb11c8a72.jpg",
+          "publishAtTs": 1701917226,
+          "createdAtTs": 1701917227,
+          "updatedAtTs": 1701917227,
+          "kind": 1,
+          "bulletinStatus": 0
+        }
+      },
+      {
+        "game": {
+          "gameId": 100,
+          "name": "纳斯特港",
+          "iconUrl": "https://bbs.hycdn.cn/asset/6497465ab3e22dfabbcf0baedcf14701.png",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour_spring.png",
+          "tabIconNor": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_nest_unsel.png",
+            "width": 264,
+            "height": 84,
+            "size": 3717,
+            "format": "png"
+          },
+          "tabIconSel": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/tab/tab_nest_sel.png",
+            "width": 279,
+            "height": 84,
+            "size": 3866,
+            "format": "png"
+          },
+          "chineseIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour_zh_cn.svg",
+          "pcIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour_spring_pc.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour_spring_pc_underlying.png",
+          "englishIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour_en_us.svg",
+          "backgroundStyle": 2
+        },
+        "cates": [
+          {
+            "id": 17,
+            "gameId": 100,
+            "name": "推荐",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "kind": 30,
+            "allowedViewKinds": [],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 6,
+            "gameId": 100,
+            "name": "ALL",
+            "description": "友善讨论，和谐共处",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/26/90cc23e9ef328ffff5612d98b3ccd306.jpg",
+              "width": 150,
+              "height": 150,
+              "size": 18756,
+              "format": "jpg"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 4,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 13,
+            "gameId": 100,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/17c2710d23ccbc1e592dc353bdd8d879.png",
+              "width": 150,
+              "height": 150,
+              "size": 28445,
+              "format": "png"
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          }
+        ],
+        "quickaccesses": [],
+        "tag": {
+          "id": 306,
+          "name": "每日水帖",
+          "description": "畅所欲言，聊个痛快！",
+          "status": 1,
+          "cover": "https://bbs.hycdn.cn/image/2023/07/06/1305a0fa8cda4bf06d490b122f4e7705.png",
+          "publishAtTs": 1687752841,
+          "createdAtTs": 1687752841,
+          "updatedAtTs": 1707204154,
+          "kind": 1,
+          "bulletinStatus": 0
+        }
+      }
+    ]
+  }
+}
