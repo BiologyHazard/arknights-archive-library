@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836400",
+  "data": {
+    "id": "char_198_blackd",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30061",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30012",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30022",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30093",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 4
+          },
+          {
+            "id": "30103",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_charge_cost[2]",
+        "name": "冲锋号令·β型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30093",
+                "count": 4
+              },
+              {
+                "id": "30014",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30014",
+                "count": 3
+              },
+              {
+                "id": "30034",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30135",
+                "count": 2
+              },
+              {
+                "id": "30054",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_blackd_2",
+        "name": "冲锋号令·防御",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30103",
+                "count": 3
+              },
+              {
+                "id": "30024",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30024",
+                "count": 2
+              },
+              {
+                "id": "30044",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30115",
+                "count": 2
+              },
+              {
+                "id": "30094",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_blackd",
+        "name": "耐低温通讯设备",
+        "typeName": "sol-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 20000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "30033",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 25000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 15
+              },
+              {
+                "id": "31033",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 30000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 5
+              },
+              {
+                "id": "31053",
+                "count": 6
+              }
+            ]
+          }
+        ],
+        "shiningColor": "yellow"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 15000
+          },
+          {
+            "id": "30062",
+            "count": 1
+          },
+          {
+            "id": "30022",
+            "count": 1
+          },
+          {
+            "id": "3211",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 60000
+          },
+          {
+            "id": "30063",
+            "count": 11
+          },
+          {
+            "id": "30053",
+            "count": 10
+          },
+          {
+            "id": "3212",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836361",
+  "data": {
+    "id": "char_149_scave",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30011",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30022",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30032",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30103",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 4
+          },
+          {
+            "id": "30013",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_charge_cost[2]",
+        "name": "冲锋号令·β型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30103",
+                "count": 3
+              },
+              {
+                "id": "30024",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30024",
+                "count": 2
+              },
+              {
+                "id": "30044",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30115",
+                "count": 2
+              },
+              {
+                "id": "30094",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_scave_2",
+        "name": "冲锋号令·攻击",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30013",
+                "count": 5
+              },
+              {
+                "id": "30034",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30034",
+                "count": 2
+              },
+              {
+                "id": "30054",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30125",
+                "count": 2
+              },
+              {
+                "id": "30084",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_scave",
+        "name": "“专属餐具”",
+        "typeName": "sol-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 20000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "30043",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 25000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 15
+              },
+              {
+                "id": "31023",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 30000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 5
+              },
+              {
+                "id": "30033",
+                "count": 6
+              }
+            ]
+          }
+        ],
+        "shiningColor": "yellow"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 15000
+          },
+          {
+            "id": "30012",
+            "count": 1
+          },
+          {
+            "id": "30022",
+            "count": 1
+          },
+          {
+            "id": "3211",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 60000
+          },
+          {
+            "id": "30073",
+            "count": 20
+          },
+          {
+            "id": "30063",
+            "count": 6
+          },
+          {
+            "id": "3212",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  }
+}

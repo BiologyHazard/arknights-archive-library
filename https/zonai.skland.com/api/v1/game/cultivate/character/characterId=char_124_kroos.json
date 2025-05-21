@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836349",
+  "data": {
+    "id": "char_124_kroos",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30061",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 1
+          },
+          {
+            "id": "30012",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 1
+          },
+          {
+            "id": "30022",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 1
+          },
+          {
+            "id": "30093",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 2
+          },
+          {
+            "id": "30103",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_kroos_1",
+        "name": "二连射·自动",
+        "levelCost": []
+      }
+    ],
+    "equipCost": [],
+    "evolvePhaseCost": []
+  }
+}

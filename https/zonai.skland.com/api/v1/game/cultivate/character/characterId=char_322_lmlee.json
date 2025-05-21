@@ -1,0 +1,449 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836177",
+  "data": {
+    "id": "char_322_lmlee",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30021",
+            "count": 4
+          },
+          {
+            "id": "30041",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30052",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30062",
+            "count": 3
+          },
+          {
+            "id": "30032",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "31043",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "31053",
+            "count": 4
+          },
+          {
+            "id": "30093",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_lmlee_1",
+        "name": "小惩大诫",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31044",
+                "count": 4
+              },
+              {
+                "id": "31023",
+                "count": 7
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30074",
+                "count": 9
+              },
+              {
+                "id": "30094",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30135",
+                "count": 6
+              },
+              {
+                "id": "30104",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_lmlee_2",
+        "name": "驱凶辟邪",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30093",
+                "count": 7
+              },
+              {
+                "id": "30014",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30084",
+                "count": 7
+              },
+              {
+                "id": "30104",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30145",
+                "count": 6
+              },
+              {
+                "id": "31044",
+                "count": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_lmlee_3",
+        "name": "贵客盈门",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31014",
+                "count": 4
+              },
+              {
+                "id": "30013",
+                "count": 11
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31034",
+                "count": 4
+              },
+              {
+                "id": "31014",
+                "count": 8
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "31054",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_lmlee",
+        "name": "“无问吉凶”",
+        "typeName": "mer-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30135",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30115",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30125",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "grey"
+      },
+      {
+        "id": "uniequip_003_lmlee",
+        "name": "“但思善恶”",
+        "typeName": "mer-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30125",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30115",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30135",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 30000
+          },
+          {
+            "id": "30062",
+            "count": 3
+          },
+          {
+            "id": "30042",
+            "count": 8
+          },
+          {
+            "id": "3281",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 180000
+          },
+          {
+            "id": "30115",
+            "count": 4
+          },
+          {
+            "id": "30074",
+            "count": 9
+          },
+          {
+            "id": "3283",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  }
+}

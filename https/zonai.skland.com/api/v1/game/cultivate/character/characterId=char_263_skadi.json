@@ -1,0 +1,449 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836260",
+  "data": {
+    "id": "char_263_skadi",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 4
+          },
+          {
+            "id": "30061",
+            "count": 4
+          },
+          {
+            "id": "30031",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30012",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30022",
+            "count": 4
+          },
+          {
+            "id": "30052",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30053",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "30063",
+            "count": 3
+          },
+          {
+            "id": "30023",
+            "count": 5
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_quickattack[3]",
+        "name": "迅捷打击·γ型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30074",
+                "count": 4
+              },
+              {
+                "id": "30053",
+                "count": 8
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30084",
+                "count": 7
+              },
+              {
+                "id": "30104",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30135",
+                "count": 6
+              },
+              {
+                "id": "30014",
+                "count": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_skadi_2",
+        "name": "跃浪击",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30084",
+                "count": 4
+              },
+              {
+                "id": "30063",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30094",
+                "count": 9
+              },
+              {
+                "id": "30014",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "30014",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_skadi_3",
+        "name": "涌潮悲歌",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30073",
+                "count": 7
+              },
+              {
+                "id": "30094",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30104",
+                "count": 8
+              },
+              {
+                "id": "30024",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "30034",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_003_skadi",
+        "name": "往日残梦",
+        "typeName": "dre-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30135",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30125",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30145",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      },
+      {
+        "id": "uniequip_002_skadi",
+        "name": "潮湿的剑袋",
+        "typeName": "dre-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30125",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30135",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30145",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "grey"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 30000
+          },
+          {
+            "id": "30062",
+            "count": 5
+          },
+          {
+            "id": "30032",
+            "count": 5
+          },
+          {
+            "id": "3221",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 180000
+          },
+          {
+            "id": "30135",
+            "count": 4
+          },
+          {
+            "id": "30014",
+            "count": 9
+          },
+          {
+            "id": "3223",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836275",
+  "data": {
+    "id": "char_4100_caper",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30021",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30032",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30042",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "31063",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 4
+          },
+          {
+            "id": "30093",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_caper_1",
+        "name": "强力击·β型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30104",
+                "count": 1
+              },
+              {
+                "id": "30023",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "31044",
+                "count": 2
+              },
+              {
+                "id": "31034",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30145",
+                "count": 2
+              },
+              {
+                "id": "30074",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_caper_2",
+        "name": "乐趣加倍",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "31054",
+                "count": 1
+              },
+              {
+                "id": "30093",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30084",
+                "count": 2
+              },
+              {
+                "id": "30014",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30155",
+                "count": 2
+              },
+              {
+                "id": "31034",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 15000
+          },
+          {
+            "id": "30032",
+            "count": 1
+          },
+          {
+            "id": "30022",
+            "count": 1
+          },
+          {
+            "id": "3241",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 60000
+          },
+          {
+            "id": "31083",
+            "count": 7
+          },
+          {
+            "id": "30063",
+            "count": 11
+          },
+          {
+            "id": "3242",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  }
+}

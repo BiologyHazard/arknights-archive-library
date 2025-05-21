@@ -1,0 +1,313 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836422",
+  "data": {
+    "id": "char_289_gyuki",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30011",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30022",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30032",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30083",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 4
+          },
+          {
+            "id": "30093",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_heal_self[2]",
+        "name": "生命回复·β型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30083",
+                "count": 3
+              },
+              {
+                "id": "30104",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30104",
+                "count": 2
+              },
+              {
+                "id": "30024",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30135",
+                "count": 2
+              },
+              {
+                "id": "30034",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_gyuki_2",
+        "name": "恶鬼之力",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30093",
+                "count": 4
+              },
+              {
+                "id": "30014",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30014",
+                "count": 3
+              },
+              {
+                "id": "30034",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30115",
+                "count": 2
+              },
+              {
+                "id": "30064",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_gyuki",
+        "name": "断竹插花作品",
+        "typeName": "dre-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 20000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "30093",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 25000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 15
+              },
+              {
+                "id": "30043",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 30000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 5
+              },
+              {
+                "id": "30023",
+                "count": 6
+              }
+            ]
+          }
+        ],
+        "shiningColor": "grey"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 15000
+          },
+          {
+            "id": "30012",
+            "count": 1
+          },
+          {
+            "id": "30062",
+            "count": 1
+          },
+          {
+            "id": "3221",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 60000
+          },
+          {
+            "id": "30023",
+            "count": 10
+          },
+          {
+            "id": "30053",
+            "count": 16
+          },
+          {
+            "id": "3222",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  }
+}

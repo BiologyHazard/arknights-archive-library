@@ -1,0 +1,317 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836343",
+  "data": {
+    "id": "char_108_silent",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 4
+          },
+          {
+            "id": "30041",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30052",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30062",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30093",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 6
+          },
+          {
+            "id": "30103",
+            "count": 2
+          },
+          {
+            "id": "30033",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_heal_up[3]",
+        "name": "治疗强化·γ型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 5
+              },
+              {
+                "id": "30093",
+                "count": 4
+              },
+              {
+                "id": "30014",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30014",
+                "count": 6
+              },
+              {
+                "id": "30034",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 10
+              },
+              {
+                "id": "30115",
+                "count": 4
+              },
+              {
+                "id": "30084",
+                "count": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_silent_2",
+        "name": "医疗无人机",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 5
+              },
+              {
+                "id": "30103",
+                "count": 3
+              },
+              {
+                "id": "30024",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30024",
+                "count": 5
+              },
+              {
+                "id": "30044",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 10
+              },
+              {
+                "id": "30125",
+                "count": 4
+              },
+              {
+                "id": "30094",
+                "count": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_silent",
+        "name": "紧急防卫程序",
+        "typeName": "phy-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 40000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "30094",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 50000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 20
+              },
+              {
+                "id": "30014",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 60000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 8
+              },
+              {
+                "id": "30064",
+                "count": 5
+              }
+            ]
+          }
+        ],
+        "shiningColor": "blue"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 20000
+          },
+          {
+            "id": "30012",
+            "count": 3
+          },
+          {
+            "id": "30042",
+            "count": 4
+          },
+          {
+            "id": "3261",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 120000
+          },
+          {
+            "id": "30013",
+            "count": 18
+          },
+          {
+            "id": "30054",
+            "count": 7
+          },
+          {
+            "id": "3263",
+            "count": 3
+          }
+        ]
+      }
+    ]
+  }
+}

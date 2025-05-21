@@ -1,0 +1,382 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836364",
+  "data": {
+    "id": "char_197_poca",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30021",
+            "count": 5
+          },
+          {
+            "id": "30051",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30032",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30022",
+            "count": 3
+          },
+          {
+            "id": "30042",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30093",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "31023",
+            "count": 4
+          },
+          {
+            "id": "30083",
+            "count": 5
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_atk_up[3]",
+        "name": "攻击力强化·γ型",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31014",
+                "count": 4
+              },
+              {
+                "id": "30013",
+                "count": 11
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31024",
+                "count": 4
+              },
+              {
+                "id": "30104",
+                "count": 8
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30115",
+                "count": 6
+              },
+              {
+                "id": "30084",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_poca_2",
+        "name": "分裂射击",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31023",
+                "count": 4
+              },
+              {
+                "id": "30044",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31014",
+                "count": 9
+              },
+              {
+                "id": "30054",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30135",
+                "count": 6
+              },
+              {
+                "id": "30064",
+                "count": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_poca_3",
+        "name": "雪崩击",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30064",
+                "count": 3
+              },
+              {
+                "id": "30043",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30074",
+                "count": 4
+              },
+              {
+                "id": "30054",
+                "count": 8
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "30104",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_poca",
+        "name": "攻城器械训练装置",
+        "typeName": "sie-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30115",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30135",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30145",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 30000
+          },
+          {
+            "id": "30032",
+            "count": 5
+          },
+          {
+            "id": "30022",
+            "count": 8
+          },
+          {
+            "id": "3241",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 180000
+          },
+          {
+            "id": "30125",
+            "count": 4
+          },
+          {
+            "id": "30064",
+            "count": 6
+          },
+          {
+            "id": "3243",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836387",
+  "data": {
+    "id": "char_264_f12yin",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30021",
+            "count": 4
+          },
+          {
+            "id": "30041",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30052",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30062",
+            "count": 3
+          },
+          {
+            "id": "30032",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30073",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "30083",
+            "count": 3
+          },
+          {
+            "id": "30103",
+            "count": 4
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_f12yin_1",
+        "name": "左勾扫拳",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31024",
+                "count": 4
+              },
+              {
+                "id": "30103",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30074",
+                "count": 4
+              },
+              {
+                "id": "30054",
+                "count": 8
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30135",
+                "count": 6
+              },
+              {
+                "id": "30084",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_f12yin_2",
+        "name": "横扫架势",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31023",
+                "count": 4
+              },
+              {
+                "id": "30044",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30084",
+                "count": 4
+              },
+              {
+                "id": "30064",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30145",
+                "count": 6
+              },
+              {
+                "id": "30094",
+                "count": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_f12yin_3",
+        "name": "震地碎岩击",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31013",
+                "count": 4
+              },
+              {
+                "id": "30054",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30074",
+                "count": 9
+              },
+              {
+                "id": "30094",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "30054",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_f12yin",
+        "name": "“自由的代价”",
+        "typeName": "fgt-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30135",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30115",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30125",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 30000
+          },
+          {
+            "id": "30012",
+            "count": 8
+          },
+          {
+            "id": "30032",
+            "count": 8
+          },
+          {
+            "id": "3221",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 180000
+          },
+          {
+            "id": "30145",
+            "count": 4
+          },
+          {
+            "id": "31014",
+            "count": 8
+          },
+          {
+            "id": "3223",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  }
+}

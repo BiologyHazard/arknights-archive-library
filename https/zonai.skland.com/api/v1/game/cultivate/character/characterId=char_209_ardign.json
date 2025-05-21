@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836222",
+  "data": {
+    "id": "char_209_ardign",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30041",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 1
+          },
+          {
+            "id": "30052",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 1
+          },
+          {
+            "id": "30062",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 1
+          },
+          {
+            "id": "30073",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 2
+          },
+          {
+            "id": "30083",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skcom_heal_self[1]",
+        "name": "生命回复·α型",
+        "levelCost": []
+      }
+    ],
+    "equipCost": [],
+    "evolvePhaseCost": []
+  }
+}

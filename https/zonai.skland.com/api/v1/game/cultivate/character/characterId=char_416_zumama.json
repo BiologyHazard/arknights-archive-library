@@ -1,0 +1,484 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1747836306",
+  "data": {
+    "id": "char_416_zumama",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30011",
+            "count": 4
+          },
+          {
+            "id": "30051",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30062",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30022",
+            "count": 4
+          },
+          {
+            "id": "30052",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "31023",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "31013",
+            "count": 4
+          },
+          {
+            "id": "30063",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_zumama_1",
+        "name": "轻型挂斧",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30074",
+                "count": 4
+              },
+              {
+                "id": "30053",
+                "count": 8
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31024",
+                "count": 7
+              },
+              {
+                "id": "30044",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "30094",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_zumama_2",
+        "name": "震慑劈砍",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30073",
+                "count": 7
+              },
+              {
+                "id": "30094",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30064",
+                "count": 3
+              },
+              {
+                "id": "30044",
+                "count": 6
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "30054",
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_zumama_3",
+        "name": "钢铁意志",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30083",
+                "count": 5
+              },
+              {
+                "id": "30104",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30084",
+                "count": 4
+              },
+              {
+                "id": "30064",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30115",
+                "count": 6
+              },
+              {
+                "id": "31024",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_zumama",
+        "name": "祖玛玛的工具箱",
+        "typeName": "hes-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30125",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30135",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30145",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "grey"
+      },
+      {
+        "id": "uniequip_003_zumama",
+        "name": "“小小的丑东西”",
+        "typeName": "hes-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30125",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30115",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30135",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "grey"
+      },
+      {
+        "id": "uniequip_004_zumama",
+        "name": "森蚺特限证章",
+        "typeName": "ra-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 30000
+          },
+          {
+            "id": "30062",
+            "count": 3
+          },
+          {
+            "id": "30052",
+            "count": 7
+          },
+          {
+            "id": "3231",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 180000
+          },
+          {
+            "id": "30125",
+            "count": 4
+          },
+          {
+            "id": "31014",
+            "count": 7
+          },
+          {
+            "id": "3233",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  }
+}
