@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1747961829",
+  "timestamp": "1747973728",
   "data": {
     "list": [
       {
@@ -1265,7 +1265,7 @@
           {
             "id": 56,
             "gameId": 4,
-            "name": "泡噗高手",
+            "name": "飞喵队长",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/09/05/9a0e9e700ad99cfff72e8e92d1568422.png",
@@ -1274,17 +1274,24 @@
               "size": 7698,
               "format": "png"
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpopuu",
+            "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2Factivity%2Fcapt-kitty%3Fsource_from%3Dskland",
             "position": 2,
             "status": 2,
-            "startAtTs": 1725521095,
-            "pcLink": "https://game.skland.com/popucom/popuu",
-            "pcStatus": 2
+            "startAtTs": 1747972840,
+            "pcLink": "https://popucom.hypergryph.com/activity/capt-kitty?source_from=skland",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1747972916",
+                "endAtTs": "1748620799"
+              }
+            }
           },
           {
             "id": 54,
             "gameId": 4,
-            "name": "游戏预约",
+            "name": "游戏预购",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/09/05/6538471142cab09b4f28b9710ccaf84c.png",
@@ -1293,17 +1300,17 @@
               "size": 4732,
               "format": "png"
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Freservation%3Fheader%3D0",
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpre-order%3Fheader%3D0",
             "position": 3,
             "status": 2,
             "startAtTs": 1725521028,
-            "pcLink": "https://game.skland.com/popucom/reservation",
+            "pcLink": "https://game.skland.com/popucom/pre-order?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1747971670",
+                "endAtTs": "1748534400"
               }
             }
           }
