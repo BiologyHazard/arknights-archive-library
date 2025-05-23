@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1747973728",
+  "timestamp": "1747988166",
   "data": {
     "list": [
       {
@@ -1313,6 +1313,44 @@
                 "endAtTs": "1748534400"
               }
             }
+          },
+          {
+            "id": 72,
+            "gameId": 4,
+            "name": "预购FAQ",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/05/23/93eed2535c627b0b4a4f43b57633318f.png",
+              "width": 120,
+              "height": 120,
+              "size": 5837,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2918612&viewKind=3",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1747975519,
+            "pcLink": "skland://detail?id=2918612&viewKind=3",
+            "pcStatus": 2
+          },
+          {
+            "id": 73,
+            "gameId": 4,
+            "name": "官包福利",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/05/23/433b189a2dba15d39bad9ccc3c57f06e.png",
+              "width": 120,
+              "height": 120,
+              "size": 1598,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2918632&viewKind=3",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1747980458,
+            "pcLink": "skland://detail?id=2918632&viewKind=3",
+            "pcStatus": 2
           }
         ],
         "tag": {
