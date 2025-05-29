@@ -1,5 +1,382 @@
 {
-  "code": 10002,
-  "message": "用户未登录",
-  "timestamp": "1748544718"
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1748544930",
+  "data": {
+    "id": "char_1029_yato2",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30011",
+            "count": 6
+          },
+          {
+            "id": "30061",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30022",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30032",
+            "count": 4
+          },
+          {
+            "id": "30042",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "31053",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "31023",
+            "count": 5
+          },
+          {
+            "id": "30093",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_yato2_1",
+        "name": "鬼人化",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31053",
+                "count": 3
+              },
+              {
+                "id": "31034",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30094",
+                "count": 7
+              },
+              {
+                "id": "30044",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30135",
+                "count": 6
+              },
+              {
+                "id": "31014",
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_yato2_2",
+        "name": "乱舞",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31013",
+                "count": 8
+              },
+              {
+                "id": "30014",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31054",
+                "count": 4
+              },
+              {
+                "id": "31044",
+                "count": 9
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30145",
+                "count": 6
+              },
+              {
+                "id": "30014",
+                "count": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_yato2_3",
+        "name": "空中回旋乱舞",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31054",
+                "count": 4
+              },
+              {
+                "id": "30013",
+                "count": 9
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31024",
+                "count": 8
+              },
+              {
+                "id": "30104",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30155",
+                "count": 6
+              },
+              {
+                "id": "30064",
+                "count": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_yato2",
+        "name": "训练用木桩",
+        "typeName": "exe-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30135",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30125",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30145",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "grey"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 30000
+          },
+          {
+            "id": "30062",
+            "count": 5
+          },
+          {
+            "id": "30032",
+            "count": 5
+          },
+          {
+            "id": "3281",
+            "count": 5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 180000
+          },
+          {
+            "id": "30155",
+            "count": 3
+          },
+          {
+            "id": "30054",
+            "count": 6
+          },
+          {
+            "id": "3283",
+            "count": 4
+          }
+        ]
+      }
+    ]
+  }
 }
