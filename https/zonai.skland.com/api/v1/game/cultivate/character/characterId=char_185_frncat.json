@@ -1,5 +1,313 @@
 {
-  "code": 10003,
-  "message": "请勿修改设备本地时间",
-  "timestamp": "1748665025"
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1748679391",
+  "data": {
+    "id": "char_185_frncat",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "items": [
+          {
+            "id": "3301",
+            "count": 2
+          },
+          {
+            "id": "30051",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30062",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30012",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "items": [
+          {
+            "id": "3302",
+            "count": 3
+          },
+          {
+            "id": "30043",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "items": [
+          {
+            "id": "3303",
+            "count": 4
+          },
+          {
+            "id": "30053",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_frncat_1",
+        "name": "挠伤",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30064",
+                "count": 1
+              },
+              {
+                "id": "30043",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30084",
+                "count": 2
+              },
+              {
+                "id": "30064",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30125",
+                "count": 2
+              },
+              {
+                "id": "30024",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "skchr_frncat_2",
+        "name": "炸毛",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "3303",
+                "count": 2
+              },
+              {
+                "id": "30074",
+                "count": 1
+              },
+              {
+                "id": "30053",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "3303",
+                "count": 4
+              },
+              {
+                "id": "30074",
+                "count": 3
+              },
+              {
+                "id": "30094",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30135",
+                "count": 2
+              },
+              {
+                "id": "30014",
+                "count": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_frncat",
+        "name": "美爪套装二象性",
+        "typeName": "aft-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 20000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "31053",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 25000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 15
+              },
+              {
+                "id": "30063",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 30000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 5
+              },
+              {
+                "id": "30073",
+                "count": 6
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
+    "evolvePhaseCost": [
+      {
+        "level": 1,
+        "items": [
+          {
+            "id": "4001",
+            "count": 15000
+          },
+          {
+            "id": "30062",
+            "count": 1
+          },
+          {
+            "id": "30052",
+            "count": 1
+          },
+          {
+            "id": "3221",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "items": [
+          {
+            "id": "4001",
+            "count": 60000
+          },
+          {
+            "id": "30093",
+            "count": 8
+          },
+          {
+            "id": "30013",
+            "count": 20
+          },
+          {
+            "id": "3222",
+            "count": 5
+          }
+        ]
+      }
+    ]
+  }
 }
