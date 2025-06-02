@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1748852316",
+  "timestamp": "1748867111",
   "data": {
     "list": [
       {
@@ -1381,6 +1381,32 @@
             }
           },
           {
+            "id": 72,
+            "gameId": 4,
+            "name": "FAQ",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/05/23/93eed2535c627b0b4a4f43b57633318f.png",
+              "width": 120,
+              "height": 120,
+              "size": 5837,
+              "format": "png"
+            },
+            "link": "skland://detail?id=2938736&viewKind=3",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1747975519,
+            "pcLink": "skland://detail?id=2938736&viewKind=3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          },
+          {
             "id": 55,
             "gameId": 4,
             "name": "游戏官网",
@@ -1393,7 +1419,7 @@
               "format": "png"
             },
             "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2F",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 1725521053,
             "pcLink": "https://popucom.hypergryph.com/",
@@ -1412,7 +1438,7 @@
               "format": "png"
             },
             "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2Factivity%2Fcapt-kitty%3Fsource_from%3Dskland",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 1747972840,
             "pcLink": "https://popucom.hypergryph.com/activity/capt-kitty?source_from=skland",
