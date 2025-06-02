@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1748826198",
+  "timestamp": "1748838222",
   "data": {
     "list": [
       {
@@ -1150,6 +1150,72 @@
             "billboardOnOff": 1
           },
           {
+            "id": 21,
+            "gameId": 4,
+            "name": "组队",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/b59ea85f8b7917a720307055038ee341.png",
+              "width": 150,
+              "height": 150,
+              "size": 12750,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 34,
+            "gameId": 4,
+            "name": "攻略",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/eb6add40ccb4200160bbe3cd60d54cca.png",
+              "width": 150,
+              "height": 150,
+              "size": 11826,
+              "format": "png"
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
             "id": 20,
             "gameId": 4,
             "name": "同人",
@@ -1218,6 +1284,96 @@
         ],
         "quickaccesses": [
           {
+            "id": 74,
+            "gameId": 4,
+            "name": "组队工具",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/ac3343bfbf20a68483a2099cf1413737.png",
+              "width": 120,
+              "height": 120,
+              "size": 1995,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fteam-building-tools%3Fheader%3D0",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1748833200,
+            "pcLink": "https://game.skland.com/popucom/team-building-tools",
+            "pcStatus": 2
+          },
+          {
+            "id": 75,
+            "gameId": 4,
+            "name": "成就工具",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/6d72f291b2d03bf464e5e4b596525c50.png",
+              "width": 120,
+              "height": 120,
+              "size": 2761,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fachieve%3Fheader%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1748833200,
+            "pcLink": "https://game.skland.com/popucom/achieve",
+            "pcStatus": 2
+          },
+          {
+            "id": 76,
+            "gameId": 4,
+            "name": "游戏购买",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/8be6bb093ede5052711290ee5acbff52.png",
+              "width": 120,
+              "height": 120,
+              "size": 1742,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpurchase%3Fheader%3D0",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1748833200,
+            "pcLink": "https://game.skland.com/popucom/purchase",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1748836800",
+                "endAtTs": "1751299200"
+              }
+            }
+          },
+          {
+            "id": 77,
+            "gameId": 4,
+            "name": "攻略站",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/1af89a1f0f21dd14c3c07ff8e5f345a2.png",
+              "width": 120,
+              "height": 120,
+              "size": 1598,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fpopucom%2Fhome%3Fheader%3D0",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1748833200,
+            "pcLink": "https://strategy.skland.com/popucom/home",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          },
+          {
             "id": 55,
             "gameId": 4,
             "name": "游戏官网",
@@ -1261,70 +1417,6 @@
                 "endAtTs": "1748620799"
               }
             }
-          },
-          {
-            "id": 54,
-            "gameId": 4,
-            "name": "游戏预购",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/09/05/6538471142cab09b4f28b9710ccaf84c.png",
-              "width": 120,
-              "height": 120,
-              "size": 4732,
-              "format": "png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpre-order%3Fheader%3D0",
-            "position": 8,
-            "status": 2,
-            "startAtTs": 1725521028,
-            "pcLink": "https://game.skland.com/popucom/pre-order?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1747971670",
-                "endAtTs": "1748831400"
-              }
-            }
-          },
-          {
-            "id": 72,
-            "gameId": 4,
-            "name": "预购FAQ",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/05/23/93eed2535c627b0b4a4f43b57633318f.png",
-              "width": 120,
-              "height": 120,
-              "size": 5837,
-              "format": "png"
-            },
-            "link": "skland://detail?id=2918612&viewKind=3",
-            "position": 9,
-            "status": 2,
-            "startAtTs": 1747975519,
-            "pcLink": "skland://detail?id=2918612&viewKind=3",
-            "pcStatus": 2
-          },
-          {
-            "id": 73,
-            "gameId": 4,
-            "name": "官包福利",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/05/23/433b189a2dba15d39bad9ccc3c57f06e.png",
-              "width": 120,
-              "height": 120,
-              "size": 1598,
-              "format": "png"
-            },
-            "link": "skland://detail?id=2918632&viewKind=3",
-            "position": 10,
-            "status": 2,
-            "startAtTs": 1747980458,
-            "pcLink": "skland://detail?id=2918632&viewKind=3",
-            "pcStatus": 2
           }
         ],
         "tag": {
