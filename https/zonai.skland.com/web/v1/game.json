@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1748838222",
+  "timestamp": "1748852317",
   "data": {
     "list": [
       {
@@ -1300,7 +1300,14 @@
             "status": 2,
             "startAtTs": 1748833200,
             "pcLink": "https://game.skland.com/popucom/team-building-tools",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1748840149",
+                "endAtTs": "1751299200"
+              }
+            }
           },
           {
             "id": 75,
