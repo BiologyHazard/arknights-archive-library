@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1748924378",
+  "timestamp": "1748938705",
   "data": {
     "list": [
       {
@@ -1326,7 +1326,14 @@
             "status": 2,
             "startAtTs": 1748833200,
             "pcLink": "https://game.skland.com/popucom/achieve",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1748931420",
+                "endAtTs": "1751299200"
+              }
+            }
           },
           {
             "id": 76,
