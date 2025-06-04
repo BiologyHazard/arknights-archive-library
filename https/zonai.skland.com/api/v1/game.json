@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1749025069",
+  "timestamp": "1749039901",
   "data": {
     "list": [
       {
@@ -1457,6 +1457,25 @@
                 "endAtTs": "1748620799"
               }
             }
+          },
+          {
+            "id": 78,
+            "gameId": 4,
+            "name": "泡噗高手",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/06/01/d59d8191407aeaf876ea1d717f9820d9.png",
+              "width": 120,
+              "height": 120,
+              "size": 7698,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpopuu",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 1748833200,
+            "pcLink": "https://game.skland.com/popucom/popuu",
+            "pcStatus": 2
           }
         ],
         "tag": {
