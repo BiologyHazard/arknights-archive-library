@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1749085242",
+  "timestamp": "1749097246",
   "data": {
     "list": [
       {
@@ -308,6 +308,32 @@
             "pcStatus": 2
           },
           {
+            "id": 67,
+            "gameId": 1,
+            "name": "游戏更新",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
+              "width": 120,
+              "height": 120,
+              "size": 505198,
+              "format": "gif"
+            },
+            "link": "skland://gameCenterDetail?appCode=GzD1CpaWgmSq1wew",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1743992280,
+            "pcLink": "skland://detail?id=2699001&viewKind=3",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1749089621",
+                "endAtTs": "1749743999"
+              }
+            }
+          },
+          {
             "id": 69,
             "gameId": 1,
             "name": "养成计算器",
@@ -421,25 +447,6 @@
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
-            "pcStatus": 2
-          },
-          {
-            "id": 11,
-            "gameId": 1,
-            "name": "塞壬唱片",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
-              "width": 120,
-              "height": 120,
-              "size": 2178,
-              "format": "png"
-            },
-            "link": "https://monster-siren.hypergryph.com/",
-            "position": 16,
-            "status": 2,
-            "startAtTs": 1687854408,
-            "pcLink": "https://monster-siren.hypergryph.com/",
             "pcStatus": 2
           }
         ],
