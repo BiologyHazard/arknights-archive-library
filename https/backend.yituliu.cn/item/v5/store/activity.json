@@ -1,5 +1,223 @@
 {
   "code": 200,
   "msg": "操作成功",
-  "data": []
+  "data": [
+    {
+      "endTime": 1750867200000,
+      "actTagArea": [
+        {
+          "tagText": "来源：明日方舟一图流 ark.yituliu.cn 转载需保留本提示",
+          "tagRank": "5"
+        },
+        {
+          "tagText": "模组数据块属不可再生资源，图中数值以红票计价",
+          "tagRank": "4"
+        }
+      ],
+      "imageLink": "image/1924397377901000.jpg",
+      "actPPRBase": 3.0,
+      "actPPRStair": 0.5,
+      "actName": "红丝绒",
+      "actStore": [
+        {
+          "itemArea": 1,
+          "itemId": "30014",
+          "itemName": "提纯源岩",
+          "itemPPR": null,
+          "itemPrice": 25,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 1,
+          "itemId": "30094",
+          "itemName": "五水研磨石",
+          "itemPPR": null,
+          "itemPrice": 35,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 1,
+          "itemId": "31054",
+          "itemName": "切削原液",
+          "itemPPR": null,
+          "itemPrice": 35,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 1,
+          "itemId": "mod_unlock_token",
+          "itemName": "模组数据块",
+          "itemPPR": 2.1759999999999997,
+          "itemPrice": 75,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 1,
+          "itemId": "30155",
+          "itemName": "烧结核凝晶",
+          "itemPPR": null,
+          "itemPrice": 100,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 2,
+          "itemId": "2002",
+          "itemName": "初级作战记录",
+          "itemPPR": 1.82304,
+          "itemPrice": 1,
+          "itemQuantity": 2,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 2,
+          "itemId": "3302",
+          "itemName": "技巧概要·卷2",
+          "itemPPR": 2.0003496255699136,
+          "itemPrice": 2,
+          "itemQuantity": 1,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 2,
+          "itemId": "2003",
+          "itemName": "中级作战记录",
+          "itemPPR": 1.5191999999999999,
+          "itemPrice": 3,
+          "itemQuantity": 2,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 2,
+          "itemId": "3303",
+          "itemName": "技巧概要·卷3",
+          "itemPPR": 2.5428173206397204,
+          "itemPrice": 4,
+          "itemQuantity": 1,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 2,
+          "itemId": "2004",
+          "itemName": "高级作战记录",
+          "itemPPR": 1.82304,
+          "itemPrice": 5,
+          "itemQuantity": 2,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 2,
+          "itemId": "4001",
+          "itemName": "龙门币",
+          "itemPPR": 2.5714285714285716,
+          "itemPrice": 7,
+          "itemQuantity": 5000,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 2,
+          "itemId": "30023",
+          "itemName": "糖组",
+          "itemPPR": null,
+          "itemPrice": 8,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 2,
+          "itemId": "30053",
+          "itemName": "酮凝集组",
+          "itemPPR": null,
+          "itemPrice": 10,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 3,
+          "itemId": "30012",
+          "itemName": "固源岩",
+          "itemPPR": null,
+          "itemPrice": 2,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 3,
+          "itemId": "30022",
+          "itemName": "糖",
+          "itemPPR": null,
+          "itemPrice": 3,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 3,
+          "itemId": "30032",
+          "itemName": "聚酸酯",
+          "itemPPR": null,
+          "itemPrice": 3,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 3,
+          "itemId": "30052",
+          "itemName": "酮凝集",
+          "itemPPR": null,
+          "itemPrice": 3,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 3,
+          "itemId": "30062",
+          "itemName": "装置",
+          "itemPPR": null,
+          "itemPrice": 4,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 3,
+          "itemId": "3251",
+          "itemName": "术师芯片",
+          "itemPPR": null,
+          "itemPrice": 6,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 4,
+          "itemId": "4001",
+          "itemName": "龙门币",
+          "itemPPR": 0.072,
+          "itemPrice": 1,
+          "itemQuantity": 20,
+          "itemStock": 0
+        },
+        {
+          "itemArea": 4,
+          "itemId": "30073",
+          "itemName": "扭转醇",
+          "itemPPR": 0.07200000000000001,
+          "itemPrice": 25,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 4,
+          "itemId": "30083",
+          "itemName": "轻锰矿",
+          "itemPPR": null,
+          "itemPrice": 30,
+          "itemQuantity": 1,
+          "itemStock": null
+        }
+      ]
+    }
+  ]
 }

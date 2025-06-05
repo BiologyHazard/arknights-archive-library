@@ -4,6 +4,110 @@
   "data": {
     "ACT": [
       {
+        "zoneName": "红丝绒",
+        "zoneId": "act43side_zone1",
+        "stageType": "ACT",
+        "endTime": "2025-06-18T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act43side_01",
+            "stageCode": "AD-1",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 3.5,
+            "minClearTime": 154500
+          },
+          {
+            "stageId": "act43side_02",
+            "stageCode": "AD-2",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 3.65,
+            "minClearTime": 148000
+          },
+          {
+            "stageId": "act43side_03",
+            "stageCode": "AD-3",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 5.76,
+            "minClearTime": 125000
+          },
+          {
+            "stageId": "act43side_04",
+            "stageCode": "AD-4",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 4.42,
+            "minClearTime": 163000
+          },
+          {
+            "stageId": "act43side_05",
+            "stageCode": "AD-5",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 5.07,
+            "minClearTime": 142000
+          },
+          {
+            "stageId": "act43side_06",
+            "stageCode": "AD-6",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 7.0,
+            "minClearTime": 180000
+          },
+          {
+            "stageId": "act43side_07",
+            "stageCode": "AD-7",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 5.89,
+            "minClearTime": 214000
+          },
+          {
+            "stageId": "act43side_08",
+            "stageCode": "AD-8",
+            "zoneId": "act43side_zone1",
+            "zoneName": "红丝绒",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-06-05 16:00:00",
+            "endTime": "2025-06-19 04:00:00",
+            "spm": 9.92,
+            "minClearTime": 127000
+          }
+        ]
+      },
+      {
         "zoneName": "众生行记",
         "zoneId": "act42side_zone1",
         "stageType": "ACT",
