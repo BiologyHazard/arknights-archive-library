@@ -6365,5 +6365,45 @@
       "act42side_09",
       "act42side_10"
     ]
+  },
+  {
+    "zoneId": "act43side_zone1",
+    "zoneIndex": 1093,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "红丝绒",
+    "zoneName_i18n": {
+      "en": "红丝绒",
+      "ja": "红丝绒",
+      "ko": "红丝绒",
+      "zh": "红丝绒"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1749110400000,
+        "closeTime": 1750276800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act43side_01",
+      "act43side_02",
+      "act43side_03",
+      "act43side_04",
+      "act43side_05",
+      "act43side_06",
+      "act43side_07",
+      "act43side_08"
+    ]
   }
 ]

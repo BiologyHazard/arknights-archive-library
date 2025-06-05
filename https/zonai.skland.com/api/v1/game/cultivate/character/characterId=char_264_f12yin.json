@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1749097566",
+  "timestamp": "1749111695",
   "data": {
     "id": "char_264_f12yin",
     "mainSkillLevelCost": [
@@ -266,6 +266,73 @@
       }
     ],
     "equipCost": [
+      {
+        "id": "uniequip_003_f12yin",
+        "name": "“夜深人静”",
+        "typeName": "fgt-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30115",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30135",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30155",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "yellow"
+      },
       {
         "id": "uniequip_002_f12yin",
         "name": "“自由的代价”",

@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1749097363",
+  "timestamp": "1749111549",
   "data": {
     "id": "char_4132_ascln",
     "mainSkillLevelCost": [
@@ -332,6 +332,73 @@
           }
         ],
         "shiningColor": "grey"
+      },
+      {
+        "id": "uniequip_003_ascln",
+        "name": "“阿斯卡纶的眼睛”",
+        "typeName": "amb-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30155",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30145",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30165",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "yellow"
       }
     ],
     "evolvePhaseCost": [
