@@ -5998,9 +5998,9 @@
     "subType": null,
     "zoneName": "出苍白海",
     "zoneName_i18n": {
-      "en": "出苍白海",
-      "ja": "出苍白海",
-      "ko": "出苍白海",
+      "en": "Exodus From The Pale Sea",
+      "ja": "白き海の彼方へ",
+      "ko": "창백한 바다로부터의 탈출",
       "zh": "出苍白海"
     },
     "existence": {
@@ -6010,13 +6010,19 @@
         "closeTime": 1734552000000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1749106800000,
+        "closeTime": 1750273200000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1749106800000,
+        "closeTime": 1750273200000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1749142800000,
+        "closeTime": 1750330800000
       }
     },
     "background": null,
