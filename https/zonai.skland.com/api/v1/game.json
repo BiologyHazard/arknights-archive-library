@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1749457120",
+  "timestamp": "1749471884",
   "data": {
     "list": [
       {
@@ -1704,7 +1704,7 @@
           {
             "id": 64,
             "gameId": 101,
-            "name": "比赛组队",
+            "name": "试玩投票",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2025/02/19/019cdf57ce828068feba6efda612b3c7.gif",
@@ -1713,12 +1713,19 @@
               "size": 46585,
               "format": "gif"
             },
-            "link": "skland://tag?id=804",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fcoreblazer%2Fcreate-fes%3Fheader%3D0",
             "position": 1,
             "status": 2,
             "startAtTs": 1736352000,
-            "pcLink": "skland://detail?id=2665505&viewKind=3",
-            "pcStatus": 2
+            "pcLink": "https://act.skland.com/coreblazer/create-fes",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
           },
           {
             "id": 57,
