@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1749702003",
+  "timestamp": "1749716247",
   "data": {
     "list": [
       {
@@ -412,25 +412,6 @@
             }
           },
           {
-            "id": 9,
-            "gameId": 1,
-            "name": "游戏数据",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/12/26/4122afbfab6c6be4895fc25b56655eaa.png",
-              "width": 120,
-              "height": 120,
-              "size": 2595,
-              "format": "png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-data%3Fheader%3D0",
-            "position": 9,
-            "status": 2,
-            "startAtTs": 1687854240,
-            "pcLink": "https://game.skland.com/arknights/game-data?header=0",
-            "pcStatus": 2
-          },
-          {
             "id": 70,
             "gameId": 1,
             "name": "公招索引",
@@ -492,6 +473,25 @@
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
+            "pcStatus": 2
+          },
+          {
+            "id": 11,
+            "gameId": 1,
+            "name": "塞壬唱片",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
+              "width": 120,
+              "height": 120,
+              "size": 2178,
+              "format": "png"
+            },
+            "link": "https://monster-siren.hypergryph.com/",
+            "position": 16,
+            "status": 2,
+            "startAtTs": 1687854408,
+            "pcLink": "https://monster-siren.hypergryph.com/",
             "pcStatus": 2
           }
         ],
