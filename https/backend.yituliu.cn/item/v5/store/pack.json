@@ -2798,32 +2798,22 @@
     },
     {
       "id": 1636815033650100,
-      "officialName": "测试礼包",
-      "displayName": "测试礼包",
-      "price": 30.0,
+      "officialName": "测试-技巧集礼包-5-4",
+      "displayName": "测试-技巧集礼包-5-4",
+      "price": 98.0,
       "saleType": "activity",
-      "tags": "no data",
+      "tags": "",
       "imageName": null,
       "imageLink": null,
       "gachaTicket": 0,
       "tenGachaTicket": 0,
-      "originium": 0,
+      "originium": 12,
       "orundum": 0,
       "packContent": [
         {
-          "itemName": "医疗芯片组",
-          "itemId": "3262",
-          "quantity": 8
-        },
-        {
-          "itemName": "辅助芯片",
-          "itemId": "3271",
-          "quantity": 5
-        },
-        {
-          "itemName": "芯片助剂",
-          "itemId": "32001",
-          "quantity": 4
+          "itemName": "高级资深干员技巧集",
+          "itemId": "1654442019480100",
+          "quantity": 1
         }
       ],
       "start": 1562428800000,
@@ -10954,8 +10944,8 @@
           "quantity": 1
         },
         {
-          "itemName": "资深干员特训装置",
-          "itemId": "1521562703490100",
+          "itemName": "专业干员特训装置",
+          "itemId": "1934834757761000",
           "quantity": 2
         }
       ],
@@ -11019,6 +11009,35 @@
       ],
       "start": 1750694400000,
       "end": 1751904000000,
+      "note": ""
+    },
+    {
+      "id": 1934848945281000,
+      "officialName": "测试-技巧集礼包-4",
+      "displayName": "测试-技巧集礼包-4",
+      "price": 98.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": null,
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 12,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "高级资深干员技巧集",
+          "itemId": "1654442019480100",
+          "quantity": 1
+        },
+        {
+          "itemName": "资深干员技巧集",
+          "itemId": "1654442784200100",
+          "quantity": 1
+        }
+      ],
+      "start": 1562428800000,
+      "end": 1562428800000,
       "note": ""
     }
   ]
