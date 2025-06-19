@@ -4990,6 +4990,122 @@
     ],
     "ACT_REP": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act34sre_zone1",
+        "stageType": "ACT_REP",
+        "endTime": "2025-06-28T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act34side_01_rep",
+            "stageCode": "BP-1",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 3.29,
+            "minClearTime": 164000
+          },
+          {
+            "stageId": "act34side_02_rep",
+            "stageCode": "BP-2",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 2.81,
+            "minClearTime": 192000
+          },
+          {
+            "stageId": "act34side_03_rep",
+            "stageCode": "BP-3",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 3.62,
+            "minClearTime": 199000
+          },
+          {
+            "stageId": "act34side_04_rep",
+            "stageCode": "BP-4",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 3.78,
+            "minClearTime": 190500
+          },
+          {
+            "stageId": "act34side_05_rep",
+            "stageCode": "BP-5",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 6.74,
+            "minClearTime": 187000
+          },
+          {
+            "stageId": "act34side_06_rep",
+            "stageCode": "BP-6",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 7.5,
+            "minClearTime": 168000
+          },
+          {
+            "stageId": "act34side_07_rep",
+            "stageCode": "BP-7",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 6.6,
+            "minClearTime": 191000
+          },
+          {
+            "stageId": "act34side_08_rep",
+            "stageCode": "BP-8",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 10,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 2.26,
+            "minClearTime": 265000
+          },
+          {
+            "stageId": "act34side_09_rep",
+            "stageCode": "BP-9",
+            "zoneId": "act34sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 10,
+            "stageType": "ACT_REP",
+            "startTime": "2025-06-19 16:00:00",
+            "endTime": "2025-06-29 04:00:00",
+            "spm": 3.7,
+            "minClearTime": 162000
+          }
+        ]
+      },
+      {
         "zoneName": "巴别塔·复刻",
         "zoneId": "act33sre_zone1",
         "stageType": "ACT_REP",
