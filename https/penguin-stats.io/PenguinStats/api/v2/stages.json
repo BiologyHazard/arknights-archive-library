@@ -111184,5 +111184,733 @@
       }
     },
     "minClearTime": 127000
+  },
+  {
+    "stageId": "act34side_01_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-1",
+    "code_i18n": {
+      "en": "BP-1",
+      "ja": "BP-1",
+      "ko": "BP-1",
+      "zh": "BP-1"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 164000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_02_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-2",
+    "code_i18n": {
+      "en": "BP-2",
+      "ja": "BP-2",
+      "ko": "BP-2",
+      "zh": "BP-2"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 192000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_03_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-3",
+    "code_i18n": {
+      "en": "BP-3",
+      "ja": "BP-3",
+      "ko": "BP-3",
+      "zh": "BP-3"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 199000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30042",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30052",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_04_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-4",
+    "code_i18n": {
+      "en": "BP-4",
+      "ja": "BP-4",
+      "ko": "BP-4",
+      "zh": "BP-4"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 190500,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30012",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30032",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_05_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-5",
+    "code_i18n": {
+      "en": "BP-5",
+      "ja": "BP-5",
+      "ko": "BP-5",
+      "zh": "BP-5"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 187000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "31033",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_06_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-6",
+    "code_i18n": {
+      "en": "BP-6",
+      "ja": "BP-6",
+      "ko": "BP-6",
+      "zh": "BP-6"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 168000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30023",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_07_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-7",
+    "code_i18n": {
+      "en": "BP-7",
+      "ja": "BP-7",
+      "ko": "BP-7",
+      "zh": "BP-7"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 191000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30073",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_08_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-8",
+    "code_i18n": {
+      "en": "BP-8",
+      "ja": "BP-8",
+      "ko": "BP-8",
+      "zh": "BP-8"
+    },
+    "apCost": 10,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 265000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act34side_09_rep",
+    "zoneId": "act34sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BP-9",
+    "code_i18n": {
+      "en": "BP-9",
+      "ja": "BP-9",
+      "ko": "BP-9",
+      "zh": "BP-9"
+    },
+    "apCost": 10,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1750320000000,
+        "closeTime": 1751140800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 162000,
+    "recognitionOnly": [
+      "act34side_token_chip_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
   }
 ]
