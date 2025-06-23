@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1750666731",
+  "timestamp": "1750681583",
   "data": {
     "list": [
       {
@@ -330,32 +330,6 @@
               "timeRange": {
                 "startAtTs": "1749125700",
                 "endAtTs": "1749657600"
-              }
-            }
-          },
-          {
-            "id": 67,
-            "gameId": 1,
-            "name": "游戏更新",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
-              "width": 120,
-              "height": 120,
-              "size": 505198,
-              "format": "gif"
-            },
-            "link": "skland://gameCenterDetail?appCode=GzD1CpaWgmSq1wew",
-            "position": 5,
-            "status": 2,
-            "startAtTs": 1743992280,
-            "pcLink": "skland://detail?id=2699001&viewKind=3",
-            "pcStatus": 1,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1749089621",
-                "endAtTs": "1749743999"
               }
             }
           },
