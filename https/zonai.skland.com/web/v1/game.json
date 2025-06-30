@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1751257666",
+  "timestamp": "1751271515",
   "data": {
     "list": [
       {
@@ -472,7 +472,9 @@
           "createdAtTs": 1688025830,
           "updatedAtTs": 1689245493,
           "kind": 1,
-          "bulletinStatus": 0
+          "bulletinStatus": 0,
+          "isGameEvent": false,
+          "defaultViewKind": 3
         }
       },
       {
@@ -773,7 +775,9 @@
           "createdAtTs": 1687752841,
           "updatedAtTs": 1723000242,
           "kind": 1,
-          "bulletinStatus": 0
+          "bulletinStatus": 0,
+          "isGameEvent": false,
+          "defaultViewKind": 3
         }
       },
       {
@@ -1074,7 +1078,9 @@
           "createdAtTs": 1687752841,
           "updatedAtTs": 1689317406,
           "kind": 1,
-          "bulletinStatus": 0
+          "bulletinStatus": 0,
+          "isGameEvent": false,
+          "defaultViewKind": 3
         }
       },
       {
@@ -1507,7 +1513,9 @@
           "createdAtTs": 1693999557,
           "updatedAtTs": 1694188345,
           "kind": 1,
-          "bulletinStatus": 0
+          "bulletinStatus": 0,
+          "isGameEvent": false,
+          "defaultViewKind": 3
         }
       },
       {
@@ -1788,7 +1796,9 @@
           "createdAtTs": 1701917227,
           "updatedAtTs": 1701917227,
           "kind": 1,
-          "bulletinStatus": 0
+          "bulletinStatus": 0,
+          "isGameEvent": false,
+          "defaultViewKind": 3
         }
       },
       {
@@ -1927,7 +1937,9 @@
           "createdAtTs": 1687752841,
           "updatedAtTs": 1707204154,
           "kind": 1,
-          "bulletinStatus": 0
+          "bulletinStatus": 0,
+          "isGameEvent": false,
+          "defaultViewKind": 3
         }
       }
     ]
