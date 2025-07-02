@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "1023",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2025-07-03",
+        "updatedAt": 1750737560,
+        "sticky": false
+      },
+      {
         "cid": "2995",
         "title": "「镜中集」\\n活动即将开启",
         "category": 1,
@@ -37,43 +45,11 @@
         "sticky": false
       },
       {
-        "cid": "1024",
-        "title": "【时代】系列\\n限时复刻上架",
-        "category": 1,
-        "displayTime": "2025-06-19",
-        "updatedAt": 1750321143,
-        "sticky": false
-      },
-      {
-        "cid": "2996",
-        "title": "【时代】系列\\n新装限时上架",
-        "category": 1,
-        "displayTime": "2025-06-19",
-        "updatedAt": 1750321069,
-        "sticky": false
-      },
-      {
-        "cid": "3315",
-        "title": "沉向深渊的锚\\n复刻寻访开启",
-        "category": 1,
-        "displayTime": "2025-06-19",
-        "updatedAt": 1750320937,
-        "sticky": false
-      },
-      {
         "cid": "9187",
         "title": "非人声干员\\n配音幕后",
         "category": 4,
         "displayTime": "2025-06-19",
         "updatedAt": 1750403141,
-        "sticky": false
-      },
-      {
-        "cid": "3316",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2025-06-19",
-        "updatedAt": 1749623119,
         "sticky": false
       },
       {
@@ -127,7 +103,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "1023"
     }
   }
 }
