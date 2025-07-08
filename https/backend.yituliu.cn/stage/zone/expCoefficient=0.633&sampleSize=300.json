@@ -8572,6 +8572,110 @@
     ],
     "ACT_MINI": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act19mini_zone1",
+        "stageType": "ACT_MINI",
+        "endTime": "2025-07-14T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act19mini_01",
+            "stageCode": "FM-1",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 5.05,
+            "minClearTime": 107000
+          },
+          {
+            "stageId": "act19mini_02",
+            "stageCode": "FM-2",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 4.12,
+            "minClearTime": 131000
+          },
+          {
+            "stageId": "act19mini_03",
+            "stageCode": "FM-3",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 3.98,
+            "minClearTime": 181000
+          },
+          {
+            "stageId": "act19mini_04",
+            "stageCode": "FM-4",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 3.71,
+            "minClearTime": 194000
+          },
+          {
+            "stageId": "act19mini_05",
+            "stageCode": "FM-5",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 15,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 5.26,
+            "minClearTime": 171000
+          },
+          {
+            "stageId": "act19mini_06",
+            "stageCode": "FM-6",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 15,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 6.16,
+            "minClearTime": 146000
+          },
+          {
+            "stageId": "act19mini_07",
+            "stageCode": "FM-7",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 5.97,
+            "minClearTime": 211000
+          },
+          {
+            "stageId": "act19mini_08",
+            "stageCode": "FM-8",
+            "zoneId": "act19mini_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_MINI",
+            "startTime": "2025-07-08 16:00:00",
+            "endTime": "2025-07-15 04:00:00",
+            "spm": 7.0,
+            "minClearTime": 180000
+          }
+        ]
+      },
+      {
         "zoneName": "我们明日见",
         "zoneId": "act18mini_zone1",
         "stageType": "ACT_MINI",

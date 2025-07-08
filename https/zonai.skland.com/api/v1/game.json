@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1751962697",
+  "timestamp": "1751977570",
   "data": {
     "list": [
       {
@@ -305,7 +305,14 @@
             "status": 2,
             "startAtTs": 1709539674,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1751975399",
+                "endAtTs": "1752422399"
+              }
+            }
           },
           {
             "id": 67,
