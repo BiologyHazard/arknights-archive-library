@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1751936557",
+  "timestamp": "1751948615",
   "data": {
     "list": [
       {
@@ -308,6 +308,32 @@
             "pcStatus": 2
           },
           {
+            "id": 67,
+            "gameId": 1,
+            "name": "游戏更新",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
+              "width": 120,
+              "height": 120,
+              "size": 505198,
+              "format": "gif"
+            },
+            "link": "skland://gameCenterDetail?appCode=GzD1CpaWgmSq1wew",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1743992280,
+            "pcLink": "skland://detail?id=2699001&viewKind=3",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1751941140",
+                "endAtTs": "1752508799"
+              }
+            }
+          },
+          {
             "id": 9,
             "gameId": 1,
             "name": "游戏数据",
@@ -320,7 +346,7 @@
               "format": "png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-data%3Fheader%3D0",
-            "position": 4,
+            "position": 5,
             "status": 2,
             "startAtTs": 1687854240,
             "pcLink": "https://game.skland.com/arknights/game-data?header=0",
@@ -440,25 +466,6 @@
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
-            "pcStatus": 2
-          },
-          {
-            "id": 11,
-            "gameId": 1,
-            "name": "塞壬唱片",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
-              "width": 120,
-              "height": 120,
-              "size": 2178,
-              "format": "png"
-            },
-            "link": "https://monster-siren.hypergryph.com/",
-            "position": 16,
-            "status": 2,
-            "startAtTs": 1687854408,
-            "pcLink": "https://monster-siren.hypergryph.com/",
             "pcStatus": 2
           }
         ],
