@@ -6056,13 +6056,19 @@
         "closeTime": 1735416000000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1750402800000,
+        "closeTime": 1751223600000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1750402800000,
+        "closeTime": 1751223600000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1750438800000,
+        "closeTime": 1751281200000
       }
     },
     "background": null,
@@ -6177,13 +6183,19 @@
         "closeTime": 1741204800000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1751526000000,
+        "closeTime": 1752346800000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1751526000000,
+        "closeTime": 1752346800000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1751562000000,
+        "closeTime": 1752404400000
       }
     },
     "background": null,
@@ -6451,6 +6463,46 @@
       "act34side_07_rep",
       "act34side_08_rep",
       "act34side_09_rep"
+    ]
+  },
+  {
+    "zoneId": "act19mini_zone1",
+    "zoneIndex": 1095,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "镜中集",
+    "zoneName_i18n": {
+      "en": "镜中集",
+      "ja": "镜中集",
+      "ko": "镜中集",
+      "zh": "镜中集"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1751961600000,
+        "closeTime": 1752523200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act19mini_01",
+      "act19mini_02",
+      "act19mini_03",
+      "act19mini_04",
+      "act19mini_05",
+      "act19mini_06",
+      "act19mini_07",
+      "act19mini_08"
     ]
   }
 ]
