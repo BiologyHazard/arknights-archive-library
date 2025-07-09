@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1752035280",
+  "timestamp": "1752049064",
   "data": {
     "list": [
       {
@@ -473,6 +473,25 @@
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
+            "pcStatus": 2
+          },
+          {
+            "id": 11,
+            "gameId": 1,
+            "name": "塞壬唱片",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
+              "width": 120,
+              "height": 120,
+              "size": 2178,
+              "format": "png"
+            },
+            "link": "https://monster-siren.hypergryph.com/",
+            "position": 16,
+            "status": 2,
+            "startAtTs": 1687854408,
+            "pcLink": "https://monster-siren.hypergryph.com/",
             "pcStatus": 2
           }
         ],
