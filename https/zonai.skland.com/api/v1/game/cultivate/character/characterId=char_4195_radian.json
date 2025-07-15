@@ -1,0 +1,113 @@
+{
+  "code": 0,
+  "message": "OK",
+  "timestamp": "1752567657",
+  "data": {
+    "id": "char_4195_radian",
+    "mainSkillLevelCost": [
+      {
+        "level": 2,
+        "items": []
+      },
+      {
+        "level": 3,
+        "items": []
+      },
+      {
+        "level": 4,
+        "items": []
+      },
+      {
+        "level": 5,
+        "items": []
+      },
+      {
+        "level": 6,
+        "items": []
+      },
+      {
+        "level": 7,
+        "items": []
+      }
+    ],
+    "skillCost": [
+      {
+        "id": "skchr_radian_1",
+        "name": "律动线",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": []
+          },
+          {
+            "level": 2,
+            "items": []
+          },
+          {
+            "level": 3,
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "skchr_radian_2",
+        "name": "环形鳞地",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": []
+          },
+          {
+            "level": 2,
+            "items": []
+          },
+          {
+            "level": 3,
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": "skchr_radian_3",
+        "name": "手牵手",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": []
+          },
+          {
+            "level": 2,
+            "items": []
+          },
+          {
+            "level": 3,
+            "items": []
+          }
+        ]
+      }
+    ],
+    "equipCost": [
+      {
+        "id": "uniequip_002_radian",
+        "name": "电弧特勤证章",
+        "typeName": "so-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": []
+          },
+          {
+            "level": 2,
+            "items": []
+          },
+          {
+            "level": 3,
+            "items": []
+          }
+        ],
+        "shiningColor": "purple"
+      }
+    ],
+    "evolvePhaseCost": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1752553987",
+  "timestamp": "1752567509",
   "data": {
     "list": [
       {
@@ -360,6 +360,32 @@
             "pcStatus": 2
           },
           {
+            "id": 65,
+            "gameId": 1,
+            "name": "集成战略战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "width": 120,
+              "height": 120,
+              "size": 2727,
+              "format": "png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1752566400,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          },
+          {
             "id": 69,
             "gameId": 1,
             "name": "养成计算器",
@@ -473,25 +499,6 @@
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
-            "pcStatus": 2
-          },
-          {
-            "id": 11,
-            "gameId": 1,
-            "name": "塞壬唱片",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
-              "width": 120,
-              "height": 120,
-              "size": 2178,
-              "format": "png"
-            },
-            "link": "https://monster-siren.hypergryph.com/",
-            "position": 16,
-            "status": 2,
-            "startAtTs": 1687854408,
-            "pcLink": "https://monster-siren.hypergryph.com/",
             "pcStatus": 2
           }
         ],
