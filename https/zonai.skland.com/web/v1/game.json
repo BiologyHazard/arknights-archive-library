@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1752567509",
+  "timestamp": "1752582412",
   "data": {
     "list": [
       {
@@ -378,10 +378,10 @@
             "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1752577800",
+                "endAtTs": "1753200000"
               }
             }
           },
@@ -1563,7 +1563,7 @@
           "gameId": 101,
           "name": "开拓芯",
           "iconUrl": "https://bbs.hycdn.cn/asset/openup.webp",
-          "backgroundUrl": "https://bbs.hycdn.cn/asset/1d26c8c579a0c283079ffdac4680c0ed.webp",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/background/openup/app.png",
           "tabIconNor": {
             "id": "",
             "url": "https://bbs.hycdn.cn/asset/tab/tab_openup_unsel.webp",
@@ -1582,7 +1582,8 @@
           },
           "chineseIconUrl": "https://bbs.hycdn.cn/asset/openup_zh_cn.svg",
           "pcIconUrl": "https://bbs.hycdn.cn/asset/openup_pc.webp",
-          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/openup_pc_bg.webp",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/openup/pc.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/openup/pc_underlying.png",
           "englishIconUrl": "https://bbs.hycdn.cn/asset/openup_en_us.svg",
           "backgroundStyle": 1
         },
