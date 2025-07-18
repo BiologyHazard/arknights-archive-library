@@ -6090,9 +6090,9 @@
     "subType": null,
     "zoneName": "相见欢",
     "zoneName_i18n": {
-      "en": "相见欢",
-      "ja": "相见欢",
-      "ko": "相见欢",
+      "en": "Such is the Joy of Our Reunion",
+      "ja": "相見歓",
+      "ko": "상견환",
       "zh": "相见欢"
     },
     "existence": {
@@ -6102,13 +6102,19 @@
         "closeTime": 1739304000000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1752735600000,
+        "closeTime": 1754506800000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1752735600000,
+        "closeTime": 1754506800000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1752771600000,
+        "closeTime": 1754564400000
       }
     },
     "background": null,
