@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1753532598",
+  "timestamp": "1753546484",
   "data": {
     "list": [
       {
@@ -1796,7 +1796,7 @@
           {
             "id": 60,
             "gameId": 101,
-            "name": "芯声热议",
+            "name": "创享一夏",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/12/12/965869b57ab16e34a7e3a3dc156d9fae.png",
@@ -1805,12 +1805,19 @@
               "size": 4351,
               "format": "png"
             },
-            "link": "skland://tag?id=868",
+            "link": "skland://tag?id=1056",
             "position": 4,
             "status": 2,
             "startAtTs": 1727419360,
-            "pcLink": "skland://detail?id=2442532&viewKind=3",
-            "pcStatus": 2
+            "pcLink": "skland://detail?id=2961486&viewKind=3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1753533250",
+                "endAtTs": "1753631999"
+              }
+            }
           },
           {
             "id": 59,
