@@ -6510,5 +6510,45 @@
       "act19mini_07",
       "act19mini_08"
     ]
+  },
+  {
+    "zoneId": "act44side_zone1",
+    "zoneIndex": 1096,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "墟",
+    "zoneName_i18n": {
+      "en": "墟",
+      "ja": "墟",
+      "ko": "墟",
+      "zh": "墟"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1754121600000,
+        "closeTime": 1755892800000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act44side_01",
+      "act44side_02",
+      "act44side_03",
+      "act44side_04",
+      "act44side_05",
+      "act44side_06",
+      "act44side_07",
+      "act44side_08"
+    ]
   }
 ]

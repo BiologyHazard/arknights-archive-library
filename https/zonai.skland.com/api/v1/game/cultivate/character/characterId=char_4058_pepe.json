@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1754109327",
+  "timestamp": "1754130237",
   "data": {
     "id": "char_4058_pepe",
     "mainSkillLevelCost": [
@@ -332,6 +332,41 @@
           }
         ],
         "shiningColor": "red"
+      },
+      {
+        "id": "uniequip_003_pepe",
+        "name": "佩佩特限证章",
+        "typeName": "ra-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
       }
     ],
     "evolvePhaseCost": [

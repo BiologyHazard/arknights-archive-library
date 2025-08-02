@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1754109476",
+  "timestamp": "1754130113",
   "data": {
     "id": "char_1033_swire2",
     "mainSkillLevelCost": [
@@ -266,6 +266,41 @@
       }
     ],
     "equipCost": [
+      {
+        "id": "uniequip_004_swire2",
+        "name": "琳琅诗怀雅特限证章",
+        "typeName": "isw-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
+      },
       {
         "id": "uniequip_002_swire2",
         "name": "“金币辉煌”",

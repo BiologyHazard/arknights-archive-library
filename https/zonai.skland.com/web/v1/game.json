@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1754109265",
+  "timestamp": "1754130005",
   "data": {
     "list": [
       {
@@ -361,24 +361,31 @@
             }
           },
           {
-            "id": 9,
+            "id": 26,
             "gameId": 1,
-            "name": "游戏数据",
+            "name": "活动战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/12/26/4122afbfab6c6be4895fc25b56655eaa.png",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
               "width": 120,
               "height": 120,
-              "size": 2595,
-              "format": "png",
+              "size": 70775,
+              "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-data%3Fheader%3D0",
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fato-record%3Fheader%3D0",
             "position": 5,
             "status": 2,
-            "startAtTs": 1687854240,
-            "pcLink": "https://game.skland.com/arknights/game-data?header=0",
-            "pcStatus": 2
+            "startAtTs": 1706780972,
+            "pcLink": "https://www.skland.com/act/ak/ato-record",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1754123700",
+                "endAtTs": "1755878399"
+              }
+            }
           },
           {
             "id": 65,

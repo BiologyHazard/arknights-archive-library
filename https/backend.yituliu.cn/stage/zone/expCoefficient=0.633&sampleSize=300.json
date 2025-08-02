@@ -4,6 +4,110 @@
   "data": {
     "ACT": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act44side_zone1",
+        "stageType": "ACT",
+        "endTime": "2025-08-22T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act44side_01",
+            "stageCode": "AT-1",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_02",
+            "stageCode": "AT-2",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_03",
+            "stageCode": "AT-3",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_04",
+            "stageCode": "AT-4",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_05",
+            "stageCode": "AT-5",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_06",
+            "stageCode": "AT-6",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_07",
+            "stageCode": "AT-7",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          },
+          {
+            "stageId": "act44side_08",
+            "stageCode": "AT-8",
+            "zoneId": "act44side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-08-02 16:00:00",
+            "endTime": "2025-08-23 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          }
+        ]
+      },
+      {
         "zoneName": "红丝绒",
         "zoneId": "act43side_zone1",
         "stageType": "ACT",
