@@ -2038,7 +2038,7 @@
     },
     {
       "stageId": "main_11-02",
-      "times": 213
+      "times": 214
     },
     {
       "stageId": "act14side_08_perm",
@@ -3933,7 +3933,12 @@
       "times": 1
     }
   ],
-  "totalStageTimes_24h": [],
+  "totalStageTimes_24h": [
+    {
+      "stageId": "main_11-02",
+      "times": 1
+    }
+  ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
@@ -4105,7 +4110,7 @@
     },
     {
       "itemId": "31023",
-      "quantity": 53777
+      "quantity": 53778
     },
     {
       "itemId": "31024",
@@ -4224,5 +4229,5 @@
       "quantity": 8
     }
   ],
-  "totalApCost": 37793463
+  "totalApCost": 37793484
 }

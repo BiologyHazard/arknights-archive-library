@@ -1414,7 +1414,7 @@
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 277311
+      "times": 277333
     },
     {
       "stageId": "act31side_02",
@@ -3441,7 +3441,16 @@
       "times": 2
     }
   ],
-  "totalStageTimes_24h": [],
+  "totalStageTimes_24h": [
+    {
+      "stageId": "wk_melee_6",
+      "times": 5
+    },
+    {
+      "stageId": "wk_toxic_5",
+      "times": 22
+    }
+  ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
@@ -3577,7 +3586,7 @@
     },
     {
       "itemId": "furni",
-      "quantity": 99702
+      "quantity": 99704
     },
     {
       "itemId": "3112",
@@ -3732,5 +3741,5 @@
       "quantity": 174
     }
   ],
-  "totalApCost": 121305650
+  "totalApCost": 121306310
 }
