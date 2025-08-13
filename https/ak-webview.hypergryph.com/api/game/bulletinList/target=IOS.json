@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "1027",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2025-08-14",
+        "updatedAt": 1754895026,
+        "sticky": false
+      },
+      {
         "cid": "9180",
         "title": "中坚寻访\\n干员出率上升",
         "category": 1,
@@ -66,14 +74,6 @@
         "category": 1,
         "displayTime": "2025-08-02",
         "updatedAt": 1753942025,
-        "sticky": false
-      },
-      {
-        "cid": "3310",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2025-07-31",
-        "updatedAt": 1753260139,
         "sticky": false
       },
       {
@@ -175,7 +175,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "1027"
     }
   }
 }
