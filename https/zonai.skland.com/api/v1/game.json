@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1755232217",
+  "timestamp": "1755253216",
   "data": {
     "list": [
       {
@@ -2065,7 +2065,95 @@
             "billboardOnOff": 1
           }
         ],
-        "quickaccesses": [],
+        "quickaccesses": [
+          {
+            "id": 80,
+            "gameId": 100,
+            "name": "每周必看",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/08/15/1f7398b4b2ad8217b626f223736e9b96.png",
+              "width": 120,
+              "height": 120,
+              "size": 4707,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://weeklyMustWatch?id=21",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1755244980,
+            "pcLink": "",
+            "pcStatus": 1
+          },
+          {
+            "id": 81,
+            "gameId": 100,
+            "name": "活动情报站",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/08/15/7b3414daf2c313c52243930ef86539b1.png",
+              "width": 120,
+              "height": 120,
+              "size": 4982,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fbbs%2Foffline-activities-collection%3Fheader%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1755244970,
+            "pcLink": "",
+            "pcStatus": 1
+          },
+          {
+            "id": 83,
+            "gameId": 100,
+            "name": "创作任务",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/08/15/ae0bedb5e5e08140c53be97c4a831725.png",
+              "width": 120,
+              "height": 120,
+              "size": 3869,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fcreator%2Fmission-center%3Fheader%3D0",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1755251825,
+            "pcLink": "https://game.skland.com/creator/mission-center?header=0",
+            "pcStatus": 2
+          },
+          {
+            "id": 82,
+            "gameId": 100,
+            "name": "社区公告",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/08/15/02b30f144dd3991621daf77f4f234f2c.png",
+              "width": 120,
+              "height": 120,
+              "size": 3787,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://volume?id=1956266587816337408",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1755244800,
+            "pcLink": "",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
+          }
+        ],
         "tag": {
           "id": 306,
           "name": "每日水帖",
