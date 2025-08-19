@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1755555372",
+  "timestamp": "1755577324",
   "data": {
     "list": [
       {
@@ -2079,12 +2079,19 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://weeklyMustWatch?id=21",
+            "link": "skland://weeklyMustWatch?id=22",
             "position": 1,
             "status": 2,
             "startAtTs": 1755244980,
             "pcLink": "",
-            "pcStatus": 1
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              }
+            }
           },
           {
             "id": 81,
