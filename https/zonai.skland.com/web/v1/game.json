@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1755641853",
+  "timestamp": "1755663748",
   "data": {
     "list": [
       {
@@ -1150,12 +1150,19 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=2447309&viewKind=1",
+            "link": "skland://detail?id=3147638&viewKind=1",
             "position": 4,
             "status": 2,
             "startAtTs": 1698648105,
-            "pcLink": "skland://detail?id=2447309&viewKind=1",
-            "pcStatus": 2
+            "pcLink": "skland://detail?id=3147638&viewKind=1",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1755658383",
+                "endAtTs": "1755964800"
+              }
+            }
           },
           {
             "id": 52,
