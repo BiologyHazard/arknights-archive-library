@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "9189",
+        "title": "中坚甄选\\n限时寻访开启",
+        "category": 1,
+        "displayTime": "2025-08-21",
+        "updatedAt": 1755142745,
+        "sticky": false
+      },
+      {
         "cid": "2998",
         "title": "音律联觉＆集成\\n映射周边开售",
         "category": 4,
@@ -34,14 +42,6 @@
         "category": 1,
         "displayTime": "2025-08-14",
         "updatedAt": 1754895026,
-        "sticky": false
-      },
-      {
-        "cid": "9180",
-        "title": "中坚寻访\\n干员出率上升",
-        "category": 1,
-        "displayTime": "2025-08-07",
-        "updatedAt": 1754464581,
         "sticky": false
       },
       {
@@ -167,7 +167,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "9189"
     }
   }
 }
