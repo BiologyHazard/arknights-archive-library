@@ -6137,9 +6137,9 @@
     "subType": null,
     "zoneName": "我们明日见",
     "zoneName_i18n": {
-      "en": "我们明日见",
-      "ja": "我们明日见",
-      "ko": "我们明日见",
+      "en": "See You Soon",
+      "ja": "また明日",
+      "ko": "다시 만나자",
       "zh": "我们明日见"
     },
     "existence": {
@@ -6149,13 +6149,19 @@
         "closeTime": 1740081600000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1754550000000,
+        "closeTime": 1755111600000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1754550000000,
+        "closeTime": 1755111600000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1754586000000,
+        "closeTime": 1755169200000
       }
     },
     "background": null,
@@ -6164,10 +6170,10 @@
       "act18mini_02",
       "act18mini_03",
       "act18mini_04",
+      "act18mini_05",
       "act18mini_06",
       "act18mini_07",
-      "act18mini_08",
-      "act18mini_05"
+      "act18mini_08"
     ]
   },
   {
