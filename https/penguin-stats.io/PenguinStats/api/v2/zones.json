@@ -6556,5 +6556,46 @@
       "act44side_02",
       "act44side_01"
     ]
+  },
+  {
+    "zoneId": "act35sre_zone1",
+    "zoneIndex": 1097,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "太阳甩在身后・复刻",
+    "zoneName_i18n": {
+      "en": "Adventure That Cannot Wait for the Sun - Rerun",
+      "ja": "太陽すらも追い越して・復刻",
+      "ko": "태양을 뿌리쳐라 재개방",
+      "zh": "太阳甩在身后・复刻"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756065600000,
+        "closeTime": 1756929600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act35side_01_rep",
+      "act35side_02_rep",
+      "act35side_03_rep",
+      "act35side_04_rep",
+      "act35side_05_rep",
+      "act35side_06_rep",
+      "act35side_07_rep",
+      "act35side_08_rep",
+      "act35side_09_rep"
+    ]
   }
 ]
