@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1756289924",
+  "timestamp": "1756311804",
   "data": {
     "list": [
       {
@@ -1299,6 +1299,41 @@
             "billboardOnOff": 1
           },
           {
+            "id": 20,
+            "gameId": 4,
+            "name": "同人",
+            "description": "游戏衍生创作，给您递笔",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/09/08/6c40a008b641eb96e88b6bc08c2841d1.png",
+              "width": 150,
+              "height": 150,
+              "size": 17080,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
             "id": 21,
             "gameId": 4,
             "name": "组队",
@@ -1366,41 +1401,6 @@
             "defaultSortType": 1,
             "bannerOnOff": 1,
             "headlineOnOff": 1,
-            "billboardOnOff": 1
-          },
-          {
-            "id": 20,
-            "gameId": 4,
-            "name": "同人",
-            "description": "游戏衍生创作，给您递笔",
-            "nameIcon": {
-              "id": "",
-              "url": "",
-              "width": 0,
-              "height": 0,
-              "size": 0,
-              "format": "",
-              "darkModeUrl": ""
-            },
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/09/08/6c40a008b641eb96e88b6bc08c2841d1.png",
-              "width": 150,
-              "height": 150,
-              "size": 17080,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "kind": 20,
-            "allowedViewKinds": [
-              1,
-              2,
-              3,
-              4
-            ],
-            "defaultSortType": 1,
-            "bannerOnOff": 2,
-            "headlineOnOff": 2,
             "billboardOnOff": 1
           },
           {
