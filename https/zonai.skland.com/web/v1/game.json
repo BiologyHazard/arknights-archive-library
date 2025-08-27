@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1756268527",
+  "timestamp": "1756289924",
   "data": {
     "list": [
       {
@@ -98,6 +98,41 @@
               4
             ],
             "defaultSortType": 4,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 1,
+            "gameId": 1,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/fec4f6fa8d21260b29b7bcb6db96df47.png",
+              "width": 150,
+              "height": 150,
+              "size": 35400,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
             "bannerOnOff": 2,
             "headlineOnOff": 2,
             "billboardOnOff": 1
@@ -238,41 +273,6 @@
               4
             ],
             "defaultSortType": 1,
-            "bannerOnOff": 2,
-            "headlineOnOff": 2,
-            "billboardOnOff": 1
-          },
-          {
-            "id": 1,
-            "gameId": 1,
-            "name": "官方",
-            "description": "",
-            "nameIcon": {
-              "id": "",
-              "url": "",
-              "width": 0,
-              "height": 0,
-              "size": 0,
-              "format": "",
-              "darkModeUrl": ""
-            },
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/29/fec4f6fa8d21260b29b7bcb6db96df47.png",
-              "width": 150,
-              "height": 150,
-              "size": 35400,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "kind": 100,
-            "allowedViewKinds": [
-              1,
-              2,
-              3,
-              4
-            ],
-            "defaultSortType": 2,
             "bannerOnOff": 2,
             "headlineOnOff": 2,
             "billboardOnOff": 1
@@ -650,6 +650,41 @@
             "billboardOnOff": 1
           },
           {
+            "id": 7,
+            "gameId": 2,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/db53fd6a9ba69b7703bb4de353d0ac9f.png",
+              "width": 150,
+              "height": 150,
+              "size": 10604,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
             "id": 23,
             "gameId": 2,
             "name": "攻略",
@@ -715,41 +750,6 @@
               4
             ],
             "defaultSortType": 1,
-            "bannerOnOff": 2,
-            "headlineOnOff": 2,
-            "billboardOnOff": 1
-          },
-          {
-            "id": 7,
-            "gameId": 2,
-            "name": "官方",
-            "description": "",
-            "nameIcon": {
-              "id": "",
-              "url": "",
-              "width": 0,
-              "height": 0,
-              "size": 0,
-              "format": "",
-              "darkModeUrl": ""
-            },
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/29/db53fd6a9ba69b7703bb4de353d0ac9f.png",
-              "width": 150,
-              "height": 150,
-              "size": 10604,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "kind": 100,
-            "allowedViewKinds": [
-              1,
-              2,
-              3,
-              4
-            ],
-            "defaultSortType": 2,
             "bannerOnOff": 2,
             "headlineOnOff": 2,
             "billboardOnOff": 1
@@ -971,6 +971,41 @@
             "billboardOnOff": 1
           },
           {
+            "id": 12,
+            "gameId": 3,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/29/f3fed67e8092412c11620befb259f3ab.png",
+              "width": 150,
+              "height": 150,
+              "size": 7403,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 2,
+            "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
             "id": 10,
             "gameId": 3,
             "name": "同人",
@@ -1038,41 +1073,6 @@
             "defaultSortType": 1,
             "bannerOnOff": 1,
             "headlineOnOff": 1,
-            "billboardOnOff": 1
-          },
-          {
-            "id": 12,
-            "gameId": 3,
-            "name": "官方",
-            "description": "",
-            "nameIcon": {
-              "id": "",
-              "url": "",
-              "width": 0,
-              "height": 0,
-              "size": 0,
-              "format": "",
-              "darkModeUrl": ""
-            },
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/29/f3fed67e8092412c11620befb259f3ab.png",
-              "width": 150,
-              "height": 150,
-              "size": 7403,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "kind": 100,
-            "allowedViewKinds": [
-              1,
-              2,
-              3,
-              4
-            ],
-            "defaultSortType": 2,
-            "bannerOnOff": 2,
-            "headlineOnOff": 2,
             "billboardOnOff": 1
           }
         ],
@@ -1757,41 +1757,6 @@
             "billboardOnOff": 1
           },
           {
-            "id": 31,
-            "gameId": 101,
-            "name": "📣资讯",
-            "description": "",
-            "nameIcon": {
-              "id": "",
-              "url": "",
-              "width": 0,
-              "height": 0,
-              "size": 0,
-              "format": "",
-              "darkModeUrl": ""
-            },
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/12/05/da677011cfc1cc559ff501dfb7260b7f.png",
-              "width": 150,
-              "height": 150,
-              "size": 7728,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "kind": 20,
-            "allowedViewKinds": [
-              1,
-              2,
-              3,
-              4
-            ],
-            "defaultSortType": 1,
-            "bannerOnOff": 1,
-            "headlineOnOff": 1,
-            "billboardOnOff": 1
-          },
-          {
             "id": 28,
             "gameId": 101,
             "name": "官方",
@@ -1822,6 +1787,41 @@
               4
             ],
             "defaultSortType": 2,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 31,
+            "gameId": 101,
+            "name": "📣资讯",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/12/05/da677011cfc1cc559ff501dfb7260b7f.png",
+              "width": 150,
+              "height": 150,
+              "size": 7728,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
             "bannerOnOff": 1,
             "headlineOnOff": 1,
             "billboardOnOff": 1
