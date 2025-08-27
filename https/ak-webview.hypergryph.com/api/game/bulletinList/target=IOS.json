@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8272",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2025-08-28",
+        "updatedAt": 1756114210,
+        "sticky": false
+      },
+      {
         "cid": "1026",
         "title": "错位巡礼系列\\n新装限时上架",
         "category": 1,
@@ -66,22 +74,6 @@
         "category": 4,
         "displayTime": "2025-08-20",
         "updatedAt": 1755572623,
-        "sticky": false
-      },
-      {
-        "cid": "7546",
-        "title": "【联合行动】\\n定向寻访开启",
-        "category": 1,
-        "displayTime": "2025-08-14",
-        "updatedAt": 1755077466,
-        "sticky": false
-      },
-      {
-        "cid": "1027",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2025-08-14",
-        "updatedAt": 1754895026,
         "sticky": false
       },
       {
@@ -151,7 +143,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "8272"
     }
   }
 }
