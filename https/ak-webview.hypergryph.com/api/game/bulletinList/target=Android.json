@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "3300",
+        "title": "0011/韵\\n新装限时上架",
+        "category": 1,
+        "displayTime": "2025-08-29",
+        "updatedAt": 1756194232,
+        "sticky": false
+      },
+      {
+        "cid": "8263",
+        "title": "0011/韵\\n限时复刻上架",
+        "category": 1,
+        "displayTime": "2025-08-29",
+        "updatedAt": 1756194178,
+        "sticky": false
+      },
+      {
         "cid": "2988",
         "title": "【无忧梦呓】\\n活动限时开启",
         "category": 1,
@@ -18,14 +34,6 @@
         "category": 1,
         "displayTime": "2025-08-28",
         "updatedAt": 1756190170,
-        "sticky": false
-      },
-      {
-        "cid": "4897",
-        "title": "08月28日\\n闪断更新公告",
-        "category": 2,
-        "displayTime": "2025-08-28",
-        "updatedAt": 1756288661,
         "sticky": false
       },
       {
@@ -167,7 +175,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "3300"
     }
   }
 }
