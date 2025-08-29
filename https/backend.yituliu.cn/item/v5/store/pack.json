@@ -1145,7 +1145,7 @@
       "saleType": "activity",
       "tags": "activity,chip",
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -1793,7 +1793,7 @@
       "saleType": "chip",
       "tags": "chip",
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -3353,7 +3353,7 @@
       "saleType": "activity",
       "tags": "activity,special,event",
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -3666,7 +3666,7 @@
       "saleType": "activity",
       "tags": "activity,special,event",
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -6965,7 +6965,7 @@
       "saleType": "activity",
       "tags": null,
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -7051,7 +7051,7 @@
       "saleType": "activity",
       "tags": null,
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -7361,7 +7361,7 @@
       "saleType": "activity",
       "tags": null,
       "imageName": null,
-      "imageLink": "image/近卫芯片礼包.1855452546151000.jpg",
+      "imageLink": "image/1997846419141000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -11603,7 +11603,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/1996780735201000.jpg",
+      "imageLink": "image/1997720206471000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -11627,7 +11627,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/1996782157411000.jpg",
+      "imageLink": "image/1997720286051000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -11651,25 +11651,229 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/1996789455581000.jpg",
+      "imageLink": "image/1997720394931000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 10,
       "orundum": 2500,
       "packContent": [
         {
-          "itemName": "主题场景",
-          "itemId": "theme_scene",
-          "quantity": 1
-        },
-        {
-          "itemName": "界面主题",
+          "itemName": "主题场景+界面主题",
           "itemId": "interface_theme",
           "quantity": 1
         }
       ],
       "start": 1756915200000,
       "end": 1758729600000,
+      "note": ""
+    },
+    {
+      "id": 1997837940741000,
+      "officialName": "激燃尾奏组合包",
+      "displayName": "激燃尾奏组合包",
+      "price": 198.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/1997837942141000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 2,
+      "originium": 24,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 200000
+        },
+        {
+          "itemName": "高级作战记录",
+          "itemId": "2004",
+          "quantity": 30
+        },
+        {
+          "itemName": "高级作战记录",
+          "itemId": "2004",
+          "quantity": 30
+        },
+        {
+          "itemName": "芯片助剂",
+          "itemId": "32001",
+          "quantity": 2
+        },
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 4
+        }
+      ],
+      "start": 1756915200000,
+      "end": 1759334400000,
+      "note": ""
+    },
+    {
+      "id": 1997838648351000,
+      "officialName": "融情拨弦组合包",
+      "displayName": "融情拨弦组合包",
+      "price": 68.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/1997841681721000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 5000,
+      "packContent": [
+        {
+          "itemName": "芯片助剂",
+          "itemId": "32001",
+          "quantity": 2
+        },
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 100000
+        },
+        {
+          "itemName": "技巧概要·卷1",
+          "itemId": "3301",
+          "quantity": 80
+        },
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 2
+        }
+      ],
+      "start": 1756915200000,
+      "end": 1759334400000,
+      "note": ""
+    },
+    {
+      "id": 1997843414491000,
+      "officialName": "精准调音礼包",
+      "displayName": "精准调音礼包",
+      "price": 128.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/1997843415621000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "高级资深干员特训装置",
+          "itemId": "voucher_levelmax_6",
+          "quantity": 1
+        },
+        {
+          "itemName": "资深干员特训装置",
+          "itemId": "voucher_levelmax_5",
+          "quantity": 2
+        }
+      ],
+      "start": 1756915200000,
+      "end": 1759334400000,
+      "note": ""
+    },
+    {
+      "id": 1997843827221000,
+      "officialName": "主题乐段组合包",
+      "displayName": "主题乐段组合包",
+      "price": 98.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/1997843827661000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 21,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 1000000
+        }
+      ],
+      "start": 1756915200000,
+      "end": 1759334400000,
+      "note": ""
+    },
+    {
+      "id": 1997846417351000,
+      "officialName": "近卫芯片礼包",
+      "displayName": "近卫芯片礼包",
+      "price": 30.0,
+      "saleType": "chip",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/1997846419141000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "近卫双芯片",
+          "itemId": "3223",
+          "quantity": 4
+        },
+        {
+          "itemName": "近卫芯片组",
+          "itemId": "3222",
+          "quantity": 5
+        },
+        {
+          "itemName": "技巧概要·卷3",
+          "itemId": "3303",
+          "quantity": 45
+        },
+        {
+          "itemName": "技巧概要·卷2",
+          "itemId": "3302",
+          "quantity": 25
+        },
+        {
+          "itemName": "技巧概要·卷1",
+          "itemId": "3301",
+          "quantity": 10
+        }
+      ],
+      "start": 1756915200000,
+      "end": 1759334400000,
+      "note": ""
+    },
+    {
+      "id": 1997847574381000,
+      "officialName": "完美排演礼包",
+      "displayName": "完美排演礼包",
+      "price": 168.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/1997847575791000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "高级资深干员特训邀请函",
+          "itemId": "voucher_elite_II_6",
+          "quantity": 1
+        },
+        {
+          "itemName": "资深干员特训邀请函",
+          "itemId": "voucher_elite_II_5",
+          "quantity": 2
+        }
+      ],
+      "start": 1756915200000,
+      "end": 1759334400000,
       "note": ""
     }
   ]
