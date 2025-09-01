@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1756678585",
+  "timestamp": "1756700865",
   "data": {
     "list": [
       {
@@ -339,10 +339,10 @@
             "name": "历程报告",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/08/29/3895468d7b72f513d519259f7c300b77.png",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
               "width": 120,
               "height": 120,
-              "size": 2446,
+              "size": 2665,
               "format": "png",
               "darkModeUrl": ""
             },
@@ -353,10 +353,10 @@
             "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act44side",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1756458000",
-                "endAtTs": "1756569600"
+                "startAtTs": "0",
+                "endAtTs": "0"
               }
             }
           },
@@ -1272,6 +1272,41 @@
             "billboardOnOff": 1
           },
           {
+            "id": 22,
+            "gameId": 4,
+            "name": "官方",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/09/08/d973576d07faebe303f632dd16433c45.png",
+              "width": 150,
+              "height": 150,
+              "size": 8025,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 100,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 2,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
             "id": 20,
             "gameId": 4,
             "name": "同人",
@@ -1372,41 +1407,6 @@
               4
             ],
             "defaultSortType": 1,
-            "bannerOnOff": 1,
-            "headlineOnOff": 1,
-            "billboardOnOff": 1
-          },
-          {
-            "id": 22,
-            "gameId": 4,
-            "name": "官方",
-            "description": "",
-            "nameIcon": {
-              "id": "",
-              "url": "",
-              "width": 0,
-              "height": 0,
-              "size": 0,
-              "format": "",
-              "darkModeUrl": ""
-            },
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/09/08/d973576d07faebe303f632dd16433c45.png",
-              "width": 150,
-              "height": 150,
-              "size": 8025,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "kind": 100,
-            "allowedViewKinds": [
-              1,
-              2,
-              3,
-              4
-            ],
-            "defaultSortType": 2,
             "bannerOnOff": 1,
             "headlineOnOff": 1,
             "billboardOnOff": 1
