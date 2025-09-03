@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0451",
+        "title": "中坚寻访\\n干员出率上升",
+        "category": 1,
+        "displayTime": "2025-09-04",
+        "updatedAt": 1756805405,
+        "sticky": false
+      },
+      {
         "cid": "3309",
         "title": "09月04日\\n版本更新公告",
         "category": 2,
@@ -101,14 +109,6 @@
         "sticky": false
       },
       {
-        "cid": "9189",
-        "title": "中坚甄选\\n限时寻访开启",
-        "category": 1,
-        "displayTime": "2025-08-21",
-        "updatedAt": 1755142745,
-        "sticky": false
-      },
-      {
         "cid": "2087",
         "title": "生息演算\\n使用声明",
         "category": 2,
@@ -143,7 +143,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "0451"
     }
   }
 }
