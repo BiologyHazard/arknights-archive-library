@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1756959651",
+  "timestamp": "1756981117",
   "data": {
     "list": [
       {
@@ -303,7 +303,8 @@
               "timeRange": {
                 "startAtTs": "1747368000",
                 "endAtTs": "1748188799"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -330,7 +331,8 @@
               "timeRange": {
                 "startAtTs": "1751975399",
                 "endAtTs": "1752422399"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -357,88 +359,36 @@
               "timeRange": {
                 "startAtTs": "1756952040",
                 "endAtTs": "1757519999"
-              }
+              },
+              "dotType": 0
             }
           },
           {
-            "id": 84,
+            "id": 26,
             "gameId": 1,
-            "name": "历程报告",
+            "name": "活动战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
               "width": 120,
               "height": 120,
-              "size": 2665,
-              "format": "png",
+              "size": 70775,
+              "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act44side",
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fsomniloquium-serenum-record%3Fheader%3D0",
             "position": 4,
             "status": 2,
-            "startAtTs": 1756457021,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act44side",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              }
-            }
-          },
-          {
-            "id": 65,
-            "gameId": 1,
-            "name": "集成战略战绩",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
-              "width": 120,
-              "height": 120,
-              "size": 2727,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
-            "position": 8,
-            "status": 2,
-            "startAtTs": 1752566400,
-            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "startAtTs": 1706780972,
+            "pcLink": "https://www.skland.com/act/ak/somniloquium-serenum-record?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1752577800",
-                "endAtTs": "1753200000"
-              }
-            }
-          },
-          {
-            "id": 69,
-            "gameId": 1,
-            "name": "养成计算器",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
-              "width": 120,
-              "height": 120,
-              "size": 6779,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 9,
-            "status": 2,
-            "startAtTs": 1744170644,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              }
+                "startAtTs": "1756974900",
+                "endAtTs": "1758184126"
+              },
+              "dotType": 0
             }
           },
           {
@@ -455,7 +405,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 10,
+            "position": 8,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -465,7 +415,64 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              }
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 65,
+            "gameId": 1,
+            "name": "集成战略战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "width": 120,
+              "height": 120,
+              "size": 2727,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "position": 9,
+            "status": 2,
+            "startAtTs": 1752566400,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1752577800",
+                "endAtTs": "1753200000"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 69,
+            "gameId": 1,
+            "name": "养成计算器",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
+              "width": 120,
+              "height": 120,
+              "size": 6779,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "position": 10,
+            "status": 2,
+            "startAtTs": 1744170644,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
             }
           },
           {
@@ -492,7 +499,8 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1161,7 +1169,8 @@
               "timeRange": {
                 "startAtTs": "1755658383",
                 "endAtTs": "1755964800"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1464,7 +1473,8 @@
               "timeRange": {
                 "startAtTs": "1748840149",
                 "endAtTs": "1751299200"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1491,7 +1501,8 @@
               "timeRange": {
                 "startAtTs": "1748931420",
                 "endAtTs": "1751299200"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1518,7 +1529,8 @@
               "timeRange": {
                 "startAtTs": "1753204800",
                 "endAtTs": "1753722000"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1545,7 +1557,8 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1572,7 +1585,8 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1619,7 +1633,8 @@
               "timeRange": {
                 "startAtTs": "1747972916",
                 "endAtTs": "1748620799"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1852,7 +1867,8 @@
               "timeRange": {
                 "startAtTs": "1744104660",
                 "endAtTs": "1744387200"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -1899,7 +1915,8 @@
               "timeRange": {
                 "startAtTs": "1753533250",
                 "endAtTs": "1753631999"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -2097,7 +2114,8 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              }
+              },
+              "dotType": 0
             }
           },
           {
@@ -2164,7 +2182,8 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              }
+              },
+              "dotType": 0
             }
           }
         ],

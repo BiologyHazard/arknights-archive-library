@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1756959724",
+  "timestamp": "1756981269",
   "data": {
     "id": "char_245_cello",
     "mainSkillLevelCost": [
@@ -305,6 +305,73 @@
               },
               {
                 "id": "30145",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30115",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      },
+      {
+        "id": "uniequip_003_cello",
+        "name": "音乐家的旅程",
+        "typeName": "rit-y",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30145",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30165",
                 "count": 3
               }
             ]
