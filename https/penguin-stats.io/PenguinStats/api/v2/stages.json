@@ -112408,5 +112408,245 @@
       }
     },
     "minClearTime": 220000
+  },
+  {
+    "stageId": "act45side_01",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-1",
+    "code_i18n": {
+      "en": "SS-1",
+      "ja": "SS-1",
+      "ko": "SS-1",
+      "zh": "SS-1"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 192000
+  },
+  {
+    "stageId": "act45side_02",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-2",
+    "code_i18n": {
+      "en": "SS-2",
+      "ja": "SS-2",
+      "ko": "SS-2",
+      "zh": "SS-2"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 165000
+  },
+  {
+    "stageId": "act45side_03",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-3",
+    "code_i18n": {
+      "en": "SS-3",
+      "ja": "SS-3",
+      "ko": "SS-3",
+      "zh": "SS-3"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 130000
+  },
+  {
+    "stageId": "act45side_04",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-4",
+    "code_i18n": {
+      "en": "SS-4",
+      "ja": "SS-4",
+      "ko": "SS-4",
+      "zh": "SS-4"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 189000
+  },
+  {
+    "stageId": "act45side_05",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-5",
+    "code_i18n": {
+      "en": "SS-5",
+      "ja": "SS-5",
+      "ko": "SS-5",
+      "zh": "SS-5"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 115400
+  },
+  {
+    "stageId": "act45side_06",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-6",
+    "code_i18n": {
+      "en": "SS-6",
+      "ja": "SS-6",
+      "ko": "SS-6",
+      "zh": "SS-6"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 226000
+  },
+  {
+    "stageId": "act45side_07",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-7",
+    "code_i18n": {
+      "en": "SS-7",
+      "ja": "SS-7",
+      "ko": "SS-7",
+      "zh": "SS-7"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 127000
+  },
+  {
+    "stageId": "act45side_08",
+    "zoneId": "act45side_zone1",
+    "stageType": "ACTIVITY",
+    "code": "SS-8",
+    "code_i18n": {
+      "en": "SS-8",
+      "ja": "SS-8",
+      "ko": "SS-8",
+      "zh": "SS-8"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 305200
   }
 ]

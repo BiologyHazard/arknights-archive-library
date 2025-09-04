@@ -6597,5 +6597,45 @@
       "act35side_08_rep",
       "act35side_09_rep"
     ]
+  },
+  {
+    "zoneId": "act45side_zone1",
+    "zoneIndex": 1098,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "无忧梦呓",
+    "zoneName_i18n": {
+      "en": "无忧梦呓",
+      "ja": "无忧梦呓",
+      "ko": "无忧梦呓",
+      "zh": "无忧梦呓"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1756972800000,
+        "closeTime": 1758139200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act45side_01",
+      "act45side_02",
+      "act45side_03",
+      "act45side_04",
+      "act45side_05",
+      "act45side_06",
+      "act45side_07",
+      "act45side_08"
+    ]
   }
 ]
