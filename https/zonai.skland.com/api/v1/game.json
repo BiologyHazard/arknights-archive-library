@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1757542586",
+  "timestamp": "1757564484",
   "data": {
     "list": [
       {
@@ -331,34 +331,6 @@
               "timeRange": {
                 "startAtTs": "1751975399",
                 "endAtTs": "1752422399"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 67,
-            "gameId": 1,
-            "name": "更新福利",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
-              "width": 120,
-              "height": 120,
-              "size": 505198,
-              "format": "gif",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fseptember-download%3Fheader%3D0",
-            "position": 3,
-            "status": 2,
-            "startAtTs": 1743992280,
-            "pcLink": "skland://detail?id=2699001&viewKind=3",
-            "pcStatus": 1,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1756952040",
-                "endAtTs": "1757519999"
               },
               "dotType": 0
             }
