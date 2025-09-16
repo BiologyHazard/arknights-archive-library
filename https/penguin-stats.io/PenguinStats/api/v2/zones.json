@@ -6230,9 +6230,9 @@
     "subType": null,
     "zoneName": "挽歌燃烧殆尽",
     "zoneName_i18n": {
-      "en": "挽歌燃烧殆尽",
-      "ja": "挽歌燃烧殆尽",
-      "ko": "挽歌燃烧殆尽",
+      "en": "When Elegies Are Ashes",
+      "ja": "挽歌が灰に還る時",
+      "ko": "불타버린 엘레지여",
       "zh": "挽歌燃烧殆尽"
     },
     "existence": {
@@ -6242,13 +6242,19 @@
         "closeTime": 1742500800000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1756364400000,
+        "closeTime": 1757530800000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1756364400000,
+        "closeTime": 1757530800000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1756400400000,
+        "closeTime": 1757588400000
       }
     },
     "background": null,
@@ -6281,17 +6287,30 @@
         "openTime": 1744012800000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1758006000000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1758006000000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1758042000000
       }
     },
     "background": null,
     "stages": [
+      "main_15-01",
+      "main_15-02",
+      "main_15-03",
+      "main_15-08",
+      "main_15-09",
+      "main_15-10",
+      "main_15-04",
+      "main_15-05",
+      "main_15-06",
+      "main_15-07",
       "main_15-11",
       "main_15-12",
       "main_15-13",
@@ -6299,17 +6318,7 @@
       "main_15-15",
       "main_15-16",
       "main_15-17",
-      "main_15-18",
-      "main_15-01",
-      "main_15-02",
-      "main_15-03",
-      "main_15-04",
-      "main_15-05",
-      "main_15-06",
-      "main_15-07",
-      "main_15-08",
-      "main_15-09",
-      "main_15-10"
+      "main_15-18"
     ]
   },
   {

@@ -5869,9 +5869,9 @@
     "itemId": "act24side_melding_1",
     "name": "破碎的骨片",
     "name_i18n": {
-      "en": "破碎的骨片",
-      "ja": "破碎的骨片",
-      "ko": "破碎的骨片",
+      "en": "Bone Fragments",
+      "ja": "欠けた骨",
+      "ko": "부서진 뼛조각",
       "zh": "破碎的骨片"
     },
     "existence": {
@@ -5911,9 +5911,9 @@
     "itemId": "act24side_melding_2",
     "name": "源石虫的硬壳",
     "name_i18n": {
-      "en": "源石虫的硬壳",
-      "ja": "源石虫的硬壳",
-      "ko": "源石虫的硬壳",
+      "en": "Originium Slug Shell",
+      "ja": "オリジムシの甲殻",
+      "ko": "원석충 껍데기",
       "zh": "源石虫的硬壳"
     },
     "existence": {
@@ -5953,9 +5953,9 @@
     "itemId": "act24side_melding_3",
     "name": "鬣犄兽的尖锐齿",
     "name_i18n": {
-      "en": "鬣犄兽的尖锐齿",
-      "ja": "鬣犄兽的尖锐齿",
-      "ko": "鬣犄兽的尖锐齿",
+      "en": "Sharp Oxmane Fangs",
+      "ja": "山顎獣の鋭牙",
+      "ko": "케라토비스트 송곳니",
       "zh": "鬣犄兽的尖锐齿"
     },
     "existence": {
@@ -5995,9 +5995,9 @@
     "itemId": "act24side_melding_4",
     "name": "凶豕兽的厚实皮",
     "name_i18n": {
-      "en": "凶豕兽的厚实皮",
-      "ja": "凶豕兽的厚实皮",
-      "ko": "凶豕兽的厚实皮",
+      "en": "Thick Direswine Hide",
+      "ja": "猪突獣の厚皮",
+      "ko": "트리케라비스트 가죽",
       "zh": "凶豕兽的厚实皮"
     },
     "existence": {
@@ -6037,9 +6037,9 @@
     "itemId": "act24side_melding_5",
     "name": "“兽之泪”",
     "name_i18n": {
-      "en": "“兽之泪”",
-      "ja": "“兽之泪”",
-      "ko": "“兽之泪”",
+      "en": "'Monster Tears'",
+      "ja": "獣のナミダ",
+      "ko": "'짐승의 눈물'",
       "zh": "“兽之泪”"
     },
     "existence": {
@@ -6300,9 +6300,9 @@
     "itemId": "act29side_frag_1",
     "name": "乐之节符",
     "name_i18n": {
-      "en": "乐之节符",
-      "ja": "乐之节符",
-      "ko": "乐之节符",
+      "en": "Note of Joy",
+      "ja": "楽の音符",
+      "ko": "기쁨의 표식",
       "zh": "乐之节符"
     },
     "existence": {
@@ -6338,9 +6338,9 @@
     "itemId": "act29side_frag_2",
     "name": "怒之节符",
     "name_i18n": {
-      "en": "怒之节符",
-      "ja": "怒之节符",
-      "ko": "怒之节符",
+      "en": "Note of Anger",
+      "ja": "怒の音符",
+      "ko": "분노의 표식",
       "zh": "怒之节符"
     },
     "existence": {
@@ -6376,9 +6376,9 @@
     "itemId": "act29side_frag_3",
     "name": "哀之节符",
     "name_i18n": {
-      "en": "哀之节符",
-      "ja": "哀之节符",
-      "ko": "哀之节符",
+      "en": "Note of Sorrow",
+      "ja": "哀の音符",
+      "ko": "비애의 표식",
       "zh": "哀之节符"
     },
     "existence": {
@@ -6414,9 +6414,9 @@
     "itemId": "act29side_frag_4",
     "name": "惧之节符",
     "name_i18n": {
-      "en": "惧之节符",
-      "ja": "惧之节符",
-      "ko": "惧之节符",
+      "en": "Note of Fear",
+      "ja": "恐の音符",
+      "ko": "공포의 표식",
       "zh": "惧之节符"
     },
     "existence": {
@@ -6462,13 +6462,13 @@
         "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       },
       "US": {
-        "exist": false
+        "exist": true
       }
     },
     "itemType": "RECRUIT_TAG",
@@ -6492,13 +6492,13 @@
         "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       },
       "US": {
-        "exist": false
+        "exist": true
       }
     },
     "itemType": "MATERIAL",
@@ -6530,13 +6530,13 @@
         "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       },
       "US": {
-        "exist": false
+        "exist": true
       }
     },
     "itemType": "MATERIAL",
@@ -6568,13 +6568,13 @@
         "exist": true
       },
       "JP": {
-        "exist": false
+        "exist": true
       },
       "KR": {
-        "exist": false
+        "exist": true
       },
       "US": {
-        "exist": false
+        "exist": true
       }
     },
     "itemType": "ARKPLANNER",
