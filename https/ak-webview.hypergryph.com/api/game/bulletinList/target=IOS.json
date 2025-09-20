@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "1014",
+        "title": "次生预案\\n即将限时开启",
+        "category": 1,
+        "displayTime": "2025-09-20",
+        "updatedAt": 1757922301,
+        "sticky": false
+      },
+      {
         "cid": "2986",
         "title": "【未致蒙尘】\\n复刻寻访开启",
         "category": 1,
@@ -127,7 +135,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "1014"
     }
   }
 }
