@@ -5,35 +5,35 @@
     {
       "stageCode": "1-7",
       "zoneName": "第一章",
-      "orundumPerAp": 1.0899051250639393,
-      "stageEfficiency": 1.0000009112638855,
-      "orundumPerApEfficiency": 0.9999129587742562,
+      "orundumPerAp": 1.0899051450068757,
+      "stageEfficiency": 0.9999990834618392,
+      "orundumPerApEfficiency": 0.9999129770705282,
       "stageType": "MAIN",
-      "lmdcost": 9.535987816877803
+      "lmdcost": 9.535987635876783
     },
     {
       "stageCode": "CW-6",
       "zoneName": "孤星·插曲",
-      "orundumPerAp": 0.906878931860397,
-      "stageEfficiency": 0.974511176618058,
-      "orundumPerApEfficiency": 0.83199902005541,
+      "orundumPerAp": 0.9068785369043834,
+      "stageEfficiency": 0.9745117880725448,
+      "orundumPerApEfficiency": 0.8319986577104433,
       "stageType": "ACT_PERM",
-      "lmdcost": 6.469222601421568
+      "lmdcost": 6.469223435039251
     },
     {
       "stageCode": "S2-12",
       "zoneName": "第二章",
-      "orundumPerAp": 0.8633430586607208,
-      "stageEfficiency": 0.7521615605791678,
-      "orundumPerApEfficiency": 0.7920578519823126,
+      "orundumPerAp": 0.8633405604463337,
+      "stageEfficiency": 0.7521596960109972,
+      "orundumPerApEfficiency": 0.7920555600425079,
       "stageType": "MAIN",
-      "lmdcost": 9.283876115916064
+      "lmdcost": 9.283878949973301
     },
     {
       "stageCode": "DV-5",
       "zoneName": "绿野幻梦·别传",
       "orundumPerAp": 0.8591979258144106,
-      "stageEfficiency": 0.7490029749861505,
+      "stageEfficiency": 0.7490023533103984,
       "orundumPerApEfficiency": 0.7882549778113858,
       "stageType": "ACT_PERM",
       "lmdcost": 9.274973230799183
@@ -42,7 +42,7 @@
       "stageCode": "DM-5",
       "zoneName": "生于黑夜·插曲",
       "orundumPerAp": 0.8568606102623941,
-      "stageEfficiency": 0.7472829730091229,
+      "stageEfficiency": 0.7472823494734951,
       "orundumPerApEfficiency": 0.7861106516168753,
       "stageType": "ACT_PERM",
       "lmdcost": 9.283147706380202
@@ -51,7 +51,7 @@
       "stageCode": "TW-1",
       "zoneName": "沃伦姆德的薄暮·别传",
       "orundumPerAp": 0.7662159514011365,
-      "stageEfficiency": 0.7177219989805576,
+      "stageEfficiency": 0.7177205036269603,
       "orundumPerApEfficiency": 0.702950414129483,
       "stageType": "ACT_PERM",
       "lmdcost": 9.468030690537082
@@ -60,7 +60,7 @@
       "stageCode": "DH-1",
       "zoneName": "多索雷斯假日·别传",
       "orundumPerAp": 0.760835961169851,
-      "stageEfficiency": 0.7227369712995614,
+      "stageEfficiency": 0.722735299110497,
       "orundumPerApEfficiency": 0.6980146432750926,
       "stageType": "ACT_PERM",
       "lmdcost": 9.488825680617634
@@ -69,7 +69,7 @@
       "stageCode": "GT-1",
       "zoneName": "骑兵与猎人·别传",
       "orundumPerAp": 0.7361646221749848,
-      "stageEfficiency": 0.6951268463144855,
+      "stageEfficiency": 0.6951255565709843,
       "orundumPerApEfficiency": 0.6753803873164997,
       "stageType": "ACT_PERM",
       "lmdcost": 9.527812312011232
@@ -78,7 +78,7 @@
       "stageCode": "IW-1",
       "zoneName": "将进酒·别传",
       "orundumPerAp": 0.7342630696540161,
-      "stageEfficiency": 0.6317882669881649,
+      "stageEfficiency": 0.6317870432376802,
       "orundumPerApEfficiency": 0.6736358437192808,
       "stageType": "ACT_PERM",
       "lmdcost": 9.53087701089777
@@ -87,7 +87,7 @@
       "stageCode": "TW-5",
       "zoneName": "沃伦姆德的薄暮·别传",
       "orundumPerAp": 0.7318813274047279,
-      "stageEfficiency": 0.7942518465938377,
+      "stageEfficiency": 0.794252905147701,
       "orundumPerApEfficiency": 0.6714507590869063,
       "stageType": "ACT_PERM",
       "lmdcost": 6.456332807029587
@@ -96,7 +96,7 @@
       "stageCode": "CW-2",
       "zoneName": "孤星·插曲",
       "orundumPerAp": 0.729659463836679,
-      "stageEfficiency": 0.6292141927271468,
+      "stageEfficiency": 0.629212870169567,
       "orundumPerApEfficiency": 0.6694123521437422,
       "stageType": "ACT_PERM",
       "lmdcost": 9.52640186915888
@@ -104,26 +104,35 @@
     {
       "stageCode": "S3-4",
       "zoneName": "第三章",
-      "orundumPerAp": 0.7253779520285736,
-      "stageEfficiency": 0.7881547492390786,
-      "orundumPerApEfficiency": 0.6654843596592418,
+      "orundumPerAp": 0.7253751758213502,
+      "stageEfficiency": 0.7881524875031957,
+      "orundumPerApEfficiency": 0.6654818126801378,
       "stageType": "MAIN",
-      "lmdcost": 6.469459468063658
+      "lmdcost": 6.469465318549474
     },
     {
       "stageCode": "MN-2",
       "zoneName": "玛莉娅·临光·别传",
       "orundumPerAp": 0.7144915899779714,
-      "stageEfficiency": 0.6490958954943207,
+      "stageEfficiency": 0.6490947736683846,
       "orundumPerApEfficiency": 0.6554968715394233,
       "stageType": "ACT_PERM",
       "lmdcost": 9.56369399222014
     },
     {
+      "stageCode": "GO-4",
+      "zoneName": "新活动关卡",
+      "orundumPerAp": 0.6959471063025933,
+      "stageEfficiency": 0.874109266088065,
+      "orundumPerApEfficiency": 0.638483583763847,
+      "stageType": "ACT_REP",
+      "lmdcost": 9.599999999999998
+    },
+    {
       "stageCode": "NL-7",
       "zoneName": "长夜临光·别传",
       "orundumPerAp": 0.6926447574334899,
-      "stageEfficiency": 0.743950352623468,
+      "stageEfficiency": 0.7439471788764774,
       "orundumPerApEfficiency": 0.6354539059022842,
       "stageType": "ACT_PERM",
       "lmdcost": 9.600000000000001
@@ -132,7 +141,7 @@
       "stageCode": "BI-1",
       "zoneName": "风雪过境·别传",
       "orundumPerAp": 0.60121062891146,
-      "stageEfficiency": 0.6753144867812374,
+      "stageEfficiency": 0.6753150205153281,
       "orundumPerApEfficiency": 0.5515693843224404,
       "stageType": "ACT_PERM",
       "lmdcost": 6.144368600682594
@@ -140,17 +149,17 @@
     {
       "stageCode": "1-12",
       "zoneName": "第一章",
-      "orundumPerAp": 0.5978331782917177,
-      "stageEfficiency": 0.7320130775024288,
-      "orundumPerApEfficiency": 0.548470805772218,
+      "orundumPerAp": 0.5978371121451265,
+      "stageEfficiency": 0.7320167322485642,
+      "orundumPerApEfficiency": 0.5484744148120426,
       "stageType": "MAIN",
-      "lmdcost": 6.146895150548369
+      "lmdcost": 6.146898220555293
     },
     {
       "stageCode": "GA-1",
       "zoneName": "吾导先路·别传",
       "orundumPerAp": 0.5914928714504536,
-      "stageEfficiency": 0.6577527191509644,
+      "stageEfficiency": 0.6577533097593496,
       "orundumPerApEfficiency": 0.5426540105050033,
       "stageType": "ACT_PERM",
       "lmdcost": 6.176892430278884
@@ -158,17 +167,17 @@
     {
       "stageCode": "S2-5",
       "zoneName": "第二章",
-      "orundumPerAp": 0.5857305761397833,
-      "stageEfficiency": 0.5805110025425522,
-      "orundumPerApEfficiency": 0.5373675010456727,
+      "orundumPerAp": 0.5857187078917659,
+      "stageEfficiency": 0.5804938184072902,
+      "orundumPerApEfficiency": 0.5373566127447393,
       "stageType": "MAIN",
-      "lmdcost": 9.264681459826773
+      "lmdcost": 9.264806553401831
     },
     {
       "stageCode": "NL-2",
       "zoneName": "长夜临光·别传",
       "orundumPerAp": 0.5799639180728007,
-      "stageEfficiency": 0.6602044420802105,
+      "stageEfficiency": 0.6602047844396399,
       "orundumPerApEfficiency": 0.5320769890576152,
       "stageType": "ACT_PERM",
       "lmdcost": 6.13943275388838
@@ -177,7 +186,7 @@
       "stageCode": "S3-7",
       "zoneName": "第三章",
       "orundumPerAp": 0.5694519968581958,
-      "stageEfficiency": 0.7598949384119313,
+      "stageEfficiency": 0.7598960663462797,
       "orundumPerApEfficiency": 0.5224330246405465,
       "stageType": "MAIN",
       "lmdcost": 9.6
@@ -186,7 +195,7 @@
       "stageCode": "SN-7",
       "zoneName": "愚人号·插曲",
       "orundumPerAp": 0.5681078568107857,
-      "stageEfficiency": 0.7910606224606298,
+      "stageEfficiency": 0.7910590234804479,
       "orundumPerApEfficiency": 0.5211998686337483,
       "stageType": "ACT_PERM",
       "lmdcost": 5.999999999999999
@@ -195,7 +204,7 @@
       "stageCode": "DH-6",
       "zoneName": "多索雷斯假日·别传",
       "orundumPerAp": 0.5668864167010026,
-      "stageEfficiency": 0.6599086212479517,
+      "stageEfficiency": 0.6599095074805402,
       "orundumPerApEfficiency": 0.5200792813770666,
       "stageType": "ACT_PERM",
       "lmdcost": 6.708661417322836
@@ -203,17 +212,17 @@
     {
       "stageCode": "14-11",
       "zoneName": "第十四章(标准)",
-      "orundumPerAp": 0.5560481174534717,
-      "stageEfficiency": 0.8355117729390041,
-      "orundumPerApEfficiency": 0.5101358875719924,
+      "orundumPerAp": 0.5560853513547338,
+      "stageEfficiency": 0.8354833638474471,
+      "orundumPerApEfficiency": 0.5101700471144347,
       "stageType": "MAIN",
-      "lmdcost": 5.999999999999999
+      "lmdcost": 6.0
     },
     {
       "stageCode": "GT-3",
       "zoneName": "骑兵与猎人·别传",
       "orundumPerAp": 0.5456217807211184,
-      "stageEfficiency": 0.5482306176770578,
+      "stageEfficiency": 0.5482304756164091,
       "orundumPerApEfficiency": 0.500570441028549,
       "stageType": "ACT_PERM",
       "lmdcost": 9.204315576534054
@@ -222,7 +231,7 @@
       "stageCode": "9-3",
       "zoneName": "第九章",
       "orundumPerAp": 0.5231519562634496,
-      "stageEfficiency": 0.5398233788477703,
+      "stageEfficiency": 0.539824189645572,
       "orundumPerApEfficiency": 0.47995592317747665,
       "stageType": "MAIN",
       "lmdcost": 5.999999999999999
@@ -231,7 +240,7 @@
       "stageCode": "GA-4",
       "zoneName": "吾导先路·别传",
       "orundumPerAp": 0.49333725259651184,
-      "stageEfficiency": 0.5548026346366739,
+      "stageEfficiency": 0.5548034575164859,
       "orundumPerApEfficiency": 0.4526029840334971,
       "stageType": "ACT_PERM",
       "lmdcost": 6.493346573982126
@@ -239,17 +248,17 @@
     {
       "stageCode": "2-3",
       "zoneName": "第二章",
-      "orundumPerAp": 0.49108009637024547,
-      "stageEfficiency": 0.6007665340602204,
-      "orundumPerApEfficiency": 0.4505321985048123,
+      "orundumPerAp": 0.49108597407289234,
+      "stageEfficiency": 0.6007673487823798,
+      "orundumPerApEfficiency": 0.45053759089256173,
       "stageType": "MAIN",
-      "lmdcost": 6.497996931579377
+      "lmdcost": 6.498007451110145
     },
     {
       "stageCode": "0-9",
       "zoneName": "序章",
       "orundumPerAp": 0.47530797232467886,
-      "stageEfficiency": 0.514134175984532,
+      "stageEfficiency": 0.5141336784732405,
       "orundumPerApEfficiency": 0.436062359930898,
       "stageType": "MAIN",
       "lmdcost": 9.56028656565016
@@ -257,26 +266,26 @@
     {
       "stageCode": "S5-1",
       "zoneName": "第五章",
-      "orundumPerAp": 0.46305541110533316,
-      "stageEfficiency": 0.49764571925965506,
-      "orundumPerApEfficiency": 0.4248214780782873,
+      "orundumPerAp": 0.463061170729002,
+      "stageEfficiency": 0.4976492528094515,
+      "orundumPerApEfficiency": 0.42482676213669907,
       "stageType": "MAIN",
-      "lmdcost": 9.599999999999998
+      "lmdcost": 9.6
     },
     {
       "stageCode": "S6-2",
       "zoneName": "第六章",
-      "orundumPerAp": 0.461789848118974,
-      "stageEfficiency": 0.3701496938648953,
-      "orundumPerApEfficiency": 0.42366041111832475,
+      "orundumPerAp": 0.46179331376403365,
+      "stageEfficiency": 0.3701516047557834,
+      "orundumPerApEfficiency": 0.42366359060920517,
       "stageType": "MAIN",
-      "lmdcost": 9.600000000000001
+      "lmdcost": 9.6
     },
     {
       "stageCode": "5-10",
       "zoneName": "第五章",
       "orundumPerAp": 0.4403405018452665,
-      "stageEfficiency": 0.9277483638521596,
+      "stageEfficiency": 0.9277487088226897,
       "orundumPerApEfficiency": 0.40398211178464816,
       "stageType": "MAIN",
       "lmdcost": 9.6
@@ -285,7 +294,7 @@
       "stageCode": "14-20",
       "zoneName": "第十四章(标准)",
       "orundumPerAp": 0.3876650880469584,
-      "stageEfficiency": 0.9714439232688371,
+      "stageEfficiency": 0.9714447677316596,
       "orundumPerApEfficiency": 0.3556560440797783,
       "stageType": "MAIN",
       "lmdcost": 9.6
@@ -294,7 +303,7 @@
       "stageCode": "1-5",
       "zoneName": "第一章",
       "orundumPerAp": 0.38369783596840623,
-      "stageEfficiency": 0.5378244390155568,
+      "stageEfficiency": 0.5378249240598482,
       "orundumPerApEfficiency": 0.3520163632737672,
       "stageType": "MAIN",
       "lmdcost": 6.068721535601969
@@ -303,7 +312,7 @@
       "stageCode": "S5-5",
       "zoneName": "第五章",
       "orundumPerAp": 0.37815286867990966,
-      "stageEfficiency": 0.40217706797491465,
+      "stageEfficiency": 0.40217765404844635,
       "orundumPerApEfficiency": 0.346929237321018,
       "stageType": "MAIN",
       "lmdcost": 6.000000000000001
@@ -312,7 +321,7 @@
       "stageCode": "DV-4",
       "zoneName": "绿野幻梦·别传",
       "orundumPerAp": 0.3721894782798516,
-      "stageEfficiency": 0.5463329439446136,
+      "stageEfficiency": 0.5463318047051875,
       "orundumPerApEfficiency": 0.3414582369539923,
       "stageType": "ACT_PERM",
       "lmdcost": 5.999999999999998
@@ -321,7 +330,7 @@
       "stageCode": "M8-6",
       "zoneName": "第八章",
       "orundumPerAp": 0.3718268830628382,
-      "stageEfficiency": 0.522771867546857,
+      "stageEfficiency": 0.5227724438161718,
       "orundumPerApEfficiency": 0.3411255807915946,
       "stageType": "MAIN",
       "lmdcost": 6.0
@@ -330,7 +339,7 @@
       "stageCode": "MB-4",
       "zoneName": "孤岛风云·别传",
       "orundumPerAp": 0.3689275893675527,
-      "stageEfficiency": 0.5544124560519109,
+      "stageEfficiency": 0.5544109905881577,
       "orundumPerApEfficiency": 0.33846567831885566,
       "stageType": "ACT_PERM",
       "lmdcost": 6.0
@@ -339,7 +348,7 @@
       "stageCode": "6-11",
       "zoneName": "第六章",
       "orundumPerAp": 0.35721838637034425,
-      "stageEfficiency": 0.42507554305868983,
+      "stageEfficiency": 0.4250760966872845,
       "orundumPerApEfficiency": 0.3277232902480222,
       "stageType": "MAIN",
       "lmdcost": 5.999999999999999
@@ -348,7 +357,7 @@
       "stageCode": "7-16",
       "zoneName": "第七章",
       "orundumPerAp": 0.2845047238945636,
-      "stageEfficiency": 0.9461098034216092,
+      "stageEfficiency": 0.946109191330873,
       "orundumPerApEfficiency": 0.26101350816015007,
       "stageType": "MAIN",
       "lmdcost": 9.6
@@ -357,7 +366,7 @@
       "stageCode": "R8-6",
       "zoneName": "第八章",
       "orundumPerAp": 0.2440377149195785,
-      "stageEfficiency": 0.6581211107628355,
+      "stageEfficiency": 0.6581188039585785,
       "orundumPerApEfficiency": 0.2238878118528243,
       "stageType": "MAIN",
       "lmdcost": 7.825757575757576
@@ -366,7 +375,7 @@
       "stageCode": "R8-1",
       "zoneName": "第八章",
       "orundumPerAp": 0.23602320675105487,
-      "stageEfficiency": 0.30077887062234715,
+      "stageEfficiency": 0.30077594950065567,
       "orundumPerApEfficiency": 0.21653505206518794,
       "stageType": "MAIN",
       "lmdcost": 7.975170701427685
@@ -375,7 +384,7 @@
       "stageCode": "S4-10",
       "zoneName": "第四章",
       "orundumPerAp": 0.23352657118136996,
-      "stageEfficiency": 0.7534363157564355,
+      "stageEfficiency": 0.7534363376987517,
       "orundumPerApEfficiency": 0.21424456071685316,
       "stageType": "MAIN",
       "lmdcost": 8.001327980493194
@@ -383,26 +392,26 @@
     {
       "stageCode": "5-9",
       "zoneName": "第五章",
-      "orundumPerAp": 0.23314363394180956,
-      "stageEfficiency": 0.7576741660912478,
-      "orundumPerApEfficiency": 0.21389324214844913,
+      "orundumPerAp": 0.23312030105215353,
+      "stageEfficiency": 0.7577317338355173,
+      "orundumPerApEfficiency": 0.21387183582766378,
       "stageType": "MAIN",
-      "lmdcost": 7.975384615384614
+      "lmdcost": 7.975722571645334
     },
     {
       "stageCode": "4-3",
       "zoneName": "第四章",
-      "orundumPerAp": 0.2328293982044286,
-      "stageEfficiency": 0.6489870245317649,
-      "orundumPerApEfficiency": 0.21360495248112715,
+      "orundumPerAp": 0.2328301084414204,
+      "stageEfficiency": 0.6489242659408221,
+      "orundumPerApEfficiency": 0.2136056040746976,
       "stageType": "MAIN",
-      "lmdcost": 8.014832183130084
+      "lmdcost": 8.015133724722764
     },
     {
       "stageCode": "7-13",
       "zoneName": "第七章",
       "orundumPerAp": 0.23280423280423276,
-      "stageEfficiency": 0.6458418046549537,
+      "stageEfficiency": 0.6458390862592861,
       "orundumPerApEfficiency": 0.21358186495801168,
       "stageType": "MAIN",
       "lmdcost": 8.04107142857143
@@ -410,17 +419,17 @@
     {
       "stageCode": "4-1",
       "zoneName": "第四章",
-      "orundumPerAp": 0.23157269492678115,
-      "stageEfficiency": 0.30260974801334733,
-      "orundumPerApEfficiency": 0.21245201369429462,
+      "orundumPerAp": 0.23155079277528257,
+      "stageEfficiency": 0.30257546125681434,
+      "orundumPerApEfficiency": 0.21243191997732344,
       "stageType": "MAIN",
-      "lmdcost": 7.96397668189696
+      "lmdcost": 7.964079780697607
     },
     {
       "stageCode": "6-14",
       "zoneName": "第六章",
       "orundumPerAp": 0.22695320071305916,
-      "stageEfficiency": 0.7551158365126027,
+      "stageEfficiency": 0.7551110330587139,
       "orundumPerApEfficiency": 0.20821394560831114,
       "stageType": "MAIN",
       "lmdcost": 8.005473025801408
@@ -429,7 +438,7 @@
       "stageCode": "5-1",
       "zoneName": "第五章",
       "orundumPerAp": 0.22561639685230223,
-      "stageEfficiency": 0.7004498627037208,
+      "stageEfficiency": 0.7004463357549148,
       "orundumPerApEfficiency": 0.20698752004798368,
       "stageType": "MAIN",
       "lmdcost": 8.002250249523636
@@ -438,7 +447,7 @@
       "stageCode": "5-2",
       "zoneName": "第五章",
       "orundumPerAp": 0.22515786859656592,
-      "stageEfficiency": 0.8982512067517745,
+      "stageEfficiency": 0.8982604528409309,
       "orundumPerApEfficiency": 0.20656685192345495,
       "stageType": "MAIN",
       "lmdcost": 7.996754244298263
@@ -447,7 +456,7 @@
       "stageCode": "9-9",
       "zoneName": "第九章",
       "orundumPerAp": 0.22459034915749035,
-      "stageEfficiency": 0.4619461862916996,
+      "stageEfficiency": 0.46194539012369695,
       "orundumPerApEfficiency": 0.2060461918876058,
       "stageType": "MAIN",
       "lmdcost": 7.997606988680786
@@ -456,7 +465,7 @@
       "stageCode": "S5-8",
       "zoneName": "第五章",
       "orundumPerAp": 0.22430646228353412,
-      "stageEfficiency": 0.9501500782925536,
+      "stageEfficiency": 0.950150070631559,
       "orundumPerApEfficiency": 0.20578574521425147,
       "stageType": "MAIN",
       "lmdcost": 8.010805594121434
@@ -465,7 +474,7 @@
       "stageCode": "6-3",
       "zoneName": "第六章",
       "orundumPerAp": 0.2232918839417034,
-      "stageEfficiency": 0.727588735720165,
+      "stageEfficiency": 0.7275965468195562,
       "orundumPerApEfficiency": 0.20485493939605814,
       "stageType": "MAIN",
       "lmdcost": 7.996461622210126
@@ -473,17 +482,17 @@
     {
       "stageCode": "9-13",
       "zoneName": "第九章",
-      "orundumPerAp": 0.2224512212719606,
-      "stageEfficiency": 0.8689491705013874,
-      "orundumPerApEfficiency": 0.2040836892403308,
+      "orundumPerAp": 0.22244827847428195,
+      "stageEfficiency": 0.8689839251841148,
+      "orundumPerApEfficiency": 0.2040809894259467,
       "stageType": "MAIN",
-      "lmdcost": 8.019048342219307
+      "lmdcost": 8.019278885520771
     },
     {
       "stageCode": "9-4",
       "zoneName": "第九章",
       "orundumPerAp": 0.22199619213547286,
-      "stageEfficiency": 0.9657667352281096,
+      "stageEfficiency": 0.9656521885313768,
       "orundumPerApEfficiency": 0.20366623131694755,
       "stageType": "MAIN",
       "lmdcost": 8.028508788227862
@@ -492,7 +501,7 @@
       "stageCode": "S7-1",
       "zoneName": "第七章",
       "orundumPerAp": 0.22084337789465994,
-      "stageEfficiency": 0.32298488081027216,
+      "stageEfficiency": 0.3229812939938717,
       "orundumPerApEfficiency": 0.2026086035730825,
       "stageType": "MAIN",
       "lmdcost": 7.959644407690717
@@ -501,7 +510,7 @@
       "stageCode": "10-4",
       "zoneName": "第十章 (标准)",
       "orundumPerAp": 0.2200383063431899,
-      "stageEfficiency": 0.9848548441308209,
+      "stageEfficiency": 0.9848177128329441,
       "orundumPerApEfficiency": 0.20187000581944026,
       "stageType": "MAIN",
       "lmdcost": 5.999999999999999
@@ -510,7 +519,7 @@
       "stageCode": "5-5",
       "zoneName": "第五章",
       "orundumPerAp": 0.21987971098030312,
-      "stageEfficiency": 0.9345311934265575,
+      "stageEfficiency": 0.9345240332811484,
       "orundumPerApEfficiency": 0.2017245054865166,
       "stageType": "MAIN",
       "lmdcost": 8.014404872236197
@@ -518,17 +527,17 @@
     {
       "stageCode": "4-7",
       "zoneName": "第四章",
-      "orundumPerAp": 0.21831926817204397,
-      "stageEfficiency": 0.9251344555788437,
-      "orundumPerApEfficiency": 0.20029290657985685,
+      "orundumPerAp": 0.2183197425665161,
+      "stageEfficiency": 0.9250845563112767,
+      "orundumPerApEfficiency": 0.20029334180414318,
       "stageType": "MAIN",
-      "lmdcost": 8.01065004793864
+      "lmdcost": 8.010724847462338
     },
     {
       "stageCode": "9-17",
       "zoneName": "第九章",
       "orundumPerAp": 0.21813283718045626,
-      "stageEfficiency": 0.9299829192151408,
+      "stageEfficiency": 0.9299756432362491,
       "orundumPerApEfficiency": 0.20012186897289563,
       "stageType": "MAIN",
       "lmdcost": 8.012121939798527
@@ -537,7 +546,7 @@
       "stageCode": "4-4",
       "zoneName": "第四章",
       "orundumPerAp": 0.2179276974468426,
-      "stageEfficiency": 0.4755031279337213,
+      "stageEfficiency": 0.4755022964447691,
       "orundumPerApEfficiency": 0.19993366738242438,
       "stageType": "MAIN",
       "lmdcost": 8.009019662951713
@@ -546,7 +555,7 @@
       "stageCode": "M8-8",
       "zoneName": "第八章",
       "orundumPerAp": 0.2176301645117544,
-      "stageEfficiency": 0.9889141697733306,
+      "stageEfficiency": 0.9889123136596383,
       "orundumPerApEfficiency": 0.19966070138693062,
       "stageType": "MAIN",
       "lmdcost": 7.994943109987357
@@ -554,26 +563,44 @@
     {
       "stageCode": "4-6",
       "zoneName": "第四章",
-      "orundumPerAp": 0.21660263299345725,
-      "stageEfficiency": 0.8866389849228843,
-      "orundumPerApEfficiency": 0.19871801192060295,
+      "orundumPerAp": 0.2166061710325187,
+      "stageEfficiency": 0.8866231313364907,
+      "orundumPerApEfficiency": 0.1987212578279988,
       "stageType": "MAIN",
-      "lmdcost": 8.005227873114528
+      "lmdcost": 8.005236613697047
+    },
+    {
+      "stageCode": "GO-3",
+      "zoneName": "新活动关卡",
+      "orundumPerAp": 0.21293012871027056,
+      "stageEfficiency": 0.6336850142360256,
+      "orundumPerApEfficiency": 0.19534874193602803,
+      "stageType": "ACT_REP",
+      "lmdcost": 7.945720894371628
+    },
+    {
+      "stageCode": "GO-1",
+      "zoneName": "新活动关卡",
+      "orundumPerAp": 0.21003281762775433,
+      "stageEfficiency": 0.6202071852506403,
+      "orundumPerApEfficiency": 0.19269065837408653,
+      "stageType": "ACT_REP",
+      "lmdcost": 8.014285714285714
     },
     {
       "stageCode": "S9-2",
       "zoneName": "第九章",
-      "orundumPerAp": 0.20978160405561225,
-      "stageEfficiency": 0.734020535171679,
-      "orundumPerApEfficiency": 0.1924601872069837,
+      "orundumPerAp": 0.2097881747528851,
+      "stageEfficiency": 0.7340409543807618,
+      "orundumPerApEfficiency": 0.19246621536961936,
       "stageType": "MAIN",
-      "lmdcost": 8.006931975380418
+      "lmdcost": 8.006895722246727
     },
     {
       "stageCode": "SV-8",
       "zoneName": "覆潮之下·插曲",
       "orundumPerAp": 0.20733694878583428,
-      "stageEfficiency": 0.7832081613409809,
+      "stageEfficiency": 0.7832113260948623,
       "orundumPerApEfficiency": 0.1902173842071874,
       "stageType": "ACT_PERM",
       "lmdcost": 7.993546726164935
@@ -582,7 +609,7 @@
       "stageCode": "RI-9",
       "zoneName": "密林悍将归来·别传",
       "orundumPerAp": 0.20691989979010086,
-      "stageEfficiency": 0.8280060892426736,
+      "stageEfficiency": 0.8280051456831511,
       "orundumPerApEfficiency": 0.18983477044963382,
       "stageType": "ACT_PERM",
       "lmdcost": 7.960209424083769
@@ -591,7 +618,7 @@
       "stageCode": "MB-7",
       "zoneName": "孤岛风云·别传",
       "orundumPerAp": 0.2064516129032258,
-      "stageEfficiency": 0.8635342685116265,
+      "stageEfficiency": 0.8635083593077428,
       "orundumPerApEfficiency": 0.18940514945250073,
       "stageType": "ACT_PERM",
       "lmdcost": 8.072916666666668
@@ -600,7 +627,7 @@
       "stageCode": "IW-6",
       "zoneName": "将进酒·别传",
       "orundumPerAp": 0.2059489747257988,
-      "stageEfficiency": 0.8671075869368156,
+      "stageEfficiency": 0.8671082792240179,
       "orundumPerApEfficiency": 0.18894401350990714,
       "stageType": "ACT_PERM",
       "lmdcost": 8.002176555716353
@@ -609,7 +636,7 @@
       "stageCode": "BI-8",
       "zoneName": "风雪过境·别传",
       "orundumPerAp": 0.20553714281237026,
-      "stageEfficiency": 0.8963848258201548,
+      "stageEfficiency": 0.8963824660398156,
       "orundumPerApEfficiency": 0.18856618606639472,
       "stageType": "ACT_PERM",
       "lmdcost": 7.976517678452301
@@ -618,7 +645,7 @@
       "stageCode": "WD-8",
       "zoneName": "遗尘漫步·插曲",
       "orundumPerAp": 0.20522025202222652,
-      "stageEfficiency": 0.9628476105450576,
+      "stageEfficiency": 0.9628530106946516,
       "orundumPerApEfficiency": 0.18827546057085,
       "stageType": "ACT_PERM",
       "lmdcost": 8.00566737350882
@@ -627,16 +654,25 @@
       "stageCode": "TW-8",
       "zoneName": "沃伦姆德的薄暮·别传",
       "orundumPerAp": 0.2049974064559297,
-      "stageEfficiency": 0.8872118692543076,
+      "stageEfficiency": 0.8872095942384038,
       "orundumPerApEfficiency": 0.18807101509718321,
       "stageType": "ACT_PERM",
       "lmdcost": 7.991076508459352
     },
     {
+      "stageCode": "GO-2",
+      "zoneName": "新活动关卡",
+      "orundumPerAp": 0.20461501427146742,
+      "stageEfficiency": 0.6224353699954188,
+      "orundumPerApEfficiency": 0.1877201965793279,
+      "stageType": "ACT_REP",
+      "lmdcost": 8.008739495798316
+    },
+    {
       "stageCode": "DH-7",
       "zoneName": "多索雷斯假日·别传",
       "orundumPerAp": 0.20403328801549045,
-      "stageEfficiency": 0.7867909017204749,
+      "stageEfficiency": 0.7867900871342685,
       "orundumPerApEfficiency": 0.18718650276650498,
       "stageType": "ACT_PERM",
       "lmdcost": 8.051691065118629
@@ -645,7 +681,7 @@
       "stageCode": "NL-9",
       "zoneName": "长夜临光·别传",
       "orundumPerAp": 0.20267625617691667,
-      "stageEfficiency": 0.7721053492143474,
+      "stageEfficiency": 0.7721085189216966,
       "orundumPerApEfficiency": 0.1859415194283639,
       "stageType": "ACT_PERM",
       "lmdcost": 8.153047676523839
@@ -654,7 +690,7 @@
       "stageCode": "WR-10",
       "zoneName": "画中人·别传",
       "orundumPerAp": 0.20081485858519538,
-      "stageEfficiency": 0.8337595610600027,
+      "stageEfficiency": 0.8337586844673188,
       "orundumPerApEfficiency": 0.18423381521577556,
       "stageType": "ACT_PERM",
       "lmdcost": 8.019544092271365
