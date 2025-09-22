@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1758514906",
+  "timestamp": "1758536444",
   "data": {
     "list": [
       {
@@ -336,29 +336,29 @@
             }
           },
           {
-            "id": 26,
+            "id": 84,
             "gameId": 1,
-            "name": "活动战绩",
+            "name": "历程报告",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
               "width": 120,
               "height": 120,
-              "size": 70775,
-              "format": "gif",
+              "size": 2665,
+              "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fsomniloquium-serenum-record%3Fheader%3D0",
-            "position": 4,
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act45side",
+            "position": 5,
             "status": 2,
-            "startAtTs": 1706780972,
-            "pcLink": "https://www.skland.com/act/ak/somniloquium-serenum-record?header=0",
+            "startAtTs": 1758528661,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act45side",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1756974900",
-                "endAtTs": "1758184126"
+                "startAtTs": "1758528708",
+                "endAtTs": "1758729600"
               },
               "dotType": 0
             }
@@ -1932,7 +1932,7 @@
           "gameId": 100,
           "name": "纳斯特港",
           "iconUrl": "https://bbs.hycdn.cn/asset/6497465ab3e22dfabbcf0baedcf14701.png",
-          "backgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025summer/app.png",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025autumn/app.png",
           "tabIconNor": {
             "id": "",
             "url": "https://bbs.hycdn.cn/asset/tab/tab_nest_unsel.png",
@@ -1953,8 +1953,8 @@
           },
           "chineseIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour_zh_cn.svg",
           "pcIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour.png",
-          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025summer/pc.png",
-          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025summer/pc_underlying.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025autumn/pc.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025autumn/pc_underlying.png",
           "englishIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour_en_us.svg",
           "backgroundStyle": 2,
           "description": "日常/生活等综合讨论区"
@@ -2124,7 +2124,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fcreator%2Fmission-center%3Fheader%3D0",
-            "position": 3,
+            "position": 4,
             "status": 2,
             "startAtTs": 1755251825,
             "pcLink": "https://game.skland.com/creator/mission-center?header=0",
@@ -2144,7 +2144,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://volume?id=1956266587816337408",
-            "position": 4,
+            "position": 5,
             "status": 2,
             "startAtTs": 1755244800,
             "pcLink": "",
