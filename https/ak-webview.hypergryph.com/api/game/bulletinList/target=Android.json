@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "3307",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2025-09-25",
+        "updatedAt": 1758694023,
+        "sticky": false
+      },
+      {
         "cid": "0452",
         "title": "中秋国庆未成年\\n游戏限时通知",
         "category": 2,
@@ -69,27 +77,11 @@
         "sticky": false
       },
       {
-        "cid": "9179",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2025-09-11",
-        "updatedAt": 1757326894,
-        "sticky": false
-      },
-      {
         "cid": "5643",
         "title": "无忧梦呓\\n创作征集活动",
         "category": 4,
         "displayTime": "2025-09-04",
         "updatedAt": 1756893260,
-        "sticky": false
-      },
-      {
-        "cid": "9170",
-        "title": "联动时装\\n限时上架",
-        "category": 1,
-        "displayTime": "2025-09-04",
-        "updatedAt": 1756901117,
         "sticky": false
       },
       {
@@ -135,7 +127,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "3307"
     }
   }
 }
