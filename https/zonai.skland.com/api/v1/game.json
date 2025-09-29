@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1759162734",
+  "timestamp": "1759184114",
   "data": {
     "list": [
       {
@@ -1480,7 +1480,7 @@
           {
             "id": 76,
             "gameId": 4,
-            "name": "游戏购买",
+            "name": "限时折扣",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2025/06/01/8be6bb093ede5052711290ee5acbff52.png",
@@ -1499,8 +1499,8 @@
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1753204800",
-                "endAtTs": "1753722000"
+                "startAtTs": "1759165662",
+                "endAtTs": "1759770000"
               },
               "dotType": 0
             }
