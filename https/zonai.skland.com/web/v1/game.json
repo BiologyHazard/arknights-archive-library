@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1759767758",
+  "timestamp": "1759788976",
   "data": {
     "list": [
       {
@@ -1480,7 +1480,7 @@
           {
             "id": 76,
             "gameId": 4,
-            "name": "限时折扣",
+            "name": "购买游戏",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2025/06/01/8be6bb093ede5052711290ee5acbff52.png",
@@ -1497,10 +1497,10 @@
             "pcLink": "https://game.skland.com/popucom/purchase",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1759165662",
-                "endAtTs": "1759770000"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
