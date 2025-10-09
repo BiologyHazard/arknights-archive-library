@@ -6687,5 +6687,51 @@
       "act37side_08_rep",
       "act37side_09_rep"
     ]
+  },
+  {
+    "zoneId": "main_16",
+    "zoneIndex": 21,
+    "type": "MAINLINE",
+    "subType": "DYING_SUN",
+    "zoneName": "第十六章",
+    "zoneName_i18n": {
+      "en": "Episode 16",
+      "ja": "第十六章",
+      "ko": "에피소드 16",
+      "zh": "第十六章"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1759982400000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "main_16-01",
+      "main_16-02",
+      "main_16-03",
+      "main_16-04",
+      "main_16-05",
+      "main_16-06",
+      "main_16-07",
+      "main_16-09",
+      "main_16-10",
+      "main_16-11",
+      "main_16-12",
+      "main_16-13",
+      "main_16-14",
+      "main_16-15",
+      "main_16-16"
+    ]
   }
 ]
