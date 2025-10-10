@@ -115469,5 +115469,266 @@
         }
       }
     ]
+  },
+  {
+    "stageId": "randomMaterial_12",
+    "zoneId": "gachabox",
+    "stageType": "ACTIVITY",
+    "code": "罗德岛物资补给IX",
+    "code_i18n": {
+      "en": "Rhodes Island Supplies IX",
+      "ja": "補給物資・ロドスIX",
+      "ko": "로도스 아일랜드 보급 물자 IX",
+      "zh": "罗德岛物资补给IX"
+    },
+    "isGacha": true,
+    "apCost": 99,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1759982400000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "dropInfos": [
+      {
+        "itemId": "30012",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30013",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30062",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30063",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30032",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30033",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30022",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30023",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30042",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30043",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30052",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30053",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30073",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30083",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30093",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "30103",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31013",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31023",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31033",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31043",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31053",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 25
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "itemId": "31063",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31073",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31083",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      },
+      {
+        "itemId": "31093",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 100
+        }
+      }
+    ]
   }
 ]
