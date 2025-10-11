@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1760177805",
+  "timestamp": "1760199559",
   "data": {
     "list": [
       {
@@ -1846,7 +1846,7 @@
           {
             "id": 57,
             "gameId": 101,
-            "name": "游戏日报",
+            "name": "每日游报",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/09/13/91e8584ebe6b51c969cfd7cbacb5e1a7.png",
@@ -1856,17 +1856,45 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://rn?moduleName=Collection&id=61",
+            "link": "skland://detail?id=3275608&viewKind=3",
             "position": 2,
             "status": 2,
             "startAtTs": 1726219370,
-            "pcLink": "https://www.skland.com/download",
+            "pcLink": "skland://detail?id=3275608&viewKind=3",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1744104660",
-                "endAtTs": "1744387200"
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 85,
+            "gameId": 101,
+            "name": "新游速递",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/10/11/1de423d0842aab595b0fd16ad29355e5.png",
+              "width": 120,
+              "height": 120,
+              "size": 7267,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://detail?id=3277352&viewKind=3",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1760179806,
+            "pcLink": "skland://detail?id=3277352&viewKind=3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
@@ -1874,7 +1902,7 @@
           {
             "id": 58,
             "gameId": 101,
-            "name": "游戏观察站",
+            "name": "游戏探索",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/09/13/6a49c35e0e8b0b0ccfb6f1d9b555b36f.png",
@@ -1884,17 +1912,25 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://rn?moduleName=Collection&id=25",
-            "position": 3,
+            "link": "skland://rn?moduleName=Collection&id=96",
+            "position": 4,
             "status": 2,
             "startAtTs": 1726219921,
             "pcLink": "https://www.skland.com/download",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 60,
             "gameId": 101,
-            "name": "创享一夏",
+            "name": "蒸友扩列",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/12/12/965869b57ab16e34a7e3a3dc156d9fae.png",
@@ -1904,17 +1940,17 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://tag?id=1056",
-            "position": 4,
+            "link": "skland://tag?id=877",
+            "position": 5,
             "status": 2,
             "startAtTs": 1727419360,
-            "pcLink": "skland://detail?id=2961486&viewKind=3",
+            "pcLink": "https://www.skland.com/download",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1753533250",
-                "endAtTs": "1753631999"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
@@ -1933,7 +1969,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=2127350&viewKind=3",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 1726219988,
             "pcLink": "skland://detail?id=2127350&viewKind=3",
