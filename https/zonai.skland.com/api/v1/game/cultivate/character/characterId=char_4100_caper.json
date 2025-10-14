@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1758018170",
+  "timestamp": "1760430647",
   "data": {
     "id": "char_4100_caper",
     "mainSkillLevelCost": [
@@ -196,7 +196,75 @@
         ]
       }
     ],
-    "equipCost": [],
+    "equipCost": [
+      {
+        "id": "uniequip_002_caper",
+        "name": "暖意的归宿",
+        "typeName": "lps-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 20000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "30043",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 25000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 15
+              },
+              {
+                "id": "30013",
+                "count": 5
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 30000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 5
+              },
+              {
+                "id": "30093",
+                "count": 6
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
     "evolvePhaseCost": [
       {
         "level": 1,
