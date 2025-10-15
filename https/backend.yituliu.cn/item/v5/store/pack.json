@@ -34,7 +34,7 @@
       "saleType": "activity",
       "tags": "activity,module",
       "imageName": null,
-      "imageLink": "image/促融共竞数据包.1855452245661000.jpg",
+      "imageLink": "image/2038428980871000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -58,7 +58,7 @@
       "saleType": "activity",
       "tags": "activity,lmd",
       "imageName": null,
-      "imageLink": "image/促融共竞资金箱.1855452249931000.jpg",
+      "imageLink": "image/2038424085071000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 16,
@@ -82,7 +82,7 @@
       "saleType": "activity",
       "tags": "activity,module",
       "imageName": null,
-      "imageLink": "image/促融共竞数据套组.1855452247721000.jpg",
+      "imageLink": "image/2038426534861000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -6677,7 +6677,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/促融共竞数据套组.1855452247721000.jpg",
+      "imageLink": "image/2038426534861000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -6701,7 +6701,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/促融共竞资金箱.1855452249931000.jpg",
+      "imageLink": "image/2038424085071000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 16,
@@ -6725,7 +6725,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/促融共竞数据包.1855452245661000.jpg",
+      "imageLink": "image/2038428980871000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -11986,6 +11986,88 @@
       ],
       "start": 1759939200000,
       "end": 1761062400000,
+      "note": ""
+    },
+    {
+      "id": 2038424082771000,
+      "officialName": "促融共竞资金箱",
+      "displayName": "促融共竞资金箱",
+      "price": 68.0,
+      "saleType": "activity",
+      "tags": "activity,special,event",
+      "imageName": null,
+      "imageLink": "image/2038424085071000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 16,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 700000
+        }
+      ],
+      "start": 1760976000000,
+      "end": 1762790400000,
+      "note": ""
+    },
+    {
+      "id": 2038426532871000,
+      "officialName": "促融共竞数据套组",
+      "displayName": "促融共竞数据套组",
+      "price": 68.0,
+      "saleType": "activity",
+      "tags": "activity,special,event",
+      "imageName": null,
+      "imageLink": "image/2038426534861000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 24
+        },
+        {
+          "itemName": "数据增补仪",
+          "itemId": "mod_update_token_2",
+          "quantity": 30
+        },
+        {
+          "itemName": "数据增补条",
+          "itemId": "mod_update_token_1",
+          "quantity": 30
+        }
+      ],
+      "start": 1760976000000,
+      "end": 1762790400000,
+      "note": ""
+    },
+    {
+      "id": 2038428979761000,
+      "officialName": "促融共竞数据包",
+      "displayName": "促融共竞数据包",
+      "price": 30.0,
+      "saleType": "activity",
+      "tags": "activity,special,event",
+      "imageName": null,
+      "imageLink": "image/2038428980871000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 12
+        }
+      ],
+      "start": 1760976000000,
+      "end": 1762790400000,
       "note": ""
     }
   ]
