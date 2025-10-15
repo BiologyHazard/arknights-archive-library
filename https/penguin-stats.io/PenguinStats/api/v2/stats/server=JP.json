@@ -2954,7 +2954,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1262081
+      "times": 1262099
     },
     {
       "stageId": "act21side_10",
@@ -3406,7 +3406,7 @@
     },
     {
       "stageId": "pro_c_1",
-      "times": 8922
+      "times": 8925
     },
     {
       "stageId": "act9d0_07_rep",
@@ -3913,6 +3913,10 @@
       "times": 226
     },
     {
+      "stageId": "act42side_06",
+      "times": 2
+    },
+    {
       "stageId": "act11d0_01",
       "times": 4
     },
@@ -3983,12 +3987,16 @@
   ],
   "totalStageTimes_24h": [
     {
+      "stageId": "act42side_06",
+      "times": 2
+    },
+    {
       "stageId": "main_01-07",
-      "times": 29
+      "times": 47
     },
     {
       "stageId": "pro_c_1",
-      "times": 7
+      "times": 10
     },
     {
       "stageId": "wk_kc_6",
@@ -4002,11 +4010,11 @@
     },
     {
       "itemId": "30011",
-      "quantity": 194871
+      "quantity": 194872
     },
     {
       "itemId": "30012",
-      "quantity": 1651811
+      "quantity": 1651836
     },
     {
       "itemId": "30013",
@@ -4034,7 +4042,7 @@
     },
     {
       "itemId": "30031",
-      "quantity": 112446
+      "quantity": 112447
     },
     {
       "itemId": "30032",
@@ -4066,11 +4074,11 @@
     },
     {
       "itemId": "30041",
-      "quantity": 81163
+      "quantity": 81164
     },
     {
       "itemId": "30042",
-      "quantity": 29162
+      "quantity": 29164
     },
     {
       "itemId": "30043",
@@ -4082,7 +4090,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 88329
+      "quantity": 88330
     },
     {
       "itemId": "30052",
@@ -4182,7 +4190,7 @@
     },
     {
       "itemId": "3211",
-      "quantity": 4471
+      "quantity": 4473
     },
     {
       "itemId": "3221",
@@ -4202,7 +4210,7 @@
     },
     {
       "itemId": "3271",
-      "quantity": 4432
+      "quantity": 4433
     },
     {
       "itemId": "3251",
@@ -4293,5 +4301,5 @@
       "quantity": 10
     }
   ],
-  "totalApCost": 38238732
+  "totalApCost": 38238924
 }

@@ -6371,9 +6371,9 @@
     "subType": null,
     "zoneName": "众生行记",
     "zoneName_i18n": {
-      "en": "众生行记",
-      "ja": "众生行记",
-      "ko": "众生行记",
+      "en": "The Masses' Travels",
+      "ja": "命ある者の旅",
+      "ko": "중생의 여정",
       "zh": "众生行记"
     },
     "existence": {
@@ -6383,19 +6383,25 @@
         "closeTime": 1747857600000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1760425200000,
+        "closeTime": 1762196400000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1760425200000,
+        "closeTime": 1762196400000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1760454000000,
+        "closeTime": 1762254000000
       }
     },
     "background": null,
     "stages": [
-      "act42side_01",
       "act42side_02",
+      "act42side_01",
       "act42side_03",
       "act42side_04",
       "act42side_05",
