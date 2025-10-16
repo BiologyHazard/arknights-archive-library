@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1760588700",
+  "timestamp": "1760610150",
   "data": {
     "id": "char_4195_radian",
     "mainSkillLevelCost": [
@@ -91,6 +91,26 @@
         "id": "uniequip_002_radian",
         "name": "电弧特勤证章",
         "typeName": "so-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": []
+          },
+          {
+            "level": 2,
+            "items": []
+          },
+          {
+            "level": 3,
+            "items": []
+          }
+        ],
+        "shiningColor": "purple"
+      },
+      {
+        "id": "uniequip_003_radian",
+        "name": "新起点",
+        "typeName": "so-b",
         "levelCost": [
           {
             "level": 1,
