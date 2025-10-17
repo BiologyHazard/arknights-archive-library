@@ -2175,17 +2175,23 @@
       "displayName": "伙伴留念组合包",
       "price": 12.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "outOfPrint,activity",
       "imageName": null,
       "imageLink": "image/伙伴留念组合包.1855452240971000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 400,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "头像",
+          "itemId": "avatar_special",
+          "quantity": 4
+        }
+      ],
       "start": 1760976000000,
       "end": 1762790400000,
-      "note": "含4个头像"
+      "note": ""
     },
     {
       "id": 1619794534470100,
@@ -2193,17 +2199,23 @@
       "displayName": "友谊纪念组合包",
       "price": 12.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "outOfPrint,activity",
       "imageName": null,
       "imageLink": "image/友谊纪念组合包.1855452284281000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 400,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "头像",
+          "itemId": "avatar_special",
+          "quantity": 4
+        }
+      ],
       "start": 1760976000000,
       "end": 1762790400000,
-      "note": "含4个头像"
+      "note": ""
     },
     {
       "id": 1619795054600100,
@@ -12082,7 +12094,7 @@
       "displayName": "伙伴相随组合包",
       "price": 12.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "activity,outOfPrint",
       "imageName": null,
       "imageLink": "image/2039445137291000.jpg",
       "gachaTicket": 0,
@@ -12093,12 +12105,12 @@
         {
           "itemName": "头像",
           "itemId": "avatar_special",
-          "quantity": 1
+          "quantity": 4
         }
       ],
       "start": 1760976000000,
       "end": 1762790400000,
-      "note": "含4个头像"
+      "note": ""
     },
     {
       "id": 2039445387621000,
@@ -12140,7 +12152,7 @@
       "packContent": null,
       "start": 1760976000000,
       "end": 1762790400000,
-      "note": "包括界面“齐聚”"
+      "note": "包括界面主题“齐聚”"
     }
   ]
 }
