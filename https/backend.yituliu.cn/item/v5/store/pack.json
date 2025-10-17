@@ -2218,7 +2218,13 @@
       "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 1600,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "主题场景",
+          "itemId": "theme_scene",
+          "quantity": 1
+        }
+      ],
       "start": 1760976000000,
       "end": 1762790400000,
       "note": "包括主题场景“甜度”"
