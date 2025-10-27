@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761539324",
+  "timestamp": "1761560523",
   "data": {
     "list": [
       {
@@ -336,29 +336,29 @@
             }
           },
           {
-            "id": 26,
+            "id": 84,
             "gameId": 1,
-            "name": "活动战绩",
+            "name": "历程报告",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
               "width": 120,
               "height": 120,
-              "size": 70775,
-              "format": "gif",
+              "size": 2665,
+              "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fep16-record%3Fheader%3D0",
-            "position": 4,
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act3mainss",
+            "position": 5,
             "status": 2,
-            "startAtTs": 1706780972,
-            "pcLink": "https://www.skland.com/act/ak/ep16-record?header=0",
+            "startAtTs": 1761553129,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act3mainss",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1759986000",
-                "endAtTs": "1761926399"
+                "startAtTs": "1761553200",
+                "endAtTs": "1761753600"
               },
               "dotType": 0
             }
