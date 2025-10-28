@@ -5803,7 +5803,7 @@
       "saleType": "activity",
       "tags": "activity,special,operator",
       "imageName": null,
-      "imageLink": "image/2047759088901000.jpg",
+      "imageLink": "image/2049582649931000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 1,
       "originium": 0,
@@ -10429,7 +10429,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/2047759088901000.jpg",
+      "imageLink": "image/2049582649931000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 1,
       "originium": 0,
@@ -12217,7 +12217,7 @@
         }
       ],
       "start": 1760889600000,
-      "end": 1762963200000,
+      "end": 1761148800000,
       "note": "仅作测试新功能之用，与现实世界无关1"
     },
     {
@@ -12597,6 +12597,78 @@
       "start": 1761926400000,
       "end": 1764345600000,
       "note": ""
+    },
+    {
+      "id": 2049582646971000,
+      "officialName": "调用凭证组合包",
+      "displayName": "调用凭证组合包",
+      "price": 198.0,
+      "saleType": "activity",
+      "tags": "outOfPrint,activity",
+      "imageName": null,
+      "imageLink": "image/2049582649931000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 1,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "高级干员调用凭证",
+          "itemId": "voucher_item_pick6",
+          "quantity": 1
+        }
+      ],
+      "start": 1761926400000,
+      "end": 1764345600000,
+      "note": ""
+    },
+    {
+      "id": 2049687063841000,
+      "officialName": "罗德岛数据包",
+      "displayName": "罗德岛数据包",
+      "price": 30.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2017754160521000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 12
+        }
+      ],
+      "start": 1761926400000,
+      "end": 1764345600000,
+      "note": ""
+    },
+    {
+      "id": 2049687393051000,
+      "officialName": "罗德岛数据套组",
+      "displayName": "罗德岛数据套组",
+      "price": 68.0,
+      "saleType": "activity",
+      "tags": "no data",
+      "imageName": null,
+      "imageLink": "image/2017757382351000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 24
+        }
+      ],
+      "start": 1761926400000,
+      "end": 1764345600000,
+      "note": "数据增补仪*30、数据增补条*90"
     }
   ]
 }
