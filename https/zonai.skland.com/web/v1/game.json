@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761798122",
+  "timestamp": "1761819607",
   "data": {
     "list": [
       {
@@ -170,6 +170,41 @@
             "defaultSortType": 1,
             "bannerOnOff": 2,
             "headlineOnOff": 2,
+            "billboardOnOff": 1
+          },
+          {
+            "id": 35,
+            "gameId": 1,
+            "name": "互助",
+            "description": "热心博士互助答疑~",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/10/30/5b89792952ae3000103f5adca3844a6a.png",
+              "width": 150,
+              "height": 150,
+              "size": 21969,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
             "billboardOnOff": 1
           },
           {
