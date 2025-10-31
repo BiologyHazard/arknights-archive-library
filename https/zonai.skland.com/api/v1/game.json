@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761906001",
+  "timestamp": "1761927852",
   "data": {
     "list": [
       {
@@ -891,7 +891,7 @@
         "game": {
           "gameId": 3,
           "name": "明日方舟：终末地",
-          "iconUrl": "https://bbs.hycdn.cn/asset/endfleld.png",
+          "iconUrl": "https://bbs.hycdn.cn/asset/endfield.png",
           "backgroundUrl": "https://bbs.hycdn.cn/asset/endfield_bg.png",
           "tabIconNor": {
             "id": "",
@@ -1093,64 +1093,60 @@
         ],
         "quickaccesses": [
           {
-            "id": 17,
+            "id": 86,
             "gameId": 3,
-            "name": "游戏预约",
+            "name": "预约游戏",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/08/14/e8159f0ea7d58a8c52a601ca8f4fc8c4.png",
+              "url": "https://bbs.hycdn.cn/image/2025/10/31/ef1d3e13206c11a93a244a9095eb3fb5.png",
               "width": 120,
               "height": 120,
               "size": 1348,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Freservation%3Fheader%3D0",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fteamup%3Fheader%3D0",
             "position": 1,
             "status": 2,
-            "startAtTs": 1698647844,
-            "pcLink": "https://game.skland.com/endfield/reservation",
-            "pcStatus": 2
+            "startAtTs": 1761913005,
+            "pcLink": "https://act.skland.com/endfield/teamup",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1761915005",
+                "endAtTs": "1762433999"
+              },
+              "dotType": 0
+            }
           },
           {
-            "id": 18,
+            "id": 17,
             "gameId": 3,
-            "name": "角色资料",
+            "name": "招募问卷",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/10/30/8467201c3b7a4f4bc92c829c67247b3a.png",
+              "url": "https://bbs.hycdn.cn/image/2025/10/31/14b0aa17cb5000d136ddfd53492efd05.png",
               "width": 120,
               "height": 120,
-              "size": 4359,
+              "size": 1654,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=2459129&viewKind=3",
+            "link": "skland://web?url=https%3A%2F%2Fsurvey.hypergryph.com%2Fs%2F79c75b893cc7ff8cf8259b5c77ad84a2",
             "position": 2,
             "status": 2,
-            "startAtTs": 1698648006,
-            "pcLink": "skland://detail?id=2459129&viewKind=3",
-            "pcStatus": 2
-          },
-          {
-            "id": 20,
-            "gameId": 3,
-            "name": "概念设定",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/11/13/744b62402745f0b651d062f198a37ed4.png",
-              "width": 120,
-              "height": 120,
-              "size": 5285,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://detail?id=2471087&viewKind=3",
-            "position": 3,
-            "status": 2,
-            "startAtTs": 1699865274,
-            "pcLink": "skland://detail?id=2471087&viewKind=3",
-            "pcStatus": 2
+            "startAtTs": 1698647844,
+            "pcLink": "https://survey.hypergryph.com/s/79c75b893cc7ff8cf8259b5c77ad84a2",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 19,
@@ -1165,20 +1161,40 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=3147638&viewKind=1",
-            "position": 4,
+            "link": "skland://detail?id=3333505&viewKind=1",
+            "position": 5,
             "status": 2,
             "startAtTs": 1698648105,
-            "pcLink": "skland://detail?id=3147638&viewKind=1",
+            "pcLink": "skland://detail?id=3333505&viewKind=1",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1755658383",
-                "endAtTs": "1755964800"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
+          },
+          {
+            "id": 87,
+            "gameId": 3,
+            "name": "招募FAQ",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/10/31/bdb7a248554a591d7f493bfe4d55e152.png",
+              "width": 120,
+              "height": 120,
+              "size": 1278,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://detail?id=3333725&viewKind=3",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 1761913307,
+            "pcLink": "skland://detail?id=3333725&viewKind=3",
+            "pcStatus": 2
           },
           {
             "id": 52,
@@ -1194,7 +1210,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2F",
-            "position": 5,
+            "position": 7,
             "status": 2,
             "startAtTs": 1723617068,
             "pcLink": "https://endfield.hypergryph.com/",
