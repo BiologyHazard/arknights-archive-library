@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761949247",
+  "timestamp": "1761970915",
   "data": {
     "id": "char_4025_aprot2",
     "mainSkillLevelCost": [
@@ -200,7 +200,75 @@
         ]
       }
     ],
-    "equipCost": [],
+    "equipCost": [
+      {
+        "id": "uniequip_002_aprot2",
+        "name": "票根收纳册",
+        "typeName": "ast-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 40000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "31034",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 50000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 20
+              },
+              {
+                "id": "30054",
+                "count": 4
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 60000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 8
+              },
+              {
+                "id": "31064",
+                "count": 5
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
     "evolvePhaseCost": [
       {
         "level": 1,

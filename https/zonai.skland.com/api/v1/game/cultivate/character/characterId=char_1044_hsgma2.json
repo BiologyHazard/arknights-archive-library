@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761949200",
+  "timestamp": "1761970993",
   "data": {
     "id": "char_1044_hsgma2",
     "mainSkillLevelCost": [
@@ -265,7 +265,75 @@
         ]
       }
     ],
-    "equipCost": [],
+    "equipCost": [
+      {
+        "id": "uniequip_002_hsgma2",
+        "name": "无迹",
+        "typeName": "ast-x",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "4001",
+                "count": 80000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30135",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "4001",
+                "count": 100000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30155",
+                "count": 3
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "4001",
+                "count": 120000
+              },
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30145",
+                "count": 4
+              }
+            ]
+          }
+        ],
+        "shiningColor": "red"
+      }
+    ],
     "evolvePhaseCost": [
       {
         "level": 1,

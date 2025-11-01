@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761949169",
+  "timestamp": "1761970900",
   "data": {
     "id": "char_206_gnosis",
     "mainSkillLevelCost": [
@@ -266,6 +266,41 @@
       }
     ],
     "equipCost": [
+      {
+        "id": "uniequip_004_gnosis",
+        "name": "灵知特限证章",
+        "typeName": "isw-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
+      },
       {
         "id": "uniequip_002_gnosis",
         "name": "“誓言”",

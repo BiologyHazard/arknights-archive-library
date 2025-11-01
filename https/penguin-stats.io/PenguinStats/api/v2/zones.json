@@ -6740,5 +6740,47 @@
       "main_16-13",
       "main_16-12"
     ]
+  },
+  {
+    "zoneId": "act46side_zone1",
+    "zoneIndex": 1100,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "雪山降临1101",
+    "zoneName_i18n": {
+      "en": "雪山降临1101",
+      "ja": "雪山降临1101",
+      "ko": "雪山降临1101",
+      "zh": "雪山降临1101"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1761969600000,
+        "closeTime": 1763755200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act46side_01",
+      "act46side_02",
+      "act46side_03",
+      "act46side_04",
+      "act46side_05",
+      "act46side_06",
+      "act46side_07",
+      "act46side_08",
+      "act46side_09",
+      "act46side_10"
+    ]
   }
 ]

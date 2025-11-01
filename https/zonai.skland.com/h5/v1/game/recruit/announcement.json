@@ -1,34 +1,36 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761949068",
+  "timestamp": "1761970802",
   "data": {
-    "postedAtTs": 1754064000,
-    "description": "",
+    "postedAtTs": 1761926400,
+    "description": "新增干员：6★凯尔希、5★赤冬",
     "characters": [
       {
-        "charId": "char_363_toddi",
+        "charId": "char_003_kalts",
         "tagIds": [
-          2,
-          14,
-          10,
-          19
-        ],
-        "name": "熔泉",
-        "rarity": 4,
-        "profession": "SNIPER"
-      },
-      {
-        "charId": "char_472_pasngr",
-        "tagIds": [
-          6,
+          4,
           11,
           10,
+          27,
+          15
+        ],
+        "name": "凯尔希",
+        "rarity": 5,
+        "profession": "MEDIC"
+      },
+      {
+        "charId": "char_475_akafyu",
+        "tagIds": [
+          1,
+          14,
+          9,
+          20,
           19
         ],
-        "name": "异客",
-        "rarity": 5,
-        "profession": "CASTER"
+        "name": "赤冬",
+        "rarity": 4,
+        "profession": "WARRIOR"
       }
     ]
   }
