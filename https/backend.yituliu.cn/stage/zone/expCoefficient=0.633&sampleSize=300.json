@@ -4,6 +4,134 @@
   "data": {
     "ACT": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act46side_zone1",
+        "stageType": "ACT",
+        "endTime": "2025-11-21T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act46side_01",
+            "stageCode": "OS-1",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 3.4,
+            "minClearTime": 159000
+          },
+          {
+            "stageId": "act46side_02",
+            "stageCode": "OS-2",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 4.09,
+            "minClearTime": 132000
+          },
+          {
+            "stageId": "act46side_03",
+            "stageCode": "OS-3",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 2.77,
+            "minClearTime": 195000
+          },
+          {
+            "stageId": "act46side_04",
+            "stageCode": "OS-4",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 5.62,
+            "minClearTime": 128000
+          },
+          {
+            "stageId": "act46side_05",
+            "stageCode": "OS-5",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 3.51,
+            "minClearTime": 205000
+          },
+          {
+            "stageId": "act46side_06",
+            "stageCode": "OS-6",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 6.32,
+            "minClearTime": 114000
+          },
+          {
+            "stageId": "act46side_07",
+            "stageCode": "OS-7",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 7.88,
+            "minClearTime": 160000
+          },
+          {
+            "stageId": "act46side_08",
+            "stageCode": "OS-8",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 6.06,
+            "minClearTime": 208000
+          },
+          {
+            "stageId": "act46side_09",
+            "stageCode": "OS-9",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 6.46,
+            "minClearTime": 195000
+          },
+          {
+            "stageId": "act46side_10",
+            "stageCode": "OS-10",
+            "zoneId": "act46side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 10,
+            "stageType": "ACT",
+            "startTime": "2025-11-01 12:00:00",
+            "endTime": "2025-11-22 04:00:00",
+            "spm": 3.35,
+            "minClearTime": 179000
+          }
+        ]
+      },
+      {
         "zoneName": "无忧梦呓",
         "zoneId": "act45side_zone1",
         "stageType": "ACT",

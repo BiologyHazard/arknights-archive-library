@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1761970785",
+  "timestamp": "1761992292",
   "data": {
     "list": [
       {
@@ -399,6 +399,34 @@
             }
           },
           {
+            "id": 26,
+            "gameId": 1,
+            "name": "活动战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fd5a5912417bb-retracing-our-steps-record%3Fheader%3D0",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1706780972,
+            "pcLink": "https://www.skland.com/act/ak/d5a5912417bb-retracing-our-steps-record?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1761972300",
+                "endAtTs": "1763827199"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 66,
             "gameId": 1,
             "name": "干员图鉴",
@@ -427,29 +455,29 @@
             }
           },
           {
-            "id": 65,
+            "id": 70,
             "gameId": 1,
-            "name": "集成战略战绩",
+            "name": "公招索引",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "url": "https://bbs.hycdn.cn/image/2025/04/09/7c70bfe544484237dde538f8eeadf6d1.png",
               "width": 120,
               "height": 120,
-              "size": 2727,
+              "size": 10296,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
             "position": 9,
             "status": 2,
-            "startAtTs": 1752566400,
-            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "startAtTs": 1744183630,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1752577800",
-                "endAtTs": "1753200000"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
@@ -483,29 +511,29 @@
             }
           },
           {
-            "id": 70,
+            "id": 65,
             "gameId": 1,
-            "name": "公招索引",
+            "name": "集成战略战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/7c70bfe544484237dde538f8eeadf6d1.png",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
               "width": 120,
               "height": 120,
-              "size": 10296,
+              "size": 2727,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
             "position": 11,
             "status": 2,
-            "startAtTs": 1744183630,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "startAtTs": 1752566400,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1752577800",
+                "endAtTs": "1753200000"
               },
               "dotType": 0
             }
