@@ -1662,7 +1662,7 @@
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 69028
+      "times": 69039
     },
     {
       "stageId": "act12side_07",
@@ -2982,7 +2982,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1263109
+      "times": 1263113
     },
     {
       "stageId": "act21side_10",
@@ -2990,7 +2990,7 @@
     },
     {
       "stageId": "act9d0_05_perm",
-      "times": 44
+      "times": 47
     },
     {
       "stageId": "act16side_06",
@@ -3610,7 +3610,7 @@
     },
     {
       "stageId": "wk_melee_6",
-      "times": 53031
+      "times": 53048
     },
     {
       "stageId": "act15d0_01",
@@ -3770,7 +3770,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 56299
+      "times": 56325
     },
     {
       "stageId": "act10d5_06",
@@ -4028,31 +4028,35 @@
   "totalStageTimes_24h": [
     {
       "stageId": "act42side_01",
-      "times": 81
+      "times": 56
     },
     {
       "stageId": "act42side_03",
-      "times": 9
+      "times": 1
     },
     {
       "stageId": "act42side_06",
-      "times": 8
+      "times": 7
     },
     {
       "stageId": "act42side_08",
-      "times": 8
+      "times": 4
     },
     {
       "stageId": "act42side_09",
-      "times": 8
+      "times": 6
     },
     {
       "stageId": "act42side_10",
-      "times": 16
+      "times": 6
+    },
+    {
+      "stageId": "act9d0_05_perm",
+      "times": 3
     },
     {
       "stageId": "main_01-07",
-      "times": 24
+      "times": 23
     },
     {
       "stageId": "pro_d_1",
@@ -4064,15 +4068,15 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 6
+      "times": 30
     },
     {
       "stageId": "wk_melee_6",
-      "times": 55
+      "times": 65
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 43
+      "times": 50
     }
   ],
   "totalItemQuantities": [
@@ -4082,11 +4086,11 @@
     },
     {
       "itemId": "30011",
-      "quantity": 196928
+      "quantity": 196929
     },
     {
       "itemId": "30012",
-      "quantity": 1655645
+      "quantity": 1655657
     },
     {
       "itemId": "30013",
@@ -4114,11 +4118,11 @@
     },
     {
       "itemId": "30031",
-      "quantity": 113818
+      "quantity": 113819
     },
     {
       "itemId": "30032",
-      "quantity": 26905
+      "quantity": 26906
     },
     {
       "itemId": "30033",
@@ -4130,7 +4134,7 @@
     },
     {
       "itemId": "30021",
-      "quantity": 102954
+      "quantity": 102955
     },
     {
       "itemId": "30022",
@@ -4146,7 +4150,7 @@
     },
     {
       "itemId": "30041",
-      "quantity": 82295
+      "quantity": 82296
     },
     {
       "itemId": "30042",
@@ -4162,7 +4166,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 89441
+      "quantity": 89442
     },
     {
       "itemId": "30052",
@@ -4210,7 +4214,7 @@
     },
     {
       "itemId": "furni",
-      "quantity": 24475
+      "quantity": 24476
     },
     {
       "itemId": "3112",
@@ -4373,5 +4377,5 @@
       "quantity": 10
     }
   ],
-  "totalApCost": 38349015
+  "totalApCost": 38350962
 }
