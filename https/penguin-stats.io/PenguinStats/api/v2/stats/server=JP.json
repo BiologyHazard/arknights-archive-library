@@ -966,7 +966,7 @@
     },
     {
       "stageId": "pro_d_2",
-      "times": 20591
+      "times": 20601
     },
     {
       "stageId": "main_12-10",
@@ -1662,7 +1662,7 @@
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 69261
+      "times": 69310
     },
     {
       "stageId": "act12side_07",
@@ -2034,7 +2034,7 @@
     },
     {
       "stageId": "main_15-08",
-      "times": 337
+      "times": 338
     },
     {
       "stageId": "act11d0_01_rep",
@@ -2734,7 +2734,7 @@
     },
     {
       "stageId": "pro_d_1",
-      "times": 16057
+      "times": 16058
     },
     {
       "stageId": "wk_melee_1",
@@ -2982,7 +2982,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1263167
+      "times": 1263183
     },
     {
       "stageId": "act21side_10",
@@ -3610,7 +3610,7 @@
     },
     {
       "stageId": "wk_melee_6",
-      "times": 53178
+      "times": 53196
     },
     {
       "stageId": "act15d0_01",
@@ -3726,7 +3726,7 @@
     },
     {
       "stageId": "wk_fly_5",
-      "times": 31758
+      "times": 31761
     },
     {
       "stageId": "act32side_07",
@@ -3770,7 +3770,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 56330
+      "times": 56331
     },
     {
       "stageId": "act10d5_06",
@@ -4027,36 +4027,32 @@
   ],
   "totalStageTimes_24h": [
     {
-      "stageId": "act9d0_05_perm",
-      "times": 11
-    },
-    {
       "stageId": "act9d0_08_perm",
       "times": 9
     },
     {
       "stageId": "main_01-07",
-      "times": 37
+      "times": 40
     },
     {
       "stageId": "main_15-08",
-      "times": 1
+      "times": 2
     },
     {
       "stageId": "pro_b_1",
       "times": 2
     },
     {
-      "stageId": "pro_d_2",
-      "times": 9
-    },
-    {
-      "stageId": "wk_armor_5",
+      "stageId": "pro_d_1",
       "times": 1
     },
     {
+      "stageId": "pro_d_2",
+      "times": 15
+    },
+    {
       "stageId": "wk_fly_5",
-      "times": 8
+      "times": 9
     },
     {
       "stageId": "wk_kc_4",
@@ -4068,25 +4064,25 @@
     },
     {
       "stageId": "wk_melee_6",
-      "times": 52
+      "times": 63
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 154
+      "times": 161
     }
   ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
-      "quantity": 124894
+      "quantity": 124895
     },
     {
       "itemId": "30011",
-      "quantity": 196945
+      "quantity": 196950
     },
     {
       "itemId": "30012",
-      "quantity": 1655766
+      "quantity": 1655790
     },
     {
       "itemId": "30013",
@@ -4098,7 +4094,7 @@
     },
     {
       "itemId": "30061",
-      "quantity": 63662
+      "quantity": 63663
     },
     {
       "itemId": "30062",
@@ -4114,7 +4110,7 @@
     },
     {
       "itemId": "30031",
-      "quantity": 113820
+      "quantity": 113822
     },
     {
       "itemId": "30032",
@@ -4162,7 +4158,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 89443
+      "quantity": 89445
     },
     {
       "itemId": "30052",
@@ -4210,7 +4206,7 @@
     },
     {
       "itemId": "furni",
-      "quantity": 24513
+      "quantity": 24522
     },
     {
       "itemId": "3112",
@@ -4226,15 +4222,15 @@
     },
     {
       "itemId": "3301",
-      "quantity": 48748
+      "quantity": 48753
     },
     {
       "itemId": "3302",
-      "quantity": 49244
+      "quantity": 49249
     },
     {
       "itemId": "3303",
-      "quantity": 64437
+      "quantity": 64443
     },
     {
       "itemId": "31013",
@@ -4290,7 +4286,7 @@
     },
     {
       "itemId": "3281",
-      "quantity": 8002
+      "quantity": 8003
     },
     {
       "itemId": "3212",
@@ -4298,7 +4294,7 @@
     },
     {
       "itemId": "3222",
-      "quantity": 10359
+      "quantity": 10363
     },
     {
       "itemId": "3242",
@@ -4322,7 +4318,7 @@
     },
     {
       "itemId": "3282",
-      "quantity": 10176
+      "quantity": 10182
     },
     {
       "itemId": "31043",
@@ -4373,5 +4369,5 @@
       "quantity": 10
     }
   ],
-  "totalApCost": 38364551
+  "totalApCost": 38367290
 }
