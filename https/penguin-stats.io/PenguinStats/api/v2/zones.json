@@ -6419,9 +6419,9 @@
     "subType": null,
     "zoneName": "红丝绒",
     "zoneName_i18n": {
-      "en": "红丝绒",
-      "ja": "红丝绒",
-      "ko": "红丝绒",
+      "en": "Act or Die",
+      "ja": "緋染めのビロード",
+      "ko": "붉게 물든 벨벳",
       "zh": "红丝绒"
     },
     "existence": {
@@ -6431,13 +6431,19 @@
         "closeTime": 1750276800000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1763017200000,
+        "closeTime": 1764183600000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1763017200000,
+        "closeTime": 1764183600000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1763046000000,
+        "closeTime": 1764241200000
       }
     },
     "background": null,
