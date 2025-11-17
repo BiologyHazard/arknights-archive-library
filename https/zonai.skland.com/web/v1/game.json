@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1763353557",
+  "timestamp": "1763374953",
   "data": {
     "list": [
       {
@@ -1116,34 +1116,6 @@
               "timeRange": {
                 "startAtTs": "1761915005",
                 "endAtTs": "1762433999"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 17,
-            "gameId": 3,
-            "name": "招募问卷",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/10/31/14b0aa17cb5000d136ddfd53492efd05.png",
-              "width": 120,
-              "height": 120,
-              "size": 1654,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fsurvey.hypergryph.com%2Fs%2F79c75b893cc7ff8cf8259b5c77ad84a2",
-            "position": 2,
-            "status": 2,
-            "startAtTs": 1698647844,
-            "pcLink": "https://survey.hypergryph.com/s/79c75b893cc7ff8cf8259b5c77ad84a2",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
               },
               "dotType": 0
             }
