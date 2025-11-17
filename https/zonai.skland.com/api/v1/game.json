@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1763374952",
+  "timestamp": "1763396800",
   "data": {
     "list": [
       {
@@ -399,6 +399,26 @@
             }
           },
           {
+            "id": 53,
+            "gameId": 1,
+            "name": "助战检索",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/02/e00752bd63751f1da71387f0e9e5b413.png",
+              "width": 120,
+              "height": 120,
+              "size": 3409,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 1725265437,
+            "pcLink": "https://www.skland.com/download?type=akSupport",
+            "pcStatus": 2
+          },
+          {
             "id": 66,
             "gameId": 1,
             "name": "干员图鉴",
@@ -412,7 +432,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -440,7 +460,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 1744183630,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -468,7 +488,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 1744170644,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -496,7 +516,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 1752566400,
             "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
@@ -524,7 +544,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 1687858966,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -544,7 +564,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 14,
+            "position": 15,
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
