@@ -634,7 +634,7 @@
     },
     {
       "stageId": "act43side_03",
-      "times": 122
+      "times": 138
     },
     {
       "stageId": "act11d0_08",
@@ -978,7 +978,7 @@
     },
     {
       "stageId": "act43side_07",
-      "times": 307
+      "times": 319
     },
     {
       "stageId": "act15d5_01",
@@ -1850,7 +1850,7 @@
     },
     {
       "stageId": "act43side_06",
-      "times": 647
+      "times": 694
     },
     {
       "stageId": "act21side_01_rep",
@@ -2606,7 +2606,7 @@
     },
     {
       "stageId": "act43side_05",
-      "times": 12
+      "times": 14
     },
     {
       "stageId": "sub_04-2-1",
@@ -2858,7 +2858,7 @@
     },
     {
       "stageId": "pro_b_2",
-      "times": 17989
+      "times": 17990
     },
     {
       "stageId": "act22side_04",
@@ -3274,7 +3274,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1695260
+      "times": 1695277
     },
     {
       "stageId": "act9d0_05_perm",
@@ -3694,7 +3694,7 @@
     },
     {
       "stageId": "act43side_04",
-      "times": 28
+      "times": 29
     },
     {
       "stageId": "main_10-02",
@@ -4146,7 +4146,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 65268
+      "times": 65269
     },
     {
       "stageId": "act18d3_05",
@@ -4354,7 +4354,7 @@
     },
     {
       "stageId": "act43side_08",
-      "times": 843
+      "times": 886
     },
     {
       "stageId": "act39side_07",
@@ -4428,27 +4428,31 @@
   "totalStageTimes_24h": [
     {
       "stageId": "act43side_03",
-      "times": 22
+      "times": 34
     },
     {
       "stageId": "act43side_04",
-      "times": 1
+      "times": 2
+    },
+    {
+      "stageId": "act43side_05",
+      "times": 2
     },
     {
       "stageId": "act43side_06",
-      "times": 117
+      "times": 137
     },
     {
       "stageId": "act43side_07",
-      "times": 23
+      "times": 20
     },
     {
       "stageId": "act43side_08",
-      "times": 120
+      "times": 108
     },
     {
       "stageId": "main_01-07",
-      "times": 90
+      "times": 56
     },
     {
       "stageId": "main_13-11",
@@ -4464,17 +4468,17 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 1
+      "times": 2
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 28
+      "times": 30
     }
   ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
-      "quantity": 179061
+      "quantity": 179063
     },
     {
       "itemId": "30011",
@@ -4482,7 +4486,7 @@
     },
     {
       "itemId": "30012",
-      "quantity": 2367208
+      "quantity": 2367293
     },
     {
       "itemId": "30013",
@@ -4498,11 +4502,11 @@
     },
     {
       "itemId": "30062",
-      "quantity": 47831
+      "quantity": 47849
     },
     {
       "itemId": "30063",
-      "quantity": 74396
+      "quantity": 74423
     },
     {
       "itemId": "30064",
@@ -4514,11 +4518,11 @@
     },
     {
       "itemId": "30032",
-      "quantity": 47349
+      "quantity": 47355
     },
     {
       "itemId": "30033",
-      "quantity": 28917
+      "quantity": 28929
     },
     {
       "itemId": "30034",
@@ -4526,7 +4530,7 @@
     },
     {
       "itemId": "30021",
-      "quantity": 133163
+      "quantity": 133165
     },
     {
       "itemId": "30022",
@@ -4542,7 +4546,7 @@
     },
     {
       "itemId": "30041",
-      "quantity": 106312
+      "quantity": 106314
     },
     {
       "itemId": "30042",
@@ -4558,11 +4562,11 @@
     },
     {
       "itemId": "30051",
-      "quantity": 122037
+      "quantity": 122038
     },
     {
       "itemId": "30052",
-      "quantity": 28138
+      "quantity": 28140
     },
     {
       "itemId": "30053",
@@ -4642,7 +4646,7 @@
     },
     {
       "itemId": "31023",
-      "quantity": 67225
+      "quantity": 67262
     },
     {
       "itemId": "31024",
@@ -4714,7 +4718,7 @@
     },
     {
       "itemId": "3252",
-      "quantity": 8982
+      "quantity": 8983
     },
     {
       "itemId": "3282",
@@ -4769,5 +4773,5 @@
       "quantity": 310
     }
   ],
-  "totalApCost": 48884418
+  "totalApCost": 48886962
 }
