@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1763677063",
+  "timestamp": "1763698970",
   "data": {
     "list": [
       {
@@ -1112,6 +1112,34 @@
           }
         ],
         "quickaccesses": [
+          {
+            "id": 86,
+            "gameId": 3,
+            "name": "预约游戏",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/10/31/ef1d3e13206c11a93a244a9095eb3fb5.png",
+              "width": 120,
+              "height": 120,
+              "size": 1348,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Freservation%3Fheader%3D0",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1763698110,
+            "pcLink": "https://game.skland.com/endfield/reservation?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
           {
             "id": 19,
             "gameId": 3,
