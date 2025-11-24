@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1763958802",
+  "timestamp": "1763979754",
   "data": {
     "list": [
       {
@@ -1169,6 +1169,34 @@
             }
           },
           {
+            "id": 88,
+            "gameId": 3,
+            "name": "资格查询",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/11/24/8141d111b3e0b2443512d64e1427d5d4.png",
+              "width": 120,
+              "height": 120,
+              "size": 2032,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2FcheckAccess%3Fheader%3D0",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 1763960429,
+            "pcLink": "https://endfield.hypergryph.com/checkAccess?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 87,
             "gameId": 3,
             "name": "招募FAQ",
@@ -1182,7 +1210,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=3333725&viewKind=3",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 1761913307,
             "pcLink": "skland://detail?id=3333725&viewKind=3",
@@ -1202,7 +1230,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2F",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 1723617068,
             "pcLink": "https://endfield.hypergryph.com/",
