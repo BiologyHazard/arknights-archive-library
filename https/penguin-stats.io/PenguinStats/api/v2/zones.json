@@ -6788,5 +6788,47 @@
       "act46side_09",
       "act46side_10"
     ]
+  },
+  {
+    "zoneId": "act38sre_zone1",
+    "zoneIndex": 1101,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "揭幕者们・复刻",
+    "zoneName_i18n": {
+      "en": "I Portatori dei Velluti - Rerun",
+      "ja": "幕開く者たち・復刻",
+      "ko": "막을 여는 자들 재개방",
+      "zh": "揭幕者们・复刻"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1764057600000,
+        "closeTime": 1764878400000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act38side_01_rep",
+      "act38side_02_rep",
+      "act38side_03_rep",
+      "act38side_04_rep",
+      "act38side_05_rep",
+      "act38side_06_rep",
+      "act38side_07_rep",
+      "act38side_08_rep",
+      "act38side_09_rep",
+      "act38side_10_rep"
+    ]
   }
 ]
