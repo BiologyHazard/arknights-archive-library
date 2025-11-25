@@ -6819,7 +6819,7 @@
       "displayName": "光影记忆组合包",
       "price": 12.0,
       "saleType": "activity",
-      "tags": null,
+      "tags": "",
       "imageName": null,
       "imageLink": "image/光影记忆组合包.1855452264401000.jpg",
       "gachaTicket": 0,
@@ -6828,53 +6828,13 @@
       "orundum": 800,
       "packContent": [
         {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
-        },
-        {
-          "itemName": "个人名片头像一览",
-          "itemId": "0",
-          "quantity": 1
+          "itemName": "头像",
+          "itemId": "avatar_special",
+          "quantity": 3
         }
       ],
-      "start": 1733990400000,
-      "end": 1735761540000,
+      "start": 1764000000000,
+      "end": 1765814400000,
       "note": null
     },
     {
@@ -6883,16 +6843,22 @@
       "displayName": "影印留形组合包",
       "price": 18.0,
       "saleType": "activity",
-      "tags": null,
+      "tags": "",
       "imageName": null,
       "imageLink": "image/影印留形组合包.1855452336481000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 0,
-      "packContent": null,
-      "start": 1733990400000,
-      "end": 1735761540000,
+      "packContent": [
+        {
+          "itemName": "名片主题",
+          "itemId": "business_card_theme",
+          "quantity": 1
+        }
+      ],
+      "start": 1764053145270,
+      "end": 1765814400000,
       "note": null
     },
     {
