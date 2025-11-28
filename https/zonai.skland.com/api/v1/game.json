@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1764281883",
+  "timestamp": "1764303822",
   "data": {
     "list": [
       {
@@ -1141,6 +1141,46 @@
             }
           },
           {
+            "id": 89,
+            "gameId": 3,
+            "name": "配队推荐",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/11/28/4d2085f3efd07373dad8be1889dfe758.png",
+              "width": 120,
+              "height": 120,
+              "size": 3415,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1764298025,
+            "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
+            "pcStatus": 2
+          },
+          {
+            "id": 90,
+            "gameId": 3,
+            "name": "养成建议",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/11/28/f39eeca296a785584976473006a512b9.png",
+              "width": 120,
+              "height": 120,
+              "size": 3158,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1764298070,
+            "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
+            "pcStatus": 2
+          },
+          {
             "id": 19,
             "gameId": 3,
             "name": "最新PV",
@@ -1153,11 +1193,11 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=3333505&viewKind=1",
-            "position": 5,
+            "link": "skland://detail?id=3475324&viewKind=1",
+            "position": 7,
             "status": 2,
             "startAtTs": 1698648105,
-            "pcLink": "skland://detail?id=3333505&viewKind=1",
+            "pcLink": "skland://detail?id=3475324&viewKind=1",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -1182,7 +1222,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2FcheckAccess%3Fheader%3D0",
-            "position": 6,
+            "position": 8,
             "status": 2,
             "startAtTs": 1763960429,
             "pcLink": "https://endfield.hypergryph.com/checkAccess?header=0",
@@ -1210,7 +1250,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=3333725&viewKind=3",
-            "position": 7,
+            "position": 9,
             "status": 2,
             "startAtTs": 1761913307,
             "pcLink": "skland://detail?id=3333725&viewKind=3",
@@ -1230,7 +1270,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2F",
-            "position": 8,
+            "position": 10,
             "status": 2,
             "startAtTs": 1723617068,
             "pcLink": "https://endfield.hypergryph.com/",
