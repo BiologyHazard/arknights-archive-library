@@ -11192,7 +11192,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/2047743239331000.png",
+      "imageLink": "image/2078042449641000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 19,
@@ -12266,7 +12266,7 @@
       "saleType": "activity",
       "tags": "outOfPrint,activity",
       "imageName": null,
-      "imageLink": "image/2047743239331000.png",
+      "imageLink": "image/2078042449641000.png",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 19,
@@ -12611,6 +12611,112 @@
       "start": 1761926400000,
       "end": 1764345600000,
       "note": "数据增补仪*30、数据增补条*90"
+    },
+    {
+      "id": 2078041753591000,
+      "officialName": "天空研究资金包",
+      "displayName": "天空研究资金包",
+      "price": 45.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2078041755941000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 13,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 300000
+        }
+      ],
+      "start": 1764864000000,
+      "end": 1766073600000,
+      "note": null
+    },
+    {
+      "id": 2078042447221000,
+      "officialName": "高级特训意向包",
+      "displayName": "高级特训意向包",
+      "price": 128.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2078042449641000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 19,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "高级资深干员特训装置",
+          "itemId": "voucher_levelmax_6",
+          "quantity": 1
+        }
+      ],
+      "start": 1764864000000,
+      "end": 1766073600000,
+      "note": null
+    },
+    {
+      "id": 2078043031801000,
+      "officialName": "技巧综合礼包",
+      "displayName": "技巧综合礼包",
+      "price": 98.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2078043033921000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 12,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "高级资深干员技巧集",
+          "itemId": "voucher_skill_specialLevelMax_6",
+          "quantity": 1
+        },
+        {
+          "itemName": "资深干员技巧集",
+          "itemId": "voucher_skill_specialLevelMax_5",
+          "quantity": 1
+        },
+        {
+          "itemName": "专业干员技巧集",
+          "itemId": "voucher_skill_specialLevelMax_4",
+          "quantity": 1
+        }
+      ],
+      "start": 1764864000000,
+      "end": 1766073600000,
+      "note": null
+    },
+    {
+      "id": 2078043934261000,
+      "officialName": "罗德岛资金箱",
+      "displayName": "罗德岛资金箱",
+      "price": 68.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2078043936001000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 16,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 700000
+        }
+      ],
+      "start": 1764864000000,
+      "end": 1766073600000,
+      "note": null
     }
   ]
 }
