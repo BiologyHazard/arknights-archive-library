@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1764886627",
+  "timestamp": "1764908917",
   "data": {
     "list": [
       {
@@ -371,29 +371,57 @@
             }
           },
           {
-            "id": 84,
+            "id": 67,
             "gameId": 1,
-            "name": "历程报告",
+            "name": "更新福利",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
               "width": 120,
               "height": 120,
-              "size": 2665,
-              "format": "png",
+              "size": 505198,
+              "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act46side",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_780597",
             "position": 3,
             "status": 2,
-            "startAtTs": 1764061559,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act46side",
+            "startAtTs": 1743992280,
+            "pcLink": "skland://detail?id=2699001&viewKind=3",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1764887340",
+                "endAtTs": "1765468799"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 26,
+            "gameId": 1,
+            "name": "活动战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fe864f4250cec-unrealized-realities-record%3Fheader%3D0",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1706780972,
+            "pcLink": "https://www.skland.com/act/ak/e864f4250cec-unrealized-realities-record?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1764061620",
-                "endAtTs": "1764907200"
+                "startAtTs": "1764907500",
+                "endAtTs": "1766246399"
               },
               "dotType": 0
             }
@@ -548,26 +576,6 @@
             "status": 2,
             "startAtTs": 1687858966,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
-            "pcStatus": 2
-          },
-          {
-            "id": 16,
-            "gameId": 1,
-            "name": "可汗大帐",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/07/31/7e13a9a3c1b4a1079f72de7b9b595df3.png",
-              "width": 120,
-              "height": 120,
-              "size": 12548,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 15,
-            "status": 2,
-            "startAtTs": 1690790209,
-            "pcLink": "https://strategy.skland.com/home",
             "pcStatus": 2
           }
         ],
@@ -2079,7 +2087,7 @@
           "gameId": 100,
           "name": "纳斯特港",
           "iconUrl": "https://bbs.hycdn.cn/asset/6497465ab3e22dfabbcf0baedcf14701.png",
-          "backgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025autumn/app.png",
+          "backgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025winter/app.png",
           "tabIconNor": {
             "id": "",
             "url": "https://bbs.hycdn.cn/asset/tab/tab_nest_unsel.png",
@@ -2100,8 +2108,8 @@
           },
           "chineseIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour_zh_cn.svg",
           "pcIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour.png",
-          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025autumn/pc.png",
-          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025autumn/pc_underlying.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025winter/pc.png",
+          "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2025winter/pc_underlying.png",
           "englishIconUrl": "https://bbs.hycdn.cn/asset/nest_harbour_en_us.svg",
           "backgroundStyle": 2,
           "description": "日常/生活等综合讨论区"
