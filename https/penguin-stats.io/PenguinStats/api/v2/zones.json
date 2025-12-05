@@ -6830,5 +6830,45 @@
       "act38side_09_rep",
       "act38side_10_rep"
     ]
+  },
+  {
+    "zoneId": "act47side_zone1",
+    "zoneIndex": 1102,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "未许之地",
+    "zoneName_i18n": {
+      "en": "未许之地",
+      "ja": "未许之地",
+      "ko": "未许之地",
+      "zh": "未许之地"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1764907200000,
+        "closeTime": 1766088000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act47side_01",
+      "act47side_02",
+      "act47side_03",
+      "act47side_04",
+      "act47side_05",
+      "act47side_06",
+      "act47side_07",
+      "act47side_08"
+    ]
   }
 ]
