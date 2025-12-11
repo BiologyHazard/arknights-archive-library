@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1765448655",
+  "timestamp": "1765470623",
   "data": {
     "list": [
       {
@@ -373,7 +373,7 @@
           {
             "id": 67,
             "gameId": 1,
-            "name": "更新福利",
+            "name": "更新游戏",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
@@ -383,17 +383,17 @@
               "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_780597",
+            "link": "skland://gameCenterDetail?appCode=GzD1CpaWgmSq1wew",
             "position": 3,
             "status": 2,
             "startAtTs": 1743992280,
             "pcLink": "skland://detail?id=2699001&viewKind=3",
             "pcStatus": 1,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1764887340",
-                "endAtTs": "1765468799"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
