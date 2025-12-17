@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1765945939",
+  "timestamp": "1765967045",
   "data": {
     "list": [
       {
@@ -399,26 +399,6 @@
             }
           },
           {
-            "id": 53,
-            "gameId": 1,
-            "name": "助战检索",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/09/02/e00752bd63751f1da71387f0e9e5b413.png",
-              "width": 120,
-              "height": 120,
-              "size": 3409,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 8,
-            "status": 2,
-            "startAtTs": 1725265437,
-            "pcLink": "https://www.skland.com/download?type=akSupport",
-            "pcStatus": 2
-          },
-          {
             "id": 66,
             "gameId": 1,
             "name": "干员图鉴",
@@ -548,6 +528,46 @@
             "status": 2,
             "startAtTs": 1687858966,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
+            "pcStatus": 2
+          },
+          {
+            "id": 16,
+            "gameId": 1,
+            "name": "可汗大帐",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/07/31/7e13a9a3c1b4a1079f72de7b9b595df3.png",
+              "width": 120,
+              "height": 120,
+              "size": 12548,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
+            "position": 15,
+            "status": 2,
+            "startAtTs": 1690790209,
+            "pcLink": "https://strategy.skland.com/home",
+            "pcStatus": 2
+          },
+          {
+            "id": 10,
+            "gameId": 1,
+            "name": "朝陇山",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/27/42fc82abd644ab07b4d799554ab22547.png",
+              "width": 120,
+              "height": 120,
+              "size": 8015,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fmingrifangzhou.tmall.com%2Findex.htm%3Fspm%3Da1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
+            "position": 18,
+            "status": 2,
+            "startAtTs": 1687854359,
+            "pcLink": "https://mingrifangzhou.tmall.com/index.htm?spm=a1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
             "pcStatus": 2
           }
         ],
