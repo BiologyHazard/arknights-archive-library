@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "0449",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2025-12-18",
+        "updatedAt": 1765967869,
+        "sticky": false
+      },
+      {
         "cid": "6711",
         "title": "【出苍白海】\\n复刻即将开启",
         "category": 1,
@@ -93,14 +101,6 @@
         "sticky": false
       },
       {
-        "cid": "6714",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2025-12-04",
-        "updatedAt": 1764141109,
-        "sticky": false
-      },
-      {
         "cid": "0442",
         "title": "【未许之地】\\n活动即将开启",
         "category": 1,
@@ -151,7 +151,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "0449"
     }
   }
 }
