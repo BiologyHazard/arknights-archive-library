@@ -116467,89 +116467,7 @@
         "exist": false
       }
     },
-    "minClearTime": 162000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "30011",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30061",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30031",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30021",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30041",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30051",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 6
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 162000
   },
   {
     "stageId": "act47side_02",
@@ -116579,89 +116497,7 @@
         "exist": false
       }
     },
-    "minClearTime": 187000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "30011",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30061",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30031",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30021",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30041",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30051",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 6
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 187000
   },
   {
     "stageId": "act47side_03",
@@ -116691,57 +116527,7 @@
         "exist": false
       }
     },
-    "minClearTime": 185000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "30022",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 1,
-          "upper": 3
-        }
-      },
-      {
-        "itemId": "30052",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 3
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 1,
-          "upper": 2
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 185000
   },
   {
     "stageId": "act47side_04",
@@ -116771,57 +116557,7 @@
         "exist": false
       }
     },
-    "minClearTime": 224000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "30062",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 3
-        }
-      },
-      {
-        "itemId": "30052",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 3
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 2
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 224000
   },
   {
     "stageId": "act47side_05",
@@ -116851,57 +116587,7 @@
         "exist": false
       }
     },
-    "minClearTime": 180000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "30012",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 1,
-          "upper": 5
-        }
-      },
-      {
-        "itemId": "30022",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 3
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 1,
-          "upper": 2
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 180000
   },
   {
     "stageId": "act47side_06",
@@ -116931,49 +116617,7 @@
         "exist": false
       }
     },
-    "minClearTime": 187000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "30033",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 187000
   },
   {
     "stageId": "act47side_07",
@@ -117003,49 +116647,7 @@
         "exist": false
       }
     },
-    "minClearTime": 204000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "31023",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 204000
   },
   {
     "stageId": "act47side_08",
@@ -117075,48 +116677,6 @@
         "exist": false
       }
     },
-    "minClearTime": 346000,
-    "recognitionOnly": [
-      "act47side_token_bottle"
-    ],
-    "dropInfos": [
-      {
-        "itemId": "31033",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "itemId": "furni",
-        "dropType": "FURNITURE",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      }
-    ]
+    "minClearTime": 346000
   }
 ]
