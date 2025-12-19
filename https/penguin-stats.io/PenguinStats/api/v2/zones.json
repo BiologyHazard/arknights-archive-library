@@ -6477,13 +6477,19 @@
         "closeTime": 1751140800000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1764226800000,
+        "closeTime": 1765047600000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1764226800000,
+        "closeTime": 1765047600000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1764255600000,
+        "closeTime": 1765105200000
       }
     },
     "background": null,
@@ -6506,9 +6512,9 @@
     "subType": null,
     "zoneName": "镜中集",
     "zoneName_i18n": {
-      "en": "镜中集",
-      "ja": "镜中集",
-      "ko": "镜中集",
+      "en": "Fantasy in the Mirage",
+      "ja": "鏡中集",
+      "ko": "경중집",
       "zh": "镜中集"
     },
     "existence": {
@@ -6518,21 +6524,27 @@
         "closeTime": 1752523200000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1765436400000,
+        "closeTime": 1765998000000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1765436400000,
+        "closeTime": 1765998000000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1765465200000,
+        "closeTime": 1766055600000
       }
     },
     "background": null,
     "stages": [
-      "act19mini_01",
       "act19mini_02",
       "act19mini_03",
       "act19mini_04",
+      "act19mini_01",
       "act19mini_05",
       "act19mini_06",
       "act19mini_07",
@@ -6869,6 +6881,46 @@
       "act47side_06",
       "act47side_07",
       "act47side_08"
+    ]
+  },
+  {
+    "zoneId": "act39sre_zone1",
+    "zoneIndex": 1103,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "出苍白海・复刻",
+    "zoneName_i18n": {
+      "en": "Exodus From The Pale Sea - Rerun",
+      "ja": "白き海の彼方へ・復刻",
+      "ko": "창백한 바다로부터의 탈출 재개방",
+      "zh": "出苍白海・复刻"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1766088000000,
+        "closeTime": 1766952000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act39side_01_rep",
+      "act39side_02_rep",
+      "act39side_03_rep",
+      "act39side_04_rep",
+      "act39side_05_rep",
+      "act39side_06_rep",
+      "act39side_07_rep",
+      "act39side_08_rep"
     ]
   }
 ]
