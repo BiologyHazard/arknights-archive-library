@@ -5565,7 +5565,7 @@
       "saleType": "activity",
       "tags": "no data",
       "imageName": null,
-      "imageLink": "image/1951078839741000.png",
+      "imageLink": "image/2097004070851000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -6263,7 +6263,7 @@
       "saleType": "activity",
       "tags": "elite",
       "imageName": null,
-      "imageLink": "image/1951078839741000.png",
+      "imageLink": "image/2097004070851000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -10651,7 +10651,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/1951078839741000.png",
+      "imageLink": "image/2097004070851000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -12717,6 +12717,142 @@
       "start": 1764864000000,
       "end": 1766073600000,
       "note": null
+    },
+    {
+      "id": 2097002053581000,
+      "officialName": "新年寻访组合包·中坚α",
+      "displayName": "新年寻访组合包·中坚α",
+      "price": 168.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2097005839851000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 1,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": null,
+      "start": 1767196800000,
+      "end": 1768406400000,
+      "note": null
+    },
+    {
+      "id": 2097002293211000,
+      "officialName": "新年寻访组合包·中坚β",
+      "displayName": "新年寻访组合包·中坚β",
+      "price": 168.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2097005616481000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 1,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": null,
+      "start": 1767196800000,
+      "end": 1768406400000,
+      "note": null
+    },
+    {
+      "id": 2097002442181000,
+      "officialName": "新年寻访组合包·中坚γ",
+      "displayName": "新年寻访组合包·中坚γ",
+      "price": 168.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2097002442941000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 1,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": null,
+      "start": 1767196800000,
+      "end": 1768406400000,
+      "note": null
+    },
+    {
+      "id": 2097003081301000,
+      "officialName": "罗德岛新年组合包",
+      "displayName": "罗德岛新年组合包",
+      "price": 198.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2097003083381000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 1,
+      "originium": 51,
+      "orundum": 2100,
+      "packContent": [
+        {
+          "itemName": "模组数据块",
+          "itemId": "mod_unlock_token",
+          "quantity": 4
+        }
+      ],
+      "start": 1767196800000,
+      "end": 1768406400000,
+      "note": null
+    },
+    {
+      "id": 2097004068771000,
+      "officialName": "高级特训组合包",
+      "displayName": "高级特训组合包",
+      "price": 168.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2097004070851000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "资深干员特训邀请函",
+          "itemId": "voucher_elite_II_5",
+          "quantity": 2
+        },
+        {
+          "itemName": "高级资深干员特训邀请函",
+          "itemId": "voucher_elite_II_6",
+          "quantity": 1
+        }
+      ],
+      "start": 1767196800000,
+      "end": 1768406400000,
+      "note": null
+    },
+    {
+      "id": 2097004972561000,
+      "officialName": "天想星迹组合包",
+      "displayName": "天想星迹组合包",
+      "price": 30.0,
+      "saleType": "activity",
+      "tags": "",
+      "imageName": null,
+      "imageLink": "image/2097004974871000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "主题场景",
+          "itemId": "theme_scene",
+          "quantity": 1
+        },
+        {
+          "itemName": "界面主题",
+          "itemId": "UI_Theme",
+          "quantity": 1
+        }
+      ],
+      "start": 1767196800000,
+      "end": 1769616000000,
+      "note": "30源石"
     }
   ]
 }
