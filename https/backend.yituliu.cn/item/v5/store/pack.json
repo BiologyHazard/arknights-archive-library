@@ -3364,7 +3364,7 @@
       "saleType": "activity",
       "tags": "activity,special,event",
       "imageName": null,
-      "imageLink": "image/新年寻访组合包·中坚.1855452378231000.jpg",
+      "imageLink": "image/2098593606991000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -6797,7 +6797,7 @@
       "saleType": "activity",
       "tags": null,
       "imageName": null,
-      "imageLink": "image/新年寻访组合包·中坚.1855452378231000.jpg",
+      "imageLink": "image/2098593606991000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -12719,58 +12719,76 @@
       "note": null
     },
     {
-      "id": 2097002053581000,
-      "officialName": "新年寻访组合包·中坚α",
-      "displayName": "新年寻访组合包·中坚α",
+      "id": 2097002293201000,
+      "officialName": "新年寻访组合包·α类",
+      "displayName": "新年寻访组合包·α类",
       "price": 168.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "activity",
       "imageName": null,
-      "imageLink": "image/2097005839851000.jpg",
+      "imageLink": "image/2098603243211000.jpg",
       "gachaTicket": 0,
-      "tenGachaTicket": 1,
+      "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 0,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "新年寻访凭证",
+          "itemId": "recruitment10",
+          "quantity": 1
+        }
+      ],
       "start": 1767196800000,
       "end": 1768406400000,
-      "note": null
+      "note": "必得6星，六星仅出现：阿斯卡纶、提丰、霍尔海雅"
     },
     {
       "id": 2097002293211000,
-      "officialName": "新年寻访组合包·中坚β",
-      "displayName": "新年寻访组合包·中坚β",
+      "officialName": "新年寻访组合包·β类",
+      "displayName": "新年寻访组合包·β类",
       "price": 168.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "activity",
       "imageName": null,
-      "imageLink": "image/2097005616481000.jpg",
+      "imageLink": "image/2098603522641000.jpg",
       "gachaTicket": 0,
-      "tenGachaTicket": 1,
+      "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 0,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "新年寻访凭证",
+          "itemId": "recruitment10",
+          "quantity": 1
+        }
+      ],
       "start": 1767196800000,
       "end": 1768406400000,
-      "note": null
+      "note": "必得6星，六星仅出现：蕾缪安、妮芙、涤火杰西卡"
     },
     {
       "id": 2097002442181000,
-      "officialName": "新年寻访组合包·中坚γ",
-      "displayName": "新年寻访组合包·中坚γ",
+      "officialName": "新年寻访组合包·γ类",
+      "displayName": "新年寻访组合包·γ类",
       "price": 168.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "activity",
       "imageName": null,
-      "imageLink": "image/2097002442941000.jpg",
+      "imageLink": "image/2098603357081000.jpg",
       "gachaTicket": 0,
-      "tenGachaTicket": 1,
+      "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 0,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "新年寻访凭证",
+          "itemId": "recruitment10",
+          "quantity": 1
+        }
+      ],
       "start": 1767196800000,
       "end": 1768406400000,
-      "note": null
+      "note": "必得6星，六星仅出现：澄闪、焰影苇草、灵知"
     },
     {
       "id": 2097003081301000,
@@ -12850,8 +12868,8 @@
           "quantity": 1
         }
       ],
-      "start": 1767196800000,
-      "end": 1769616000000,
+      "start": 1546272000000,
+      "end": 1548691200000,
       "note": "使用30源石购买"
     },
     {
@@ -12871,6 +12889,24 @@
       "start": 1766492746108,
       "end": 1768838400000,
       "note": "0元购！内含一套完整的会客室家具！"
+    },
+    {
+      "id": 2098593605971000,
+      "officialName": "新年寻访组合包·中坚",
+      "displayName": "新年寻访组合包·中坚",
+      "price": 68.0,
+      "saleType": "activity",
+      "tags": "activity",
+      "imageName": null,
+      "imageLink": "image/2098593606991000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 1,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": null,
+      "start": 1766592000000,
+      "end": 1767801600000,
+      "note": null
     }
   ]
 }
