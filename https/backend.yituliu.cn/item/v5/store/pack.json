@@ -12750,7 +12750,7 @@
       "saleType": "activity",
       "tags": "activity",
       "imageName": null,
-      "imageLink": "image/2098603522641000.jpg",
+      "imageLink": "image/2098881510341000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -12774,7 +12774,7 @@
       "saleType": "activity",
       "tags": "activity",
       "imageName": null,
-      "imageLink": "image/2098603357081000.jpg",
+      "imageLink": "image/2098881617841000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -12876,7 +12876,7 @@
       "id": 2098168945991000,
       "officialName": "[阿米娅的寰宇记忆]组合包",
       "displayName": "[阿米娅的寰宇记忆]组合包",
-      "price": 0.01,
+      "price": 0.0,
       "saleType": "activity",
       "tags": "activity",
       "imageName": null,
@@ -12900,10 +12900,16 @@
       "imageName": null,
       "imageLink": "image/2098593606991000.jpg",
       "gachaTicket": 0,
-      "tenGachaTicket": 1,
+      "tenGachaTicket": 0,
       "originium": 0,
       "orundum": 0,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "十连中坚寻访凭证",
+          "itemId": "classic_gacha_10",
+          "quantity": 1
+        }
+      ],
       "start": 1766592000000,
       "end": 1767801600000,
       "note": null
