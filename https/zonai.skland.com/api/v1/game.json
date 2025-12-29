@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1766983756",
+  "timestamp": "1767003782",
   "data": {
     "list": [
       {
@@ -1141,49 +1141,9 @@
             }
           },
           {
-            "id": 89,
-            "gameId": 3,
-            "name": "配队推荐",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/11/28/4d2085f3efd07373dad8be1889dfe758.png",
-              "width": 120,
-              "height": 120,
-              "size": 3415,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
-            "position": 2,
-            "status": 2,
-            "startAtTs": 1764298025,
-            "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
-            "pcStatus": 2
-          },
-          {
-            "id": 90,
-            "gameId": 3,
-            "name": "养成建议",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/11/28/f39eeca296a785584976473006a512b9.png",
-              "width": 120,
-              "height": 120,
-              "size": 3158,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
-            "position": 3,
-            "status": 2,
-            "startAtTs": 1764298070,
-            "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
-            "pcStatus": 2
-          },
-          {
             "id": 19,
             "gameId": 3,
-            "name": "最新PV",
+            "name": "定档PV",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2023/10/30/df8bb28f2796123f1e16fb27aabb141d.png",
@@ -1193,11 +1153,11 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=3475324&viewKind=1",
-            "position": 7,
+            "link": "skland://detail?id=3517539&viewKind=1",
+            "position": 5,
             "status": 2,
             "startAtTs": 1698648105,
-            "pcLink": "skland://detail?id=3475324&viewKind=1",
+            "pcLink": "skland://detail?id=3517539&viewKind=1",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -1207,6 +1167,54 @@
               },
               "dotType": 0
             }
+          },
+          {
+            "id": 18,
+            "gameId": 3,
+            "name": "干员情报",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/10/30/8467201c3b7a4f4bc92c829c67247b3a.png",
+              "width": 120,
+              "height": 120,
+              "size": 4359,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://detail?id=3389440&viewKind=3",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 1698648006,
+            "pcLink": "skland://detail?id=3389440&viewKind=3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 20,
+            "gameId": 3,
+            "name": "概念设定",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/11/13/744b62402745f0b651d062f198a37ed4.png",
+              "width": 120,
+              "height": 120,
+              "size": 5285,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://detail?id=2471087&viewKind=3",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1699865274,
+            "pcLink": "skland://detail?id=2471087&viewKind=3",
+            "pcStatus": 2
           },
           {
             "id": 52,
