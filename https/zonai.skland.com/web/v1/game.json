@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1767565164",
+  "timestamp": "1767589019",
   "data": {
     "list": [
       {
@@ -556,10 +556,10 @@
             "name": "朝陇山",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/06/27/42fc82abd644ab07b4d799554ab22547.png",
+              "url": "https://bbs.hycdn.cn/image/2026/01/05/f84c43c14e170f528d66cb5cb0f388c0.png",
               "width": 120,
               "height": 120,
-              "size": 8015,
+              "size": 3994,
               "format": "png",
               "darkModeUrl": ""
             },
@@ -568,7 +568,15 @@
             "status": 2,
             "startAtTs": 1687854359,
             "pcLink": "https://mingrifangzhou.tmall.com/index.htm?spm=a1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           }
         ],
         "tag": {
