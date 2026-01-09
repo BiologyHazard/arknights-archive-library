@@ -6922,5 +6922,45 @@
       "act39side_07_rep",
       "act39side_08_rep"
     ]
+  },
+  {
+    "zoneId": "act48side_zone1",
+    "zoneIndex": 1104,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "雅赛努斯复仇记",
+    "zoneName_i18n": {
+      "en": "雅赛努斯复仇记",
+      "ja": "雅赛努斯复仇记",
+      "ko": "雅赛努斯复仇记",
+      "zh": "雅赛努斯复仇记"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1767931200000,
+        "closeTime": 1769112000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act48side_01",
+      "act48side_02",
+      "act48side_03",
+      "act48side_04",
+      "act48side_05",
+      "act48side_06",
+      "act48side_07",
+      "act48side_08"
+    ]
   }
 ]
