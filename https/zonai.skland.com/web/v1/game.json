@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1768559020",
+  "timestamp": "1768580921",
   "data": {
     "list": [
       {
@@ -941,7 +941,7 @@
           },
           "chineseIconUrl": "https://bbs.hycdn.cn/asset/endfield_zh_cn.svg",
           "pcIconUrl": "https://bbs.hycdn.cn/asset/endfleld.png",
-          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/endfield_pc_bg_mJkd.png",
+          "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/endfield_pc_3a52e9b2441f663653ea80c4367ea62e.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/endfield_pc_underlying.png",
           "englishIconUrl": "https://bbs.hycdn.cn/asset/endfield_en_us.svg",
           "backgroundStyle": 1,
@@ -1049,6 +1049,41 @@
             "billboardOnOff": 1
           },
           {
+            "id": 36,
+            "gameId": 3,
+            "name": "攻略",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/16/9b0b4d6b842c906de2e7ccd89acb737d.png",
+              "width": 150,
+              "height": 150,
+              "size": 5940,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
             "id": 10,
             "gameId": 3,
             "name": "同人",
@@ -1151,7 +1186,7 @@
           {
             "id": 19,
             "gameId": 3,
-            "name": "定档PV",
+            "name": "公测PV",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2023/10/30/df8bb28f2796123f1e16fb27aabb141d.png",
@@ -1161,11 +1196,11 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=3517539&viewKind=1",
+            "link": "skland://detail?id=3592703&viewKind=1",
             "position": 5,
             "status": 2,
             "startAtTs": 1698648105,
-            "pcLink": "skland://detail?id=3517539&viewKind=1",
+            "pcLink": "skland://detail?id=3592703&viewKind=1",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -1179,7 +1214,7 @@
           {
             "id": 18,
             "gameId": 3,
-            "name": "干员情报",
+            "name": "干员叙事",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2023/10/30/8467201c3b7a4f4bc92c829c67247b3a.png",
@@ -1189,11 +1224,11 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=3389440&viewKind=3",
+            "link": "skland://detail?id=3592717&viewKind=1",
             "position": 6,
             "status": 2,
             "startAtTs": 1698648006,
-            "pcLink": "skland://detail?id=3389440&viewKind=3",
+            "pcLink": "skland://detail?id=3592717&viewKind=1",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
