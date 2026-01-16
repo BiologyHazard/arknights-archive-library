@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1768538350",
+  "timestamp": "1768559018",
   "data": {
     "list": [
       {
@@ -483,6 +483,34 @@
             }
           },
           {
+            "id": 11,
+            "gameId": 1,
+            "name": "塞壬唱片",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
+              "width": 120,
+              "height": 120,
+              "size": 2178,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "https://monster-siren.hypergryph.com/",
+            "position": 12,
+            "status": 2,
+            "startAtTs": 1687854408,
+            "pcLink": "https://monster-siren.hypergryph.com/",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 15,
             "gameId": 1,
             "name": "WIKI",
@@ -496,7 +524,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 14,
+            "position": 15,
             "status": 2,
             "startAtTs": 1687858966,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -516,7 +544,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 15,
+            "position": 16,
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
