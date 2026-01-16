@@ -1,17 +1,6 @@
 {
-  "code": 200,
-  "msg": "操作成功",
-  "data": {
-    "commonOperatorCount": 294485178,
-    "robot": 794097,
-    "robotChoice": 639877,
-    "rareOperatorCount": 53641191,
-    "createTime": 1768579202194,
-    "seniorOperatorCount": 1978595,
-    "topOperator": 760510,
-    "topAndSeniorOperator": 103784,
-    "vulcan": 146707,
-    "maaRecruitDataCount": 350865474,
-    "seniorOperator": 628469
-  }
+  "timestamp": "2026-01-16T22:21:49.000+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/maa/recruit/result"
 }
