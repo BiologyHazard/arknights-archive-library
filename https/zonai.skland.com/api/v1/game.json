@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1768861271",
+  "timestamp": "1768884265",
   "data": {
     "list": [
       {
@@ -1084,6 +1084,41 @@
             "billboardOnOff": 1
           },
           {
+            "id": 37,
+            "gameId": 3,
+            "name": "互助",
+            "description": "",
+            "nameIcon": {
+              "id": "",
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "size": 0,
+              "format": "",
+              "darkModeUrl": ""
+            },
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/20/b3e67ec772751bcd4c6276125db4b84b.png",
+              "width": 150,
+              "height": 150,
+              "size": 9840,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "kind": 20,
+            "allowedViewKinds": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "defaultSortType": 1,
+            "bannerOnOff": 1,
+            "headlineOnOff": 1,
+            "billboardOnOff": 1
+          },
+          {
             "id": 10,
             "gameId": 3,
             "name": "同人",
@@ -1156,34 +1191,6 @@
         ],
         "quickaccesses": [
           {
-            "id": 86,
-            "gameId": 3,
-            "name": "预约游戏",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/10/31/ef1d3e13206c11a93a244a9095eb3fb5.png",
-              "width": 120,
-              "height": 120,
-              "size": 1348,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Freservation%3Fheader%3D0",
-            "position": 1,
-            "status": 2,
-            "startAtTs": 1763698110,
-            "pcLink": "https://game.skland.com/endfield/reservation?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
             "id": 19,
             "gameId": 3,
             "name": "公测PV",
@@ -1240,6 +1247,34 @@
             }
           },
           {
+            "id": 91,
+            "gameId": 3,
+            "name": "预下载",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
+              "width": 120,
+              "height": 120,
+              "size": 53800,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://gameCenterDetail?appCode=6LL0KJuqHBVz33WK",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1768863817,
+            "pcLink": "",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1768863843",
+                "endAtTs": "1769875199"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 20,
             "gameId": 3,
             "name": "概念设定",
@@ -1253,7 +1288,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=2471087&viewKind=3",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 1699865274,
             "pcLink": "skland://detail?id=2471087&viewKind=3",
@@ -1273,7 +1308,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2F",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 1723617068,
             "pcLink": "https://endfield.hypergryph.com/",
@@ -2225,7 +2260,7 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://weeklyMustWatch?id=42",
+            "link": "skland://weeklyMustWatch?id=43",
             "position": 1,
             "status": 2,
             "startAtTs": 1755244980,
