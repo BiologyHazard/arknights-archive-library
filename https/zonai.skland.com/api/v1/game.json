@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1768947758",
+  "timestamp": "1768970615",
   "data": {
     "list": [
       {
@@ -1273,6 +1273,26 @@
               },
               "dotType": 0
             }
+          },
+          {
+            "id": 92,
+            "gameId": 3,
+            "name": "WIKI",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/20/7f59e25bf1f61e655d6bd4163561c25f.png",
+              "width": 120,
+              "height": 120,
+              "size": 4074,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 1768966200,
+            "pcLink": "https://wiki.skland.com/endfield",
+            "pcStatus": 2
           },
           {
             "id": 20,
