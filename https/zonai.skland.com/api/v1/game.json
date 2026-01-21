@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1768991326",
+  "timestamp": "1769013932",
   "data": {
     "list": [
       {
@@ -1191,6 +1191,26 @@
         ],
         "quickaccesses": [
           {
+            "id": 92,
+            "gameId": 3,
+            "name": "WIKI",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/20/7f59e25bf1f61e655d6bd4163561c25f.png",
+              "width": 120,
+              "height": 120,
+              "size": 4074,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1768966200,
+            "pcLink": "https://wiki.skland.com/endfield",
+            "pcStatus": 2
+          },
+          {
             "id": 19,
             "gameId": 3,
             "name": "公测PV",
@@ -1204,38 +1224,10 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=3592703&viewKind=1",
-            "position": 5,
+            "position": 9,
             "status": 2,
             "startAtTs": 1698648105,
             "pcLink": "skland://detail?id=3592703&viewKind=1",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 18,
-            "gameId": 3,
-            "name": "干员叙事",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/10/30/8467201c3b7a4f4bc92c829c67247b3a.png",
-              "width": 120,
-              "height": 120,
-              "size": 4359,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://detail?id=3592717&viewKind=1",
-            "position": 6,
-            "status": 2,
-            "startAtTs": 1698648006,
-            "pcLink": "skland://detail?id=3592717&viewKind=1",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -1260,7 +1252,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://gameCenterDetail?appCode=6LL0KJuqHBVz33WK",
-            "position": 7,
+            "position": 10,
             "status": 2,
             "startAtTs": 1768863817,
             "pcLink": "",
@@ -1275,24 +1267,32 @@
             }
           },
           {
-            "id": 92,
+            "id": 18,
             "gameId": 3,
-            "name": "WIKI",
+            "name": "干员叙事",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/20/7f59e25bf1f61e655d6bd4163561c25f.png",
+              "url": "https://bbs.hycdn.cn/image/2023/10/30/8467201c3b7a4f4bc92c829c67247b3a.png",
               "width": 120,
               "height": 120,
-              "size": 4074,
+              "size": 4359,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield",
-            "position": 8,
+            "link": "skland://detail?id=3592717&viewKind=1",
+            "position": 11,
             "status": 2,
-            "startAtTs": 1768966200,
-            "pcLink": "https://wiki.skland.com/endfield",
-            "pcStatus": 2
+            "startAtTs": 1698648006,
+            "pcLink": "skland://detail?id=3592717&viewKind=1",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 20,
@@ -1308,30 +1308,10 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=2471087&viewKind=3",
-            "position": 9,
+            "position": 12,
             "status": 2,
             "startAtTs": 1699865274,
             "pcLink": "skland://detail?id=2471087&viewKind=3",
-            "pcStatus": 2
-          },
-          {
-            "id": 52,
-            "gameId": 3,
-            "name": "游戏官网",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/08/14/861f2ecc5421b71d2f44541e9b0f6659.png",
-              "width": 120,
-              "height": 120,
-              "size": 3437,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2F",
-            "position": 12,
-            "status": 2,
-            "startAtTs": 1723617068,
-            "pcLink": "https://endfield.hypergryph.com/",
             "pcStatus": 2
           }
         ],

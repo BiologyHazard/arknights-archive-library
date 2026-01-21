@@ -3006,7 +3006,7 @@
     },
     {
       "stageId": "pro_d_1",
-      "times": 12292
+      "times": 12293
     },
     {
       "stageId": "wk_melee_1",
@@ -3278,7 +3278,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1707485
+      "times": 1707489
     },
     {
       "stageId": "act9d0_05_perm",
@@ -3662,7 +3662,7 @@
     },
     {
       "stageId": "main_03-02",
-      "times": 10282
+      "times": 10287
     },
     {
       "stageId": "main_11-12",
@@ -4436,29 +4436,33 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 16
-    },
-    {
-      "stageId": "main_02-02",
-      "times": 1
+      "times": 13
     },
     {
       "stageId": "main_02-05",
       "times": 7
+    },
+    {
+      "stageId": "main_03-02",
+      "times": 5
+    },
+    {
+      "stageId": "pro_d_1",
+      "times": 1
     }
   ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
-      "quantity": 180257
+      "quantity": 180258
     },
     {
       "itemId": "30011",
-      "quantity": 279437
+      "quantity": 279438
     },
     {
       "itemId": "30012",
-      "quantity": 2384168
+      "quantity": 2384173
     },
     {
       "itemId": "30013",
@@ -4486,11 +4490,11 @@
     },
     {
       "itemId": "30031",
-      "quantity": 163834
+      "quantity": 163835
     },
     {
       "itemId": "30032",
-      "quantity": 47547
+      "quantity": 47549
     },
     {
       "itemId": "30033",
@@ -4534,7 +4538,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 122849
+      "quantity": 122850
     },
     {
       "itemId": "30052",
@@ -4558,7 +4562,7 @@
     },
     {
       "itemId": "30083",
-      "quantity": 78517
+      "quantity": 78518
     },
     {
       "itemId": "30084",
@@ -4662,7 +4666,7 @@
     },
     {
       "itemId": "3281",
-      "quantity": 6113
+      "quantity": 6114
     },
     {
       "itemId": "3212",
@@ -4745,5 +4749,5 @@
       "quantity": 331
     }
   ],
-  "totalApCost": 49228195
+  "totalApCost": 49228312
 }
