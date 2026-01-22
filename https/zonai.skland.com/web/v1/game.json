@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1769034280",
+  "timestamp": "1769057296",
   "data": {
     "list": [
       {
@@ -1191,6 +1191,122 @@
         ],
         "quickaccesses": [
           {
+            "id": 93,
+            "gameId": 3,
+            "name": "签到工具",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/21/c4d7e4d4a36dea76ce0161d68d183258.png",
+              "width": 120,
+              "height": 120,
+              "size": 3211,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fsign-in%3Fheader%3D0",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1769050800,
+            "pcLink": "https://game.skland.com/endfield/sign-in?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1769056320",
+                "endAtTs": "1772208000"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 94,
+            "gameId": 3,
+            "name": "协议终端",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/21/38d2775ad760122e1551e43354e0d153.png",
+              "width": 120,
+              "height": 120,
+              "size": 4037,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%3Fheader%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 1769050800,
+            "pcLink": "https://game.skland.com/endfield/game-data?header=0",
+            "pcStatus": 2
+          },
+          {
+            "id": 91,
+            "gameId": 3,
+            "name": "下载有礼",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
+              "width": 120,
+              "height": 120,
+              "size": 53800,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fob-download%3Fheader%3D0%26stage%3Ddownload",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1768863817,
+            "pcLink": "",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1769055243",
+                "endAtTs": "1769875199"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 95,
+            "gameId": 3,
+            "name": "配队工具",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/21/960653d9094eaf8c4e57bd9b06906e84.png",
+              "width": 120,
+              "height": 120,
+              "size": 3415,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1769050800,
+            "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
+            "pcStatus": 2
+          },
+          {
+            "id": 96,
+            "gameId": 3,
+            "name": "地图工具",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/21/1f9bcce22996ebb23b3a5d14431eea95.png",
+              "width": 120,
+              "height": 120,
+              "size": 5055,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0%26ctr_orientation%3Dlandscape",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1769050800,
+            "pcLink": "https://game.skland.com/map/endfield?header=0&ctr_orientation=landscape",
+            "pcStatus": 2
+          },
+          {
             "id": 92,
             "gameId": 3,
             "name": "WIKI",
@@ -1204,11 +1320,39 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 1768966200,
             "pcLink": "https://wiki.skland.com/endfield",
             "pcStatus": 2
+          },
+          {
+            "id": 90,
+            "gameId": 3,
+            "name": "养成建议",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/11/28/f39eeca296a785584976473006a512b9.png",
+              "width": 120,
+              "height": 120,
+              "size": 3158,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1769050800,
+            "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 19,
@@ -1224,7 +1368,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=3592703&viewKind=1",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 1698648105,
             "pcLink": "skland://detail?id=3592703&viewKind=1",
@@ -1234,34 +1378,6 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 91,
-            "gameId": 3,
-            "name": "预下载",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
-              "width": 120,
-              "height": 120,
-              "size": 53800,
-              "format": "gif",
-              "darkModeUrl": ""
-            },
-            "link": "skland://gameCenterDetail?appCode=6LL0KJuqHBVz33WK",
-            "position": 10,
-            "status": 2,
-            "startAtTs": 1768863817,
-            "pcLink": "",
-            "pcStatus": 1,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1768863843",
-                "endAtTs": "1769875199"
               },
               "dotType": 0
             }
