@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1769229292",
+  "timestamp": "1769250055",
   "data": {
     "list": [
       {
@@ -399,6 +399,34 @@
             }
           },
           {
+            "id": 65,
+            "gameId": 1,
+            "name": "集成战略战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "width": 120,
+              "height": 120,
+              "size": 2727,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1752566400,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1769244115",
+                "endAtTs": "1769875199"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 66,
             "gameId": 1,
             "name": "干员图鉴",
@@ -412,7 +440,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -440,37 +468,9 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 10,
-            "status": 2,
-            "startAtTs": 1744183630,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 69,
-            "gameId": 1,
-            "name": "养成计算器",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
-              "width": 120,
-              "height": 120,
-              "size": 6779,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
             "position": 11,
             "status": 2,
-            "startAtTs": 1744170644,
+            "startAtTs": 1744183630,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
@@ -496,7 +496,7 @@
               "darkModeUrl": ""
             },
             "link": "https://monster-siren.hypergryph.com/",
-            "position": 12,
+            "position": 13,
             "status": 2,
             "startAtTs": 1687854408,
             "pcLink": "https://monster-siren.hypergryph.com/",
