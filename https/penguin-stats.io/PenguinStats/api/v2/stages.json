@@ -117260,5 +117260,797 @@
       }
     },
     "minClearTime": 234000
+  },
+  {
+    "stageId": "act40side_01_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-1",
+    "code_i18n": {
+      "en": "OR-1",
+      "ja": "OR-1",
+      "ko": "OR-1",
+      "zh": "OR-1"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 141300,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_02_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-2",
+    "code_i18n": {
+      "en": "OR-2",
+      "ja": "OR-2",
+      "ko": "OR-2",
+      "zh": "OR-2"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 189000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_03_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-3",
+    "code_i18n": {
+      "en": "OR-3",
+      "ja": "OR-3",
+      "ko": "OR-3",
+      "zh": "OR-3"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 170000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_04_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-4",
+    "code_i18n": {
+      "en": "OR-4",
+      "ja": "OR-4",
+      "ko": "OR-4",
+      "zh": "OR-4"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 175500,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30012",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30042",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_05_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-5",
+    "code_i18n": {
+      "en": "OR-5",
+      "ja": "OR-5",
+      "ko": "OR-5",
+      "zh": "OR-5"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 184000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30062",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30052",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_06_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-6",
+    "code_i18n": {
+      "en": "OR-6",
+      "ja": "OR-6",
+      "ko": "OR-6",
+      "zh": "OR-6"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 224000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30032",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30022",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_07_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-7",
+    "code_i18n": {
+      "en": "OR-7",
+      "ja": "OR-7",
+      "ko": "OR-7",
+      "zh": "OR-7"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 175000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30063",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_08_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-8",
+    "code_i18n": {
+      "en": "OR-8",
+      "ja": "OR-8",
+      "ko": "OR-8",
+      "zh": "OR-8"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 178000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "31023",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act40side_09_rep",
+    "zoneId": "act40sre_zone1",
+    "stageType": "ACTIVITY",
+    "code": "OR-9",
+    "code_i18n": {
+      "en": "OR-9",
+      "ja": "OR-9",
+      "ko": "OR-9",
+      "zh": "OR-9"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1769457600000,
+        "closeTime": 1770321600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 220000,
+    "recognitionOnly": [
+      "act40side_token_yumyum_rep_1"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "31063",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
   }
 ]

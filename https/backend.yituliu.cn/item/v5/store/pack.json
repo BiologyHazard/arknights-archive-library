@@ -12820,7 +12820,7 @@
       "displayName": "高级特训组合包",
       "price": 168.0,
       "saleType": "activity",
-      "tags": "",
+      "tags": "activity,periodically",
       "imageName": null,
       "imageLink": "image/2097004070851000.jpg",
       "gachaTicket": 0,
@@ -12840,7 +12840,7 @@
         }
       ],
       "start": 1767196800000,
-      "end": 1768406400000,
+      "end": 1769616000000,
       "note": null
     },
     {
@@ -12985,6 +12985,40 @@
       "start": 1768492800000,
       "end": 1770307200000,
       "note": ""
+    },
+    {
+      "id": 2128522830111000,
+      "officialName": "高级特训组合包·4星版",
+      "displayName": "高级特训组合包·4星版",
+      "price": 168.0,
+      "saleType": "activity",
+      "tags": "activity,periodically",
+      "imageName": null,
+      "imageLink": "image/2128528138171000.png",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 0,
+      "orundum": 0,
+      "packContent": [
+        {
+          "itemName": "资深干员特训邀请函",
+          "itemId": "voucher_elite_II_5",
+          "quantity": 1
+        },
+        {
+          "itemName": "高级资深干员特训邀请函",
+          "itemId": "voucher_elite_II_6",
+          "quantity": 1
+        },
+        {
+          "itemName": "专业干员特训邀请函",
+          "itemId": "voucher_elite_II_4",
+          "quantity": 2
+        }
+      ],
+      "start": 1767196800000,
+      "end": 1769616000000,
+      "note": "购买本礼包前注意甄别是4星版还是5星版，名称完全一样"
     }
   ]
 }
