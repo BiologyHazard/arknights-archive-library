@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1769596098",
+  "timestamp": "1769618214",
   "data": {
     "list": [
       {
@@ -1355,6 +1355,26 @@
             }
           },
           {
+            "id": 98,
+            "gameId": 3,
+            "name": "山团团",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/28/927abc7bd3df22cc47c1ff53ce9b1f6b.png",
+              "width": 120,
+              "height": 120,
+              "size": 1611,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fshop.m.taobao.com%2Fshop%2Fshop_index.htm%3FsellerId%3D2221386384051%26shopId%3D414690138%26inShopPageId%3D461324255%26pathInfo%3Dshop%2Findex2",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 1769606919,
+            "pcLink": "https://shop.m.taobao.com/shop/shop_index.htm?sellerId=2221386384051&shopId=414690138&inShopPageId=461324255&pathInfo=shop/index2",
+            "pcStatus": 2
+          },
+          {
             "id": 19,
             "gameId": 3,
             "name": "公测PV",
@@ -1368,7 +1388,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=3592703&viewKind=1",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 1698648105,
             "pcLink": "skland://detail?id=3592703&viewKind=1",
@@ -1396,7 +1416,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://detail?id=3592717&viewKind=1",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 1698648006,
             "pcLink": "skland://detail?id=3592717&viewKind=1",
@@ -1409,26 +1429,6 @@
               },
               "dotType": 0
             }
-          },
-          {
-            "id": 20,
-            "gameId": 3,
-            "name": "概念设定",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/11/13/744b62402745f0b651d062f198a37ed4.png",
-              "width": 120,
-              "height": 120,
-              "size": 5285,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://detail?id=2471087&viewKind=3",
-            "position": 12,
-            "status": 2,
-            "startAtTs": 1699865274,
-            "pcLink": "skland://detail?id=2471087&viewKind=3",
-            "pcStatus": 2
           }
         ],
         "tag": {
