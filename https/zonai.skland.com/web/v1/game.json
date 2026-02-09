@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1770657437",
+  "timestamp": "1770676529",
   "data": {
     "list": [
       {
@@ -371,29 +371,29 @@
             }
           },
           {
-            "id": 84,
+            "id": 67,
             "gameId": 1,
-            "name": "历程报告",
+            "name": "更新福利",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
               "width": 120,
               "height": 120,
-              "size": 2665,
-              "format": "png",
+              "size": 505198,
+              "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act48side",
-            "position": 4,
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3FactivityId%3Dact_arknights_222898%26header%3D0",
+            "position": 3,
             "status": 2,
-            "startAtTs": 1769140687,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act48side",
-            "pcStatus": 2,
+            "startAtTs": 1743992280,
+            "pcLink": "skland://detail?id=2699001&viewKind=3",
+            "pcStatus": 1,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1769140800",
-                "endAtTs": "1770739200"
+                "startAtTs": "1770675774",
+                "endAtTs": "1771257599"
               },
               "dotType": 0
             }
