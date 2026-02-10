@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1770676529",
+  "timestamp": "1770701214",
   "data": {
     "list": [
       {
@@ -399,32 +399,52 @@
             }
           },
           {
-            "id": 65,
+            "id": 26,
             "gameId": 1,
-            "name": "集成战略战绩",
+            "name": "活动战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
               "width": 120,
               "height": 120,
-              "size": 2727,
-              "format": "png",
+              "size": 70775,
+              "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
-            "position": 5,
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F81d66fc50c17-first-of-a-thousand-autumns-record%3Fheader%3D0",
+            "position": 4,
             "status": 2,
-            "startAtTs": 1752566400,
-            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "startAtTs": 1706780972,
+            "pcLink": "https://www.skland.com/act/ak/81d66fc50c17-first-of-a-thousand-autumns-record?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1769244115",
-                "endAtTs": "1769875199"
+                "startAtTs": "1770698700",
+                "endAtTs": "1772035199"
               },
               "dotType": 0
             }
+          },
+          {
+            "id": 53,
+            "gameId": 1,
+            "name": "助战检索",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/09/02/e00752bd63751f1da71387f0e9e5b413.png",
+              "width": 120,
+              "height": 120,
+              "size": 3409,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 1725265437,
+            "pcLink": "https://www.skland.com/download?type=akSupport",
+            "pcStatus": 2
           },
           {
             "id": 66,
@@ -440,7 +460,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 10,
+            "position": 7,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -450,6 +470,34 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 65,
+            "gameId": 1,
+            "name": "集成战略战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "width": 120,
+              "height": 120,
+              "size": 2727,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 1752566400,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1769244115",
+                "endAtTs": "1769875199"
               },
               "dotType": 0
             }
@@ -481,54 +529,6 @@
               },
               "dotType": 0
             }
-          },
-          {
-            "id": 69,
-            "gameId": 1,
-            "name": "养成计算器",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
-              "width": 120,
-              "height": 120,
-              "size": 6779,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 12,
-            "status": 2,
-            "startAtTs": 1744170644,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 15,
-            "gameId": 1,
-            "name": "WIKI",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/07/13/a47332bc07c087e04228ecbd984ac729.png",
-              "width": 120,
-              "height": 120,
-              "size": 3474,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 15,
-            "status": 2,
-            "startAtTs": 1687858966,
-            "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
-            "pcStatus": 2
           },
           {
             "id": 16,
@@ -2376,7 +2376,7 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://weeklyMustWatch?id=45",
+            "link": "skland://weeklyMustWatch?id=46",
             "position": 1,
             "status": 2,
             "startAtTs": 1755244980,

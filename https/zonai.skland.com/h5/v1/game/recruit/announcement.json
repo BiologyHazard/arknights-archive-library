@@ -1,36 +1,48 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1770676529",
+  "timestamp": "1770701231",
   "data": {
-    "postedAtTs": 1761926400,
-    "description": "新增干员：6★凯尔希、5★赤冬",
+    "postedAtTs": 1770696000,
+    "description": "更新后，以下干员将加入并常驻【公开招募】\n6★卡涅利安、5★绮良、4★深靛",
     "characters": [
       {
-        "charId": "char_003_kalts",
+        "charId": "char_426_billro",
         "tagIds": [
-          4,
+          6,
           11,
           10,
-          27,
-          15
+          21,
+          22
         ],
-        "name": "凯尔希",
+        "name": "卡涅利安",
         "rarity": 5,
-        "profession": "MEDIC"
+        "profession": "CASTER"
       },
       {
-        "charId": "char_475_akafyu",
+        "charId": "char_469_indigo",
         "tagIds": [
-          1,
+          6,
+          10,
+          19,
+          12
+        ],
+        "name": "深靛",
+        "rarity": 3,
+        "profession": "CASTER"
+      },
+      {
+        "charId": "char_478_kirara",
+        "tagIds": [
+          7,
           14,
           9,
-          20,
-          19
+          19,
+          20
         ],
-        "name": "赤冬",
+        "name": "绮良",
         "rarity": 4,
-        "profession": "WARRIOR"
+        "profession": "SPECIAL"
       }
     ]
   }
