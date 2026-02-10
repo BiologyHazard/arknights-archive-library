@@ -6558,9 +6558,9 @@
     "subType": null,
     "zoneName": "墟",
     "zoneName_i18n": {
-      "en": "墟",
+      "en": "Ato",
       "ja": "墟",
-      "ko": "墟",
+      "ko": "폐허",
       "zh": "墟"
     },
     "existence": {
@@ -6570,23 +6570,29 @@
         "closeTime": 1755892800000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1768546800000,
+        "closeTime": 1770318000000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1768546800000,
+        "closeTime": 1770318000000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1768575600000,
+        "closeTime": 1770375600000
       }
     },
     "background": null,
     "stages": [
-      "act44side_08",
-      "act44side_07",
-      "act44side_06",
       "act44side_05",
       "act44side_04",
       "act44side_03",
+      "act44side_08",
+      "act44side_07",
+      "act44side_06",
       "act44side_02",
       "act44side_01"
     ]
@@ -6610,13 +6616,19 @@
         "closeTime": 1756929600000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1767639600000,
+        "closeTime": 1768503600000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1767639600000,
+        "closeTime": 1768503600000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1767697200000,
+        "closeTime": 1768561200000
       }
     },
     "background": null,
@@ -6639,9 +6651,9 @@
     "subType": null,
     "zoneName": "无忧梦呓",
     "zoneName_i18n": {
-      "en": "无忧梦呓",
-      "ja": "无忧梦呓",
-      "ko": "无忧梦呓",
+      "en": "Somniloquium Serenum",
+      "ja": "安らかな譫言",
+      "ko": "편안한 잠꼬대",
       "zh": "无忧梦呓"
     },
     "existence": {
@@ -6651,23 +6663,29 @@
         "closeTime": 1758139200000
       },
       "JP": {
-        "exist": false
+        "exist": true,
+        "openTime": 1770706800000,
+        "closeTime": 1771873200000
       },
       "KR": {
-        "exist": false
+        "exist": true,
+        "openTime": 1770706800000,
+        "closeTime": 1771873200000
       },
       "US": {
-        "exist": false
+        "exist": true,
+        "openTime": 1770735600000,
+        "closeTime": 1771930800000
       }
     },
     "background": null,
     "stages": [
-      "act45side_01",
-      "act45side_02",
-      "act45side_03",
       "act45side_04",
       "act45side_05",
       "act45side_06",
+      "act45side_01",
+      "act45side_02",
+      "act45side_03",
       "act45side_07",
       "act45side_08"
     ]
@@ -7002,6 +7020,48 @@
       "act40side_07_rep",
       "act40side_08_rep",
       "act40side_09_rep"
+    ]
+  },
+  {
+    "zoneId": "act49side_zone1",
+    "zoneIndex": 1106,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "辞岁行",
+    "zoneName_i18n": {
+      "en": "辞岁行",
+      "ja": "辞岁行",
+      "ko": "辞岁行",
+      "zh": "辞岁行"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1770696000000,
+        "closeTime": 1772481600000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act49side_01",
+      "act49side_02",
+      "act49side_03",
+      "act49side_04",
+      "act49side_05",
+      "act49side_06",
+      "act49side_07",
+      "act49side_08",
+      "act49side_09",
+      "act49side_10"
     ]
   }
 ]

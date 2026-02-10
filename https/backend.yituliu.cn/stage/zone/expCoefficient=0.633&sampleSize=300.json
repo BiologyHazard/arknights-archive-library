@@ -4,6 +4,134 @@
   "data": {
     "ACT": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act49side_zone1",
+        "stageType": "ACT",
+        "endTime": "2026-03-02T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act49side_01",
+            "stageCode": "TA-1",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 6.0,
+            "minClearTime": 90000
+          },
+          {
+            "stageId": "act49side_02",
+            "stageCode": "TA-2",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 2.83,
+            "minClearTime": 191000
+          },
+          {
+            "stageId": "act49side_03",
+            "stageCode": "TA-3",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 3.02,
+            "minClearTime": 179000
+          },
+          {
+            "stageId": "act49side_04",
+            "stageCode": "TA-4",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 3.4,
+            "minClearTime": 212000
+          },
+          {
+            "stageId": "act49side_05",
+            "stageCode": "TA-5",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 3.19,
+            "minClearTime": 226000
+          },
+          {
+            "stageId": "act49side_06",
+            "stageCode": "TA-6",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 3.2,
+            "minClearTime": 225000
+          },
+          {
+            "stageId": "act49side_07",
+            "stageCode": "TA-7",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 7.16,
+            "minClearTime": 176000
+          },
+          {
+            "stageId": "act49side_08",
+            "stageCode": "TA-8",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 6.46,
+            "minClearTime": 195000
+          },
+          {
+            "stageId": "act49side_09",
+            "stageCode": "TA-9",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 6.15,
+            "minClearTime": 205000
+          },
+          {
+            "stageId": "act49side_10",
+            "stageCode": "TA-10",
+            "zoneId": "act49side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 10,
+            "stageType": "ACT",
+            "startTime": "2026-02-10 12:00:00",
+            "endTime": "2026-03-03 04:00:00",
+            "spm": 4.0,
+            "minClearTime": 150000
+          }
+        ]
+      },
+      {
         "zoneName": "雅赛努斯复仇记",
         "zoneId": "act48side_zone1",
         "stageType": "ACT",

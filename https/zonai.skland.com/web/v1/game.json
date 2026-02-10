@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1770701214",
+  "timestamp": "1770720835",
   "data": {
     "list": [
       {
@@ -515,11 +515,39 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fdownload%3Ftype%3DakToolbox",
             "position": 11,
             "status": 2,
             "startAtTs": 1744183630,
             "pcLink": "https://www.skland.com/h/ak/recruit-calculator?header=0&bg_color=1e1e1e",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 69,
+            "gameId": 1,
+            "name": "养成计算器",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
+              "width": 120,
+              "height": 120,
+              "size": 6779,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "position": 12,
+            "status": 2,
+            "startAtTs": 1744170644,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -549,34 +577,6 @@
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
             "pcStatus": 2
-          },
-          {
-            "id": 10,
-            "gameId": 1,
-            "name": "朝陇山",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/05/f84c43c14e170f528d66cb5cb0f388c0.png",
-              "width": 120,
-              "height": 120,
-              "size": 3994,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fmingrifangzhou.tmall.com%2Findex.htm%3Fspm%3Da1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
-            "position": 18,
-            "status": 2,
-            "startAtTs": 1687854359,
-            "pcLink": "https://mingrifangzhou.tmall.com/index.htm?spm=a1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
           }
         ],
         "tag": {
@@ -1367,12 +1367,20 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fshop.m.taobao.com%2Fshop%2Fshop_index.htm%3FsellerId%3D2221386384051%26shopId%3D414690138%26inShopPageId%3D461324255%26pathInfo%3Dshop%2Findex2",
+            "link": "skland://web?url=https%3A%2F%2Farknightsendfieldyx.tmall.com%2Fshop%2Fview_shop.htm%3FappUid%3DRAzN8HWTh9uNf9CUfmZgjthZPGWizPjBg6JNBgLoujPr8AsjU8n%26spm%3Da21n57.1.hoverItem.3",
             "position": 8,
             "status": 2,
             "startAtTs": 1769606919,
             "pcLink": "https://shop.m.taobao.com/shop/shop_index.htm?sellerId=2221386384051&shopId=414690138&inShopPageId=461324255&pathInfo=shop/index2",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 19,
