@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1771219551",
+  "timestamp": "1771239054",
   "data": {
     "list": [
       {
@@ -371,34 +371,6 @@
             }
           },
           {
-            "id": 67,
-            "gameId": 1,
-            "name": "更新福利",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
-              "width": 120,
-              "height": 120,
-              "size": 505198,
-              "format": "gif",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3FactivityId%3Dact_arknights_222898%26header%3D0",
-            "position": 3,
-            "status": 2,
-            "startAtTs": 1743992280,
-            "pcLink": "skland://detail?id=2699001&viewKind=3",
-            "pcStatus": 1,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1770675774",
-                "endAtTs": "1771257599"
-              },
-              "dotType": 0
-            }
-          },
-          {
             "id": 26,
             "gameId": 1,
             "name": "活动战绩",
@@ -577,6 +549,34 @@
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
             "pcStatus": 2
+          },
+          {
+            "id": 10,
+            "gameId": 1,
+            "name": "朝陇山",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/05/f84c43c14e170f528d66cb5cb0f388c0.png",
+              "width": 120,
+              "height": 120,
+              "size": 3994,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fmingrifangzhou.tmall.com%2Findex.htm%3Fspm%3Da1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
+            "position": 18,
+            "status": 2,
+            "startAtTs": 1687854359,
+            "pcLink": "https://mingrifangzhou.tmall.com/shop/view_shop.htm?appUid=RAzN8HWLT41iTXpr3zD21K691Ki2eywG7NCzJeEt6avxSPfrgvs&spm=a21n57.1.hoverItem.3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           }
         ],
         "tag": {
