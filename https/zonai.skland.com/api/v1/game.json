@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1771910455",
+  "timestamp": "1771930195",
   "data": {
     "list": [
       {
@@ -1258,10 +1258,10 @@
             "pcLink": "",
             "pcStatus": 1,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1769055243",
-                "endAtTs": "1769875199"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
@@ -1385,7 +1385,7 @@
           {
             "id": 19,
             "gameId": 3,
-            "name": "公测PV",
+            "name": "支付中心",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2023/10/30/df8bb28f2796123f1e16fb27aabb141d.png",
@@ -1395,11 +1395,11 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=3592703&viewKind=1",
+            "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
             "position": 11,
             "status": 2,
             "startAtTs": 1698648105,
-            "pcLink": "skland://detail?id=3592703&viewKind=1",
+            "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
