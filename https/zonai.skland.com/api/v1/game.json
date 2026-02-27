@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1772145180",
+  "timestamp": "1772169260",
   "data": {
     "list": [
       {
@@ -2088,6 +2088,34 @@
           }
         ],
         "quickaccesses": [
+          {
+            "id": 64,
+            "gameId": 101,
+            "name": "比赛组队",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/19/019cdf57ce828068feba6efda612b3c7.gif",
+              "width": 120,
+              "height": 120,
+              "size": 46585,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://tag?id=804",
+            "position": 1,
+            "status": 2,
+            "startAtTs": 1736352000,
+            "pcLink": "skland://detail?id=5589184&viewKind=3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
           {
             "id": 57,
             "gameId": 101,
