@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1772490386",
+  "timestamp": "1772514825",
   "data": {
     "list": [
       {
@@ -371,29 +371,29 @@
             }
           },
           {
-            "id": 26,
+            "id": 84,
             "gameId": 1,
-            "name": "活动战绩",
+            "name": "历程报告",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
               "width": 120,
               "height": 120,
-              "size": 70775,
-              "format": "gif",
+              "size": 2665,
+              "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F81d66fc50c17-first-of-a-thousand-autumns-record%3Fheader%3D0",
-            "position": 4,
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act49side",
+            "position": 5,
             "status": 2,
-            "startAtTs": 1706780972,
-            "pcLink": "https://www.skland.com/act/ak/81d66fc50c17-first-of-a-thousand-autumns-record?header=0",
+            "startAtTs": 1769140687,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1770698700",
-                "endAtTs": "1772035199"
+                "startAtTs": "1772509559",
+                "endAtTs": "1774627199"
               },
               "dotType": 0
             }
@@ -412,7 +412,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -2412,7 +2412,7 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://weeklyMustWatch?id=47",
+            "link": "skland://weeklyMustWatch?id=48",
             "position": 1,
             "status": 2,
             "startAtTs": 1755244980,
