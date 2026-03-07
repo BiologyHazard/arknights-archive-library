@@ -13537,7 +13537,13 @@
       "tenGachaTicket": 0,
       "originium": 13,
       "orundum": 0,
-      "packContent": null,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 300000
+        }
+      ],
       "start": 1773072000000,
       "end": 1774886400000,
       "note": ""
