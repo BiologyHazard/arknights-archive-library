@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1767781567",
+  "timestamp": "1773095401",
   "data": {
     "id": "char_472_pasngr",
     "mainSkillLevelCost": [
@@ -399,6 +399,41 @@
           }
         ],
         "shiningColor": "red"
+      },
+      {
+        "id": "uniequip_004_pasngr",
+        "name": "异客特限证章",
+        "typeName": "ra-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
       }
     ],
     "evolvePhaseCost": [
