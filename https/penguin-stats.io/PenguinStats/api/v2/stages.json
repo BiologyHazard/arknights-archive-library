@@ -117980,5 +117980,1061 @@
       }
     },
     "minClearTime": 150000
+  },
+  {
+    "stageId": "act20mini_01",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-1",
+    "code_i18n": {
+      "en": "CG-1",
+      "ja": "CG-1",
+      "ko": "CG-1",
+      "zh": "CG-1"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_02",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-2",
+    "code_i18n": {
+      "en": "CG-2",
+      "ja": "CG-2",
+      "ko": "CG-2",
+      "zh": "CG-2"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_03",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-3",
+    "code_i18n": {
+      "en": "CG-3",
+      "ja": "CG-3",
+      "ko": "CG-3",
+      "zh": "CG-3"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_04",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-4",
+    "code_i18n": {
+      "en": "CG-4",
+      "ja": "CG-4",
+      "ko": "CG-4",
+      "zh": "CG-4"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_05",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-5",
+    "code_i18n": {
+      "en": "CG-5",
+      "ja": "CG-5",
+      "ko": "CG-5",
+      "zh": "CG-5"
+    },
+    "apCost": 15,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30032",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "3003",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30011",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30012",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30062",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30032",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_06",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-6",
+    "code_i18n": {
+      "en": "CG-6",
+      "ja": "CG-6",
+      "ko": "CG-6",
+      "zh": "CG-6"
+    },
+    "apCost": 15,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30062",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "2001",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "2002",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30022",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30042",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30052",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_07",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-7",
+    "code_i18n": {
+      "en": "CG-7",
+      "ja": "CG-7",
+      "ko": "CG-7",
+      "zh": "CG-7"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30103",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30032",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30033",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30052",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30053",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30093",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30103",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31033",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31043",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31053",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31083",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act20mini_08",
+    "zoneId": "act20mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "CG-8",
+    "code_i18n": {
+      "en": "CG-8",
+      "ja": "CG-8",
+      "ko": "CG-8",
+      "zh": "CG-8"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1773115200000,
+        "closeTime": 1773691200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": null,
+    "recognitionOnly": [
+      "act20mini_token_cork"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "31053",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "2001",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "2002",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "2003",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30022",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30023",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30042",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30043",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30083",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31023",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31063",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31093",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
   }
 ]

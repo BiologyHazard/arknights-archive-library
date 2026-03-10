@@ -5710,5 +5710,29 @@
         "exist": false
       }
     }
+  },
+  {
+    "start": 1773115200000,
+    "end": 1773691200000,
+    "label_i18n": {
+      "en": "十字路口",
+      "ja": "十字路口",
+      "ko": "十字路口",
+      "zh": "十字路口"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    }
   }
 ]
