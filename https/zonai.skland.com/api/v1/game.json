@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1773119356",
+  "timestamp": "1773139124",
   "data": {
     "list": [
       {
@@ -399,29 +399,29 @@
             }
           },
           {
-            "id": 84,
+            "id": 65,
             "gameId": 1,
-            "name": "历程报告",
+            "name": "集成战略战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
               "width": 120,
               "height": 120,
-              "size": 2665,
+              "size": 2727,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act49side",
-            "position": 5,
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "position": 4,
             "status": 2,
-            "startAtTs": 1769140687,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
+            "startAtTs": 1752566400,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1772509559",
-                "endAtTs": "1774627199"
+                "startAtTs": "1769244115",
+                "endAtTs": "1769875199"
               },
               "dotType": 0
             }
@@ -440,7 +440,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 6,
+            "position": 5,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -460,7 +460,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 7,
+            "position": 6,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -475,29 +475,29 @@
             }
           },
           {
-            "id": 65,
+            "id": 84,
             "gameId": 1,
-            "name": "集成战略战绩",
+            "name": "历程报告",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
               "width": 120,
               "height": 120,
-              "size": 2727,
+              "size": 2665,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act49side",
             "position": 8,
             "status": 2,
-            "startAtTs": 1752566400,
-            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "startAtTs": 1769140687,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1769244115",
-                "endAtTs": "1769875199"
+                "startAtTs": "1772509559",
+                "endAtTs": "1774627199"
               },
               "dotType": 0
             }
