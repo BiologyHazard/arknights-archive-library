@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1773267984",
+  "timestamp": "1773292506",
   "data": {
     "list": [
       {
@@ -1241,7 +1241,7 @@
           {
             "id": 91,
             "gameId": 3,
-            "name": "下载有礼",
+            "name": "更新福利",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
@@ -1251,17 +1251,17 @@
               "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fob-download%3Fheader%3D0%26stage%3Ddownload",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_endfield_589639",
             "position": 3,
             "status": 2,
             "startAtTs": 1768863817,
             "pcLink": "",
             "pcStatus": 1,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1773268825",
+                "endAtTs": "1773849599"
               },
               "dotType": 0
             }
