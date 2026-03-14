@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1773465016",
+  "timestamp": "1773484083",
   "data": {
     "list": [
       {
@@ -399,6 +399,34 @@
             }
           },
           {
+            "id": 26,
+            "gameId": 1,
+            "name": "卫戍战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fauto-chess%3Fheader%3D0%26bg_color%3D181818%26activityId%3Dact2autochess",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1706780972,
+            "pcLink": "https://act.skland.com/arknights/auto-chess?header=0&bg_color=181818&activityId=act2autochess",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1773484080",
+                "endAtTs": "1777046400"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 65,
             "gameId": 1,
             "name": "集成战略战绩",
@@ -412,7 +440,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
-            "position": 4,
+            "position": 5,
             "status": 2,
             "startAtTs": 1752566400,
             "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
@@ -440,7 +468,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -460,7 +488,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -519,34 +547,6 @@
             "position": 11,
             "status": 2,
             "startAtTs": 1744183630,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 69,
-            "gameId": 1,
-            "name": "养成计算器",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
-              "width": 120,
-              "height": 120,
-              "size": 6779,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 12,
-            "status": 2,
-            "startAtTs": 1744170644,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
