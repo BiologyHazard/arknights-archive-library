@@ -1,0 +1,178 @@
+{
+  "status": 0,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "endings": {
+      "1": 0.5338748738146032,
+      "2": 0.19308354840795056,
+      "3": 0.11211520706008331,
+      "4": 0.16092637071736293
+    },
+    "activeTool": [
+      "rogue_3_active_tool_1",
+      "rogue_3_active_tool_5",
+      "rogue_3_active_tool_3"
+    ],
+    "activeToolWithName": [
+      {
+        "id": "rogue_3_active_tool_1",
+        "name": "支援补给站"
+      },
+      {
+        "id": "rogue_3_active_tool_5",
+        "name": "支援防暴桩"
+      },
+      {
+        "id": "rogue_3_active_tool_3",
+        "name": "支援轰隆隆"
+      }
+    ],
+    "relic": [
+      "rogue_3_relic_legacy_30",
+      "rogue_3_relic_fight_19",
+      "rogue_3_relic_fight_21",
+      "rogue_3_relic_legacy_21",
+      "rogue_3_relic_legacy_158"
+    ],
+    "relicWithName": [
+      {
+        "id": "rogue_3_relic_legacy_30",
+        "name": "热水壶"
+      },
+      {
+        "id": "rogue_3_relic_fight_19",
+        "name": "岩角号"
+      },
+      {
+        "id": "rogue_3_relic_fight_21",
+        "name": "湖中神盾"
+      },
+      {
+        "id": "rogue_3_relic_legacy_21",
+        "name": "蓝色丝巾"
+      },
+      {
+        "id": "rogue_3_relic_legacy_158",
+        "name": "金酒之杯"
+      }
+    ],
+    "character": {
+      "PIONEER": [
+        {
+          "id": "char_4087_ines"
+        },
+        {
+          "id": "char_151_myrtle"
+        },
+        {
+          "id": "char_123_fang"
+        }
+      ],
+      "WARRIOR": [
+        {
+          "id": "char_4064_mlynar"
+        },
+        {
+          "id": "char_4116_blkkgt"
+        },
+        {
+          "id": "char_350_surtr"
+        }
+      ],
+      "TANK": [
+        {
+          "id": "char_284_spot"
+        },
+        {
+          "id": "char_202_demkni"
+        },
+        {
+          "id": "char_2025_shu"
+        }
+      ],
+      "SNIPER": [
+        {
+          "id": "char_1035_wisdel"
+        },
+        {
+          "id": "char_2012_typhon"
+        },
+        {
+          "id": "char_124_kroos"
+        }
+      ],
+      "CASTER": [
+        {
+          "id": "char_377_gdglow"
+        },
+        {
+          "id": "char_180_amgoat"
+        },
+        {
+          "id": "char_4133_logos"
+        }
+      ],
+      "MEDIC": [
+        {
+          "id": "char_1020_reed2"
+        },
+        {
+          "id": "char_1016_agoat2"
+        },
+        {
+          "id": "char_212_ansel"
+        }
+      ],
+      "SUPPORT": [
+        {
+          "id": "char_1012_skadi2"
+        },
+        {
+          "id": "char_2023_ling"
+        },
+        {
+          "id": "char_245_cello"
+        }
+      ],
+      "SPECIAL": [
+        {
+          "id": "char_1028_texas2"
+        },
+        {
+          "id": "char_1029_yato2"
+        },
+        {
+          "id": "char_4123_ela"
+        }
+      ]
+    },
+    "chaos": [
+      "rogue_3_chaos_1",
+      "rogue_3_chaos_5",
+      "rogue_3_chaos_4"
+    ],
+    "chaosWithName": [
+      {
+        "id": "rogue_3_chaos_1",
+        "name": "去量化"
+      },
+      {
+        "id": "rogue_3_chaos_5",
+        "name": "泛社会悖论"
+      },
+      {
+        "id": "rogue_3_chaos_4",
+        "name": "情绪实体"
+      }
+    ],
+    "game": 72034,
+    "spring": 14476150,
+    "height": 15783149,
+    "vision": 645907017,
+    "totem": {
+      "location": "rogue_3_totem_R_L3",
+      "effect": "rogue_3_totem_G_E1"
+    }
+  }
+}

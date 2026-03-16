@@ -1,0 +1,231 @@
+{
+  "status": 0,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "endings": {
+      "1": "38.37",
+      "2": "21.80",
+      "3": "21.23",
+      "4": "7.53",
+      "5": "11.07"
+    },
+    "activeTool": [
+      {
+        "id": "rogue_4_active_tool_1",
+        "name": "支援补给站"
+      },
+      {
+        "id": "rogue_4_active_tool_4",
+        "name": "支援起重机"
+      },
+      {
+        "id": "rogue_4_active_tool_3",
+        "name": "支援轰隆隆"
+      }
+    ],
+    "relic": [
+      {
+        "id": "rogue_4_relic_hand_6",
+        "name": "轰鸣之手"
+      },
+      {
+        "id": "rogue_4_relic_legacy_150",
+        "name": "国王的新枪"
+      },
+      {
+        "id": "rogue_4_relic_legacy_154",
+        "name": "诸王的冠冕"
+      },
+      {
+        "id": "rogue_4_relic_explore_6",
+        "name": "美愿时代的留恋"
+      },
+      {
+        "id": "rogue_4_relic_fight_8",
+        "name": "国王的延伸"
+      }
+    ],
+    "character": {
+      "PIONEER": [
+        {
+          "id": "char_151_myrtle",
+          "name": "桃金娘",
+          "rarity": 3,
+          "profession": "PIONEER"
+        },
+        {
+          "id": "char_4087_ines",
+          "name": "伊内丝",
+          "rarity": 5,
+          "profession": "PIONEER"
+        },
+        {
+          "id": "char_497_ctable",
+          "name": "晓歌",
+          "rarity": 4,
+          "profession": "PIONEER"
+        }
+      ],
+      "WARRIOR": [
+        {
+          "id": "char_4145_ulpia",
+          "name": "乌尔比安",
+          "rarity": 5,
+          "profession": "WARRIOR"
+        },
+        {
+          "id": "char_4064_mlynar",
+          "name": "玛恩纳",
+          "rarity": 5,
+          "profession": "WARRIOR"
+        },
+        {
+          "id": "char_4116_blkkgt",
+          "name": "锏",
+          "rarity": 5,
+          "profession": "WARRIOR"
+        }
+      ],
+      "TANK": [
+        {
+          "id": "char_196_sunbr",
+          "name": "古米",
+          "rarity": 3,
+          "profession": "TANK"
+        },
+        {
+          "id": "char_2025_shu",
+          "name": "黍",
+          "rarity": 5,
+          "profession": "TANK"
+        },
+        {
+          "id": "char_150_snakek",
+          "name": "蛇屠箱",
+          "rarity": 3,
+          "profession": "TANK"
+        }
+      ],
+      "SNIPER": [
+        {
+          "id": "char_1035_wisdel",
+          "name": "维什戴尔",
+          "rarity": 5,
+          "profession": "SNIPER"
+        },
+        {
+          "id": "char_2012_typhon",
+          "name": "提丰",
+          "rarity": 5,
+          "profession": "SNIPER"
+        },
+        {
+          "id": "char_1027_greyy2",
+          "name": "承曦格雷伊",
+          "rarity": 4,
+          "profession": "SNIPER"
+        }
+      ],
+      "CASTER": [
+        {
+          "id": "char_4133_logos",
+          "name": "逻各斯",
+          "rarity": 5,
+          "profession": "CASTER"
+        },
+        {
+          "id": "char_1038_whitw2",
+          "name": "荒芜拉普兰德",
+          "rarity": 5,
+          "profession": "CASTER"
+        },
+        {
+          "id": "char_377_gdglow",
+          "name": "澄闪",
+          "rarity": 5,
+          "profession": "CASTER"
+        }
+      ],
+      "MEDIC": [
+        {
+          "id": "char_1016_agoat2",
+          "name": "纯烬艾雅法拉",
+          "rarity": 5,
+          "profession": "MEDIC"
+        },
+        {
+          "id": "char_002_amiya",
+          "name": "阿米娅",
+          "rarity": 4,
+          "profession": "MEDIC"
+        },
+        {
+          "id": "char_003_kalts",
+          "name": "凯尔希",
+          "rarity": 5,
+          "profession": "MEDIC"
+        }
+      ],
+      "SUPPORT": [
+        {
+          "id": "char_245_cello",
+          "name": "塑心",
+          "rarity": 5,
+          "profession": "SUPPORT"
+        },
+        {
+          "id": "char_1012_skadi2",
+          "name": "浊心斯卡蒂",
+          "rarity": 5,
+          "profession": "SUPPORT"
+        },
+        {
+          "id": "char_1042_phatm2",
+          "name": "酒神",
+          "rarity": 5,
+          "profession": "SUPPORT"
+        }
+      ],
+      "SPECIAL": [
+        {
+          "id": "char_1028_texas2",
+          "name": "缄默德克萨斯",
+          "rarity": 5,
+          "profession": "SPECIAL"
+        },
+        {
+          "id": "char_4151_tinman",
+          "name": "锡人",
+          "rarity": 4,
+          "profession": "SPECIAL"
+        },
+        {
+          "id": "char_1029_yato2",
+          "name": "麒麟R夜刀",
+          "rarity": 5,
+          "profession": "SPECIAL"
+        }
+      ]
+    },
+    "disaster": [
+      {
+        "id": "rogue_4_disaster_2",
+        "name": "魔王年代"
+      },
+      {
+        "id": "rogue_4_disaster_1",
+        "name": "天灾年代"
+      },
+      {
+        "id": "rogue_4_disaster_3",
+        "name": "苦难年代"
+      }
+    ],
+    "persuade": 7980776,
+    "amiya": "77.40",
+    "alchemy": 1530973294,
+    "goldSave": 1355634883,
+    "tempUpgrade": 162684564
+  }
+}

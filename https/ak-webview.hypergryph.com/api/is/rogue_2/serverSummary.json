@@ -1,0 +1,162 @@
+{
+  "status": 0,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "endings": {
+      "1": 0.32989995333009836,
+      "2": 0.23579983248286968,
+      "3": 0.16670087065637662,
+      "4": 0.26759934353065534
+    },
+    "activeTool": [
+      "209",
+      "211",
+      "210"
+    ],
+    "activeToolWithName": [
+      {
+        "id": "rogue_2_active_tool_1",
+        "name": "支援补给站"
+      },
+      {
+        "id": "rogue_2_active_tool_3",
+        "name": "支援轰隆隆"
+      },
+      {
+        "id": "rogue_2_active_tool_2",
+        "name": "支援地雷组"
+      }
+    ],
+    "relic": [
+      "180",
+      "207",
+      "110",
+      "118",
+      "199"
+    ],
+    "relicWithName": [
+      {
+        "id": "rogue_2_relic_grace_7",
+        "name": "地形图"
+      },
+      {
+        "id": "rogue_2_relic_fight_113",
+        "name": "投币玩具"
+      },
+      {
+        "id": "rogue_2_relic_fight_115",
+        "name": "绿叶菜罐头"
+      },
+      {
+        "id": "rogue_2_relic_fight_129",
+        "name": "药枚"
+      },
+      {
+        "id": "rogue_2_relic_grace_64",
+        "name": "御2"
+      }
+    ],
+    "character": {
+      "PIONEER": [
+        {
+          "id": "char_151_myrtle"
+        },
+        {
+          "id": "char_123_fang"
+        },
+        {
+          "id": "char_4087_ines"
+        }
+      ],
+      "WARRIOR": [
+        {
+          "id": "char_4064_mlynar"
+        },
+        {
+          "id": "char_293_thorns"
+        },
+        {
+          "id": "char_1026_gvial2"
+        }
+      ],
+      "TANK": [
+        {
+          "id": "char_4039_horn"
+        },
+        {
+          "id": "char_202_demkni"
+        },
+        {
+          "id": "char_284_spot"
+        }
+      ],
+      "SNIPER": [
+        {
+          "id": "char_1013_chen2"
+        },
+        {
+          "id": "char_4055_bgsnow"
+        },
+        {
+          "id": "char_1035_wisdel"
+        }
+      ],
+      "CASTER": [
+        {
+          "id": "char_377_gdglow"
+        },
+        {
+          "id": "char_180_amgoat"
+        },
+        {
+          "id": "char_4133_logos"
+        }
+      ],
+      "MEDIC": [
+        {
+          "id": "char_449_glider"
+        },
+        {
+          "id": "char_128_plosis"
+        },
+        {
+          "id": "char_003_kalts"
+        }
+      ],
+      "SUPPORT": [
+        {
+          "id": "char_1012_skadi2"
+        },
+        {
+          "id": "char_2023_ling"
+        },
+        {
+          "id": "char_206_gnosis"
+        }
+      ],
+      "SPECIAL": [
+        {
+          "id": "char_1028_texas2"
+        },
+        {
+          "id": "char_1029_yato2"
+        },
+        {
+          "id": "char_1023_ghost2"
+        }
+      ]
+    },
+    "san": {
+      "1": 0.6096309156280693,
+      "2": 0.17989783697647382,
+      "3": 0.07642567237025953,
+      "4": 0.13404557502519737
+    },
+    "dice": 1913908164,
+    "coin": 73214660,
+    "invest": 34079,
+    "gold": 529680,
+    "cost": 12464
+  }
+}

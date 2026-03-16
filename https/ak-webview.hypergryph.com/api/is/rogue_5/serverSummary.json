@@ -1,0 +1,311 @@
+{
+  "status": 0,
+  "code": 0,
+  "msg": "",
+  "data": {
+    "endings": {
+      "1": "54.53",
+      "2": "16.43",
+      "3": "13.14",
+      "4": "9.82",
+      "5": "6.08"
+    },
+    "activeTool": [
+      {
+        "id": "rogue_5_active_tool_1",
+        "name": "支援补给站"
+      },
+      {
+        "id": "rogue_5_active_tool_3",
+        "name": "支援轰隆隆"
+      },
+      {
+        "id": "rogue_5_active_tool_2",
+        "name": "支援地雷组"
+      }
+    ],
+    "relic": [
+      {
+        "id": "rogue_5_relic_legacy_12",
+        "name": "热水壶"
+      },
+      {
+        "id": "rogue_5_relic_fight_3",
+        "name": "束伥索"
+      },
+      {
+        "id": "rogue_5_relic_explore_3",
+        "name": "家常小炒"
+      },
+      {
+        "id": "rogue_5_relic_fight_6",
+        "name": "镜中境"
+      },
+      {
+        "id": "rogue_5_relic_fight_10",
+        "name": "伥物房账簿"
+      }
+    ],
+    "character": {
+      "PIONEER": [
+        {
+          "id": "char_151_myrtle",
+          "name": "桃金娘",
+          "rarity": 3,
+          "profession": "PIONEER"
+        },
+        {
+          "id": "char_4087_ines",
+          "name": "伊内丝",
+          "rarity": 5,
+          "profession": "PIONEER"
+        },
+        {
+          "id": "char_1045_svash2",
+          "name": "凛御银灰",
+          "rarity": 5,
+          "profession": "PIONEER"
+        }
+      ],
+      "WARRIOR": [
+        {
+          "id": "char_4182_oblvns",
+          "name": "丰川祥子",
+          "rarity": 5,
+          "profession": "WARRIOR"
+        },
+        {
+          "id": "char_1043_leizi2",
+          "name": "司霆惊蛰",
+          "rarity": 5,
+          "profession": "WARRIOR"
+        },
+        {
+          "id": "char_4145_ulpia",
+          "name": "乌尔比安",
+          "rarity": 5,
+          "profession": "WARRIOR"
+        }
+      ],
+      "TANK": [
+        {
+          "id": "char_1044_hsgma2",
+          "name": "斩业星熊",
+          "rarity": 5,
+          "profession": "TANK"
+        },
+        {
+          "id": "char_2025_shu",
+          "name": "黍",
+          "rarity": 5,
+          "profession": "TANK"
+        },
+        {
+          "id": "char_196_sunbr",
+          "name": "古米",
+          "rarity": 3,
+          "profession": "TANK"
+        }
+      ],
+      "SNIPER": [
+        {
+          "id": "char_1035_wisdel",
+          "name": "维什戴尔",
+          "rarity": 5,
+          "profession": "SNIPER"
+        },
+        {
+          "id": "char_4193_lemuen",
+          "name": "蕾缪安",
+          "rarity": 5,
+          "profession": "SNIPER"
+        },
+        {
+          "id": "char_4138_narant",
+          "name": "娜仁图亚",
+          "rarity": 5,
+          "profession": "SNIPER"
+        }
+      ],
+      "CASTER": [
+        {
+          "id": "char_1038_whitw2",
+          "name": "荒芜拉普兰德",
+          "rarity": 5,
+          "profession": "CASTER"
+        },
+        {
+          "id": "char_1046_sbell2",
+          "name": "圣聆初雪",
+          "rarity": 5,
+          "profession": "CASTER"
+        },
+        {
+          "id": "char_4133_logos",
+          "name": "逻各斯",
+          "rarity": 5,
+          "profession": "CASTER"
+        }
+      ],
+      "MEDIC": [
+        {
+          "id": "char_4179_monstr",
+          "name": "Mon3tr",
+          "rarity": 5,
+          "profession": "MEDIC"
+        },
+        {
+          "id": "char_002_amiya",
+          "name": "阿米娅",
+          "rarity": 4,
+          "profession": "MEDIC"
+        },
+        {
+          "id": "char_1016_agoat2",
+          "name": "纯烬艾雅法拉",
+          "rarity": 5,
+          "profession": "MEDIC"
+        }
+      ],
+      "SUPPORT": [
+        {
+          "id": "char_4195_radian",
+          "name": "电弧",
+          "rarity": 5,
+          "profession": "SUPPORT"
+        },
+        {
+          "id": "char_1042_phatm2",
+          "name": "酒神",
+          "rarity": 5,
+          "profession": "SUPPORT"
+        },
+        {
+          "id": "char_4202_haruka",
+          "name": "遥",
+          "rarity": 5,
+          "profession": "SUPPORT"
+        }
+      ],
+      "SPECIAL": [
+        {
+          "id": "char_1041_angel2",
+          "name": "新约能天使",
+          "rarity": 5,
+          "profession": "SPECIAL"
+        },
+        {
+          "id": "char_1029_yato2",
+          "name": "麒麟R夜刀",
+          "rarity": 5,
+          "profession": "SPECIAL"
+        },
+        {
+          "id": "char_355_ethan",
+          "name": "伊桑",
+          "rarity": 3,
+          "profession": "SPECIAL"
+        }
+      ]
+    },
+    "wrath": [
+      {
+        "id": "rogue_5_wrath_5",
+        "name": "未建"
+      },
+      {
+        "id": "rogue_5_wrath_8",
+        "name": "申铸"
+      },
+      {
+        "id": "rogue_5_wrath_2",
+        "name": "巳农"
+      }
+    ],
+    "copper": [
+      {
+        "id": "rogue_5_copper_F_06",
+        "name": "衡-虹霓"
+      },
+      {
+        "id": "rogue_5_copper_F_02",
+        "name": "衡-匪风"
+      },
+      {
+        "id": "rogue_5_copper_F_01",
+        "name": "衡-苦寒"
+      }
+    ],
+    "ticket": 968812768,
+    "candle": [
+      {
+        "id": "char_1035_wisdel",
+        "name": "维什戴尔",
+        "rarity": 5,
+        "profession": "SNIPER"
+      },
+      {
+        "id": "char_4195_radian",
+        "name": "电弧",
+        "rarity": 5,
+        "profession": "SUPPORT"
+      },
+      {
+        "id": "char_1041_angel2",
+        "name": "新约能天使",
+        "rarity": 5,
+        "profession": "SPECIAL"
+      },
+      {
+        "id": "char_1042_phatm2",
+        "name": "酒神",
+        "rarity": 5,
+        "profession": "SUPPORT"
+      },
+      {
+        "id": "char_002_amiya",
+        "name": "阿米娅",
+        "rarity": 4,
+        "profession": "CASTER"
+      }
+    ],
+    "expeditionGuide": [
+      {
+        "id": "char_1041_angel2",
+        "name": "新约能天使",
+        "rarity": 5,
+        "profession": "SPECIAL"
+      },
+      {
+        "id": "char_1035_wisdel",
+        "name": "维什戴尔",
+        "rarity": 5,
+        "profession": "SNIPER"
+      },
+      {
+        "id": "char_4195_radian",
+        "name": "电弧",
+        "rarity": 5,
+        "profession": "SUPPORT"
+      },
+      {
+        "id": "char_4182_oblvns",
+        "name": "丰川祥子",
+        "rarity": 5,
+        "profession": "WARRIOR"
+      },
+      {
+        "id": "char_1045_svash2",
+        "name": "凛御银灰",
+        "rarity": 5,
+        "profession": "PIONEER"
+      }
+    ],
+    "costHp": 1136968939,
+    "nodePass": 1595560014,
+    "fall": 17791064,
+    "rotate": 15060522,
+    "gold": 25401978,
+    "raidian": 1120695257
+  }
+}
