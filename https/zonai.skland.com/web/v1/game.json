@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1773786749",
+  "timestamp": "1773811487",
   "data": {
     "list": [
       {
@@ -1236,7 +1236,15 @@
             "status": 2,
             "startAtTs": 1769050800,
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1773806400",
+                "endAtTs": "1774886400"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 91,
