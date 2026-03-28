@@ -6524,7 +6524,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 9,
       "type": "ACT_MINI",
       "stageCode": "CG-1",
@@ -6536,7 +6536,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 9,
       "type": "ACT_MINI",
       "stageCode": "CG-2",
@@ -6548,7 +6548,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 12,
       "type": "ACT_MINI",
       "stageCode": "CG-3",
@@ -6560,7 +6560,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 12,
       "type": "ACT_MINI",
       "stageCode": "CG-4",
@@ -6572,7 +6572,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 15,
       "type": "ACT_MINI",
       "stageCode": "CG-5",
@@ -6584,7 +6584,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 15,
       "type": "ACT_MINI",
       "stageCode": "CG-6",
@@ -6596,7 +6596,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 21,
       "type": "ACT_MINI",
       "stageCode": "CG-7",
@@ -6608,7 +6608,7 @@
       "start": 1773115200000,
       "zoneId": "act20mini_zone1",
       "end": 1773691200000,
-      "zoneName": "新活动关卡",
+      "zoneName": "十字路口",
       "apCost": 21,
       "type": "ACT_MINI",
       "stageCode": "CG-8",
@@ -10923,6 +10923,18 @@
       "stageId": "act41side_01"
     },
     {
+      "spm": 3.86,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 9,
+      "type": "ACT_REP",
+      "stageCode": "EA-1",
+      "stageId": "act41side_01_rep"
+    },
+    {
       "spm": 2.27,
       "stageType": "ACT",
       "start": 1741334400000,
@@ -10933,6 +10945,18 @@
       "type": "ACT",
       "stageCode": "EA-2",
       "stageId": "act41side_02"
+    },
+    {
+      "spm": 2.27,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 9,
+      "type": "ACT_REP",
+      "stageCode": "EA-2",
+      "stageId": "act41side_02_rep"
     },
     {
       "spm": 6.1,
@@ -10947,6 +10971,18 @@
       "stageId": "act41side_03"
     },
     {
+      "spm": 6.1,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 12,
+      "type": "ACT_REP",
+      "stageCode": "EA-3",
+      "stageId": "act41side_03_rep"
+    },
+    {
       "spm": 5.67,
       "stageType": "ACT",
       "start": 1741334400000,
@@ -10957,6 +10993,18 @@
       "type": "ACT",
       "stageCode": "EA-4",
       "stageId": "act41side_04"
+    },
+    {
+      "spm": 5.67,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 12,
+      "type": "ACT_REP",
+      "stageCode": "EA-4",
+      "stageId": "act41side_04_rep"
     },
     {
       "spm": 4.93,
@@ -10971,6 +11019,18 @@
       "stageId": "act41side_05"
     },
     {
+      "spm": 4.93,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 12,
+      "type": "ACT_REP",
+      "stageCode": "EA-5",
+      "stageId": "act41side_05_rep"
+    },
+    {
       "spm": 6.7,
       "stageType": "ACT",
       "start": 1741334400000,
@@ -10981,6 +11041,18 @@
       "type": "ACT",
       "stageCode": "EA-6",
       "stageId": "act41side_06"
+    },
+    {
+      "spm": 6.7,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 21,
+      "type": "ACT_REP",
+      "stageCode": "EA-6",
+      "stageId": "act41side_06_rep"
     },
     {
       "spm": 6.85,
@@ -10995,6 +11067,18 @@
       "stageId": "act41side_07"
     },
     {
+      "spm": 6.85,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 21,
+      "type": "ACT_REP",
+      "stageCode": "EA-7",
+      "stageId": "act41side_07_rep"
+    },
+    {
       "spm": 5.65,
       "stageType": "ACT",
       "start": 1741334400000,
@@ -11005,6 +11089,18 @@
       "type": "ACT",
       "stageCode": "EA-8",
       "stageId": "act41side_08"
+    },
+    {
+      "spm": 5.65,
+      "stageType": "ACT_REP",
+      "start": 1774598400000,
+      "zoneId": "act41sre_zone1",
+      "end": 1775419200000,
+      "zoneName": "挽歌燃烧殆尽·复刻",
+      "apCost": 21,
+      "type": "ACT_REP",
+      "stageCode": "EA-8",
+      "stageId": "act41side_08_rep"
     },
     {
       "spm": 3.62,
