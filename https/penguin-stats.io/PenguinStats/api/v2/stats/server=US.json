@@ -1478,7 +1478,7 @@
     },
     {
       "stageId": "pro_a_2",
-      "times": 14319
+      "times": 14322
     },
     {
       "stageId": "a001_02_perm",
@@ -1702,7 +1702,7 @@
     },
     {
       "stageId": "tough_10-10",
-      "times": 1225
+      "times": 1227
     },
     {
       "stageId": "act13mini_08",
@@ -1834,7 +1834,7 @@
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 108021
+      "times": 108079
     },
     {
       "stageId": "act31side_02",
@@ -2382,7 +2382,7 @@
     },
     {
       "stageId": "tough_13-08",
-      "times": 77
+      "times": 78
     },
     {
       "stageId": "main_04-07",
@@ -2886,7 +2886,7 @@
     },
     {
       "stageId": "pro_b_2",
-      "times": 18229
+      "times": 18230
     },
     {
       "stageId": "act22side_04",
@@ -3306,7 +3306,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1715027
+      "times": 1715116
     },
     {
       "stageId": "act9d0_05_perm",
@@ -4468,15 +4468,11 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 249
+      "times": 186
     },
     {
       "stageId": "main_08-13",
       "times": 1
-    },
-    {
-      "stageId": "main_09-17",
-      "times": 6
     },
     {
       "stageId": "main_12-10",
@@ -4484,45 +4480,57 @@
     },
     {
       "stageId": "pro_a_2",
-      "times": 6
+      "times": 9
+    },
+    {
+      "stageId": "pro_b_2",
+      "times": 1
     },
     {
       "stageId": "pro_c_2",
-      "times": 13
+      "times": 12
     },
     {
       "stageId": "pro_d_2",
-      "times": 26
+      "times": 25
     },
     {
       "stageId": "sub_09-1-3",
       "times": 3
     },
     {
-      "stageId": "wk_fly_5",
+      "stageId": "tough_10-10",
       "times": 2
     },
     {
+      "stageId": "tough_13-08",
+      "times": 1
+    },
+    {
+      "stageId": "wk_fly_5",
+      "times": 1
+    },
+    {
       "stageId": "wk_kc_6",
-      "times": 7
+      "times": 6
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 370
+      "times": 311
     }
   ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
-      "quantity": 181011
+      "quantity": 181015
     },
     {
       "itemId": "30011",
-      "quantity": 281325
+      "quantity": 281341
     },
     {
       "itemId": "30012",
-      "quantity": 2396111
+      "quantity": 2396213
     },
     {
       "itemId": "30013",
@@ -4534,11 +4542,11 @@
     },
     {
       "itemId": "30061",
-      "quantity": 91877
+      "quantity": 91878
     },
     {
       "itemId": "30062",
-      "quantity": 48288
+      "quantity": 48289
     },
     {
       "itemId": "30063",
@@ -4550,7 +4558,7 @@
     },
     {
       "itemId": "30031",
-      "quantity": 164938
+      "quantity": 164945
     },
     {
       "itemId": "30032",
@@ -4566,7 +4574,7 @@
     },
     {
       "itemId": "30021",
-      "quantity": 135064
+      "quantity": 135074
     },
     {
       "itemId": "30022",
@@ -4582,7 +4590,7 @@
     },
     {
       "itemId": "30041",
-      "quantity": 107876
+      "quantity": 107881
     },
     {
       "itemId": "30042",
@@ -4590,7 +4598,7 @@
     },
     {
       "itemId": "30043",
-      "quantity": 59763
+      "quantity": 59765
     },
     {
       "itemId": "30044",
@@ -4598,7 +4606,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 123743
+      "quantity": 123749
     },
     {
       "itemId": "30052",
@@ -4646,7 +4654,7 @@
     },
     {
       "itemId": "furni",
-      "quantity": 46495
+      "quantity": 46501
     },
     {
       "itemId": "3112",
@@ -4682,7 +4690,7 @@
     },
     {
       "itemId": "31023",
-      "quantity": 67904
+      "quantity": 67905
     },
     {
       "itemId": "31024",
@@ -4738,11 +4746,11 @@
     },
     {
       "itemId": "3242",
-      "quantity": 9033
+      "quantity": 9034
     },
     {
       "itemId": "3232",
-      "quantity": 7136
+      "quantity": 7139
     },
     {
       "itemId": "3262",
@@ -4809,5 +4817,5 @@
       "quantity": 337
     }
   ],
-  "totalApCost": 49535073
+  "totalApCost": 49537560
 }
