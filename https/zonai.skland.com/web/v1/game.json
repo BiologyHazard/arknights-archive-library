@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1775540769",
+  "timestamp": "1775559292",
   "data": {
     "list": [
       {
@@ -399,7 +399,7 @@
           {
             "id": 26,
             "gameId": 1,
-            "name": "卫戍战绩",
+            "name": "活动战绩",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
@@ -409,45 +409,45 @@
               "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fauto-chess%3Fheader%3D0%26bg_color%3D181818%26activityId%3Dact2autochess",
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fa1bfd2c3c6e8-people-a-people-record%3Fheader%3D0",
             "position": 4,
             "status": 2,
             "startAtTs": 1706780972,
-            "pcLink": "https://act.skland.com/arknights/auto-chess?header=0&bg_color=181818&activityId=act2autochess",
+            "pcLink": "https://www.skland.com/act/ak/a1bfd2c3c6e8-people-a-people-record?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1773484080",
-                "endAtTs": "1777046400"
+                "startAtTs": "1775542800",
+                "endAtTs": "1777305600"
               },
               "dotType": 0
             }
           },
           {
-            "id": 65,
+            "id": 61,
             "gameId": 1,
-            "name": "集成战略战绩",
+            "name": "卫戍战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "url": "https://bbs.hycdn.cn/image/2024/11/18/7ce7cf748a31bc2450527baeb0bfd8d6.png",
               "width": 120,
               "height": 120,
-              "size": 2727,
+              "size": 2951,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26bg_color%3D1e1e1e%26currentTopicId%3Drogue_5",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fauto-chess%3Fheader%3D0%26bg_color%3D181818%26activityId%3Dact2autochess",
             "position": 5,
             "status": 2,
-            "startAtTs": 1752566400,
-            "pcLink": "https://game.skland.com/arknights/game-record?header=0&bg_color=1e1e1e&currentTopicId=rogue_5",
+            "startAtTs": 1731896348,
+            "pcLink": "https://act.skland.com/arknights/auto-chess?header=0&bg_color=181818&activityId=act2autochess",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1769244115",
-                "endAtTs": "1769875199"
+                "startAtTs": "1775542800",
+                "endAtTs": "1777046400"
               },
               "dotType": 0
             }
@@ -466,7 +466,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -486,7 +486,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -514,7 +514,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act49side",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 1769140687,
             "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
@@ -542,7 +542,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 1744183630,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
