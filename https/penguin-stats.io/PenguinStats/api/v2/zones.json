@@ -7143,5 +7143,45 @@
       "act41side_07_rep",
       "act41side_08_rep"
     ]
+  },
+  {
+    "zoneId": "act51side_zone1",
+    "zoneIndex": 1109,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "人们，我们",
+    "zoneName_i18n": {
+      "en": "人们，我们",
+      "ja": "人们，我们",
+      "ko": "人们，我们",
+      "zh": "人们，我们"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1775534400000,
+        "closeTime": 1776715200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act51side_01",
+      "act51side_02",
+      "act51side_03",
+      "act51side_04",
+      "act51side_05",
+      "act51side_06",
+      "act51side_07",
+      "act51side_08"
+    ]
   }
 ]

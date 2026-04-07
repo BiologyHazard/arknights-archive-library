@@ -4,6 +4,110 @@
   "data": {
     "ACT": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act51side_zone1",
+        "stageType": "ACT",
+        "endTime": "2026-04-20T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act51side_01",
+            "stageCode": "PA-1",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 5.14,
+            "minClearTime": 105000
+          },
+          {
+            "stageId": "act51side_02",
+            "stageCode": "PA-2",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 3.44,
+            "minClearTime": 157000
+          },
+          {
+            "stageId": "act51side_03",
+            "stageCode": "PA-3",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 6.43,
+            "minClearTime": 112000
+          },
+          {
+            "stageId": "act51side_04",
+            "stageCode": "PA-4",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 3.97,
+            "minClearTime": 181300
+          },
+          {
+            "stageId": "act51side_05",
+            "stageCode": "PA-5",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 3.83,
+            "minClearTime": 188000
+          },
+          {
+            "stageId": "act51side_06",
+            "stageCode": "PA-6",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 8.75,
+            "minClearTime": 144000
+          },
+          {
+            "stageId": "act51side_07",
+            "stageCode": "PA-7",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 7.78,
+            "minClearTime": 162000
+          },
+          {
+            "stageId": "act51side_08",
+            "stageCode": "PA-8",
+            "zoneId": "act51side_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT",
+            "startTime": "2026-04-07 12:00:00",
+            "endTime": "2026-04-21 04:00:00",
+            "spm": 0.0,
+            "minClearTime": 0
+          }
+        ]
+      },
+      {
         "zoneName": "辞岁行",
         "zoneId": "act49side_zone1",
         "stageType": "ACT",
