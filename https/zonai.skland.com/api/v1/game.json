@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1776724931",
+  "timestamp": "1776751308",
   "data": {
     "list": [
       {
@@ -369,6 +369,34 @@
             }
           },
           {
+            "id": 84,
+            "gameId": 1,
+            "name": "历程报告",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "width": 120,
+              "height": 120,
+              "size": 2665,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act51side",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1769140687,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1776750036",
+                "endAtTs": "1778255999"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 26,
             "gameId": 1,
             "name": "活动战绩",
@@ -382,7 +410,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fa1bfd2c3c6e8-people-a-people-record%3Fheader%3D0",
-            "position": 4,
+            "position": 5,
             "status": 2,
             "startAtTs": 1706780972,
             "pcLink": "https://www.skland.com/act/ak/a1bfd2c3c6e8-people-a-people-record?header=0",
@@ -410,7 +438,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fauto-chess%3Fheader%3D0%26bg_color%3D181818%26activityId%3Dact2autochess",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 1731896348,
             "pcLink": "https://act.skland.com/arknights/auto-chess?header=0&bg_color=181818&activityId=act2autochess",
@@ -438,7 +466,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -458,7 +486,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -468,34 +496,6 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 84,
-            "gameId": 1,
-            "name": "历程报告",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
-              "width": 120,
-              "height": 120,
-              "size": 2665,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act49side",
-            "position": 9,
-            "status": 2,
-            "startAtTs": 1769140687,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1772509559",
-                "endAtTs": "1774627199"
               },
               "dotType": 0
             }
@@ -2408,7 +2408,7 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://weeklyMustWatch?id=54",
+            "link": "skland://weeklyMustWatch?id=55",
             "position": 1,
             "status": 2,
             "startAtTs": 1755244980,
