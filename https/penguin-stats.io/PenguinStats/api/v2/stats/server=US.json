@@ -3306,7 +3306,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1719208
+      "times": 1719214
     },
     {
       "stageId": "act9d0_05_perm",
@@ -4186,7 +4186,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 66423
+      "times": 66427
     },
     {
       "stageId": "act18d3_05",
@@ -4468,7 +4468,7 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 111
+      "times": 79
     },
     {
       "stageId": "pro_c_1",
@@ -4480,7 +4480,11 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 13
+      "times": 8
+    },
+    {
+      "stageId": "wk_toxic_5",
+      "times": 2
     }
   ],
   "totalItemQuantities": [
@@ -4490,11 +4494,11 @@
     },
     {
       "itemId": "30011",
-      "quantity": 281812
+      "quantity": 281815
     },
     {
       "itemId": "30012",
-      "quantity": 2401534
+      "quantity": 2401542
     },
     {
       "itemId": "30013",
@@ -4506,7 +4510,7 @@
     },
     {
       "itemId": "30061",
-      "quantity": 92061
+      "quantity": 92062
     },
     {
       "itemId": "30062",
@@ -4538,7 +4542,7 @@
     },
     {
       "itemId": "30021",
-      "quantity": 135313
+      "quantity": 135315
     },
     {
       "itemId": "30022",
@@ -4781,5 +4785,5 @@
       "quantity": 338
     }
   ],
-  "totalApCost": 49646463
+  "totalApCost": 49646643
 }
