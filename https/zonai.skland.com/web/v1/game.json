@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1777569617",
+  "timestamp": "1777589555",
   "data": {
     "list": [
       {
@@ -382,7 +382,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fduel-channel%3Fheader%3D0",
-            "position": 4,
+            "position": 3,
             "status": 2,
             "startAtTs": 1777124400,
             "pcLink": "https://act.skland.com/arknights/duel-channel?header=0",
@@ -397,9 +397,37 @@
             }
           },
           {
+            "id": 67,
+            "gameId": 1,
+            "name": "更新福利",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/03/6db7a0f0873e5087dab863555a7b72b2.gif",
+              "width": 120,
+              "height": 120,
+              "size": 505198,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_908498",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 1773094776,
+            "pcLink": "skland://detail?id=2699001&viewKind=3",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1777587666",
+                "endAtTs": "1778169599"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 26,
             "gameId": 1,
-            "name": "Bingo",
+            "name": "Bingo有礼",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
@@ -420,34 +448,6 @@
               "timeRange": {
                 "startAtTs": "1777124926",
                 "endAtTs": "1779724799"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 84,
-            "gameId": 1,
-            "name": "历程报告",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
-              "width": 120,
-              "height": 120,
-              "size": 2665,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act51side",
-            "position": 6,
-            "status": 2,
-            "startAtTs": 1769140687,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act49side",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1776750036",
-                "endAtTs": "1778255999"
               },
               "dotType": 0
             }
