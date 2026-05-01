@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1777589781",
+  "timestamp": "1777617601",
   "data": {
     "id": "char_1023_ghost2",
     "mainSkillLevelCost": [
@@ -266,6 +266,41 @@
       }
     ],
     "equipCost": [
+      {
+        "id": "uniequip_004_ghost2",
+        "name": "归溟幽灵鲨特限证章",
+        "typeName": "isw-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
+      },
       {
         "id": "uniequip_002_ghost2",
         "name": "“唱片”收藏箱",

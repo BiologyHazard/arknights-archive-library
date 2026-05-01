@@ -1,48 +1,35 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1777589579",
+  "timestamp": "1777617352",
   "data": {
-    "postedAtTs": 1770696000,
-    "description": "更新后，以下干员将加入并常驻【公开招募】\n6★卡涅利安、5★绮良、4★深靛",
+    "postedAtTs": 1777564800,
+    "description": "本次新增干员6★ 帕拉斯、1★ GALLUS²",
     "characters": [
       {
-        "charId": "char_426_billro",
+        "charId": "char_4227_gallus",
         "tagIds": [
           6,
+          10,
+          28,
+          24
+        ],
+        "name": "GALLUS²",
+        "rarity": 0,
+        "profession": "CASTER"
+      },
+      {
+        "charId": "char_485_pallas",
+        "tagIds": [
+          1,
           11,
-          10,
-          21,
-          22
-        ],
-        "name": "卡涅利安",
-        "rarity": 5,
-        "profession": "CASTER"
-      },
-      {
-        "charId": "char_469_indigo",
-        "tagIds": [
-          6,
-          10,
-          19,
-          12
-        ],
-        "name": "深靛",
-        "rarity": 3,
-        "profession": "CASTER"
-      },
-      {
-        "charId": "char_478_kirara",
-        "tagIds": [
-          7,
-          14,
           9,
           19,
-          20
+          16
         ],
-        "name": "绮良",
-        "rarity": 4,
-        "profession": "SPECIAL"
+        "name": "帕拉斯",
+        "rarity": 5,
+        "profession": "WARRIOR"
       }
     ]
   }

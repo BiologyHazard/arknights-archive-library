@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1777589555",
+  "timestamp": "1777617327",
   "data": {
     "list": [
       {
@@ -369,29 +369,29 @@
             }
           },
           {
-            "id": 71,
+            "id": 100,
             "gameId": 1,
-            "name": "争锋投票",
+            "name": "活动战绩",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/04/25/7fb6b0bcb9802160bcfe644229ae57e6.png",
+              "url": "https://bbs.hycdn.cn/image/2026/05/01/937c2dbb6256a808f6b185cbd496bf60.gif",
               "width": 120,
               "height": 120,
-              "size": 24928,
-              "format": "png",
+              "size": 70775,
+              "format": "gif",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fduel-channel%3Fheader%3D0",
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F3bf6029b1aab-ep17-record%3Fheader%3D0",
             "position": 3,
             "status": 2,
-            "startAtTs": 1777124400,
-            "pcLink": "https://act.skland.com/arknights/duel-channel?header=0",
+            "startAtTs": 1777609561,
+            "pcLink": "https://www.skland.com/act/ak/3bf6029b1aab-ep17-record?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1777124460",
-                "endAtTs": "1778256000"
+                "startAtTs": "1777609804",
+                "endAtTs": "1779393600"
               },
               "dotType": 0
             }
@@ -430,11 +430,11 @@
             "name": "Bingo有礼",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/02/01/d2d131efc9910cf68885aab0294ec221.gif",
+              "url": "https://bbs.hycdn.cn/image/2026/05/01/aa4beffd984891db3bd2300ec5e5ce27.png",
               "width": 120,
               "height": 120,
-              "size": 70775,
-              "format": "gif",
+              "size": 2665,
+              "format": "png",
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fanniversary-7th%3Fheader%3D0",
@@ -453,6 +453,34 @@
             }
           },
           {
+            "id": 71,
+            "gameId": 1,
+            "name": "争锋投票",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/04/25/7fb6b0bcb9802160bcfe644229ae57e6.png",
+              "width": 120,
+              "height": 120,
+              "size": 24928,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fduel-channel%3Fheader%3D0",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 1777124400,
+            "pcLink": "https://act.skland.com/arknights/duel-channel?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1777124460",
+                "endAtTs": "1778256000"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 53,
             "gameId": 1,
             "name": "助战检索",
@@ -466,7 +494,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -486,38 +514,10 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 70,
-            "gameId": 1,
-            "name": "公招索引",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/7c70bfe544484237dde538f8eeadf6d1.png",
-              "width": 120,
-              "height": 120,
-              "size": 10296,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 12,
-            "status": 2,
-            "startAtTs": 1744183630,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -542,7 +542,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 1744170644,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -570,7 +570,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 16,
+            "position": 17,
             "status": 2,
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
