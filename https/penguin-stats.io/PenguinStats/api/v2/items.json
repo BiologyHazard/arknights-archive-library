@@ -6591,5 +6591,125 @@
     "groupID": null,
     "alias": {},
     "pron": {}
+  },
+  {
+    "itemId": "31103",
+    "name": "液化高能气体",
+    "name_i18n": {
+      "en": "液化高能气体",
+      "ja": "液化高能气体",
+      "ko": "液化高能气体",
+      "zh": "液化高能气体"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "MATERIAL",
+    "sortId": 100060,
+    "rarity": 2,
+    "groupID": "gas",
+    "alias": {},
+    "pron": {}
+  },
+  {
+    "itemId": "31104",
+    "name": "液化醚吸聚体",
+    "name_i18n": {
+      "en": "液化醚吸聚体",
+      "ja": "液化醚吸聚体",
+      "ko": "液化醚吸聚体",
+      "zh": "液化醚吸聚体"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "MATERIAL",
+    "sortId": 100059,
+    "rarity": 3,
+    "groupID": "gas",
+    "alias": {},
+    "pron": {}
+  },
+  {
+    "itemId": "31113",
+    "name": "电极单元",
+    "name_i18n": {
+      "en": "电极单元",
+      "ja": "电极单元",
+      "ko": "电极单元",
+      "zh": "电极单元"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "MATERIAL",
+    "sortId": 100058,
+    "rarity": 2,
+    "groupID": "elec",
+    "alias": {},
+    "pron": {}
+  },
+  {
+    "itemId": "31114",
+    "name": "聚能动力单元",
+    "name_i18n": {
+      "en": "聚能动力单元",
+      "ja": "聚能动力单元",
+      "ko": "聚能动力单元",
+      "zh": "聚能动力单元"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "MATERIAL",
+    "sortId": 100057,
+    "rarity": 3,
+    "groupID": "elec",
+    "alias": {},
+    "pron": {}
   }
 ]

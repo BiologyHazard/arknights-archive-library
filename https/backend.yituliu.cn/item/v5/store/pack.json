@@ -3340,7 +3340,7 @@
       "saleType": "activity",
       "tags": "",
       "imageName": null,
-      "imageLink": "image/新人适应补给包.1855452370551000.jpg",
+      "imageLink": "image/2209552344201000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 0,
@@ -12702,7 +12702,7 @@
       "saleType": "activity",
       "tags": "activity,periodically,lmd",
       "imageName": null,
-      "imageLink": "image/2078043936001000.png",
+      "imageLink": "image/2209341855591000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 16,
@@ -14395,20 +14395,46 @@
     },
     {
       "id": 2209338556641000,
-      "officialName": "定向甄选寻访组合包",
-      "displayName": "定向甄选寻访组合包",
-      "price": 168.0,
+      "officialName": "新人适应补给包",
+      "displayName": "新人适应补给包",
+      "price": 6.0,
       "saleType": "activity",
-      "tags": "activity",
+      "tags": "activity,newbie",
       "imageName": null,
-      "imageLink": "image/2209338558091000.jpg",
+      "imageLink": "image/2209552344201000.jpg",
       "gachaTicket": 0,
-      "tenGachaTicket": 2,
-      "originium": 9,
-      "orundum": 0,
-      "packContent": null,
-      "start": 1778774400000,
-      "end": 1781193600000,
+      "tenGachaTicket": 0,
+      "originium": 1,
+      "orundum": 800,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 100000
+        },
+        {
+          "itemName": "中级作战记录",
+          "itemId": "2003",
+          "quantity": 20
+        },
+        {
+          "itemName": "高级材料提货券",
+          "itemId": "advanced_material_issue_voucher",
+          "quantity": 5
+        },
+        {
+          "itemName": "技巧概要·卷3",
+          "itemId": "3303",
+          "quantity": 10
+        },
+        {
+          "itemName": "自助芯片印刻仪",
+          "itemId": "voucher_5chipPackage",
+          "quantity": 1
+        }
+      ],
+      "start": 1777631202354,
+      "end": 8092540800000,
       "note": ""
     },
     {
@@ -14501,7 +14527,7 @@
       "saleType": "activity",
       "tags": "activity",
       "imageName": null,
-      "imageLink": "image/2078043936001000.png",
+      "imageLink": "image/2209341855591000.jpg",
       "gachaTicket": 0,
       "tenGachaTicket": 0,
       "originium": 16,
@@ -14515,6 +14541,30 @@
       ],
       "start": 1778774400000,
       "end": 1781193600000,
+      "note": ""
+    },
+    {
+      "id": 2209552342771000,
+      "officialName": "新人适应补给包",
+      "displayName": "新人适应补给包",
+      "price": 6.0,
+      "saleType": "activity",
+      "tags": "activity,newbie",
+      "imageName": null,
+      "imageLink": "image/2209552344201000.jpg",
+      "gachaTicket": 0,
+      "tenGachaTicket": 0,
+      "originium": 1,
+      "orundum": 800,
+      "packContent": [
+        {
+          "itemName": "龙门币",
+          "itemId": "4001",
+          "quantity": 100000
+        }
+      ],
+      "start": 1777631202354,
+      "end": 8092540800000,
       "note": ""
     }
   ]

@@ -7183,5 +7183,53 @@
       "act51side_07",
       "act51side_08"
     ]
+  },
+  {
+    "zoneId": "main_17",
+    "zoneIndex": 22,
+    "type": "MAINLINE",
+    "subType": "DYING_SUN",
+    "zoneName": "第十七章",
+    "zoneName_i18n": {
+      "en": "第十七章",
+      "ja": "第十七章",
+      "ko": "第十七章",
+      "zh": "第十七章"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1777608000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "main_17-01",
+      "main_17-02",
+      "main_17-03",
+      "main_17-04",
+      "main_17-05",
+      "main_17-06",
+      "main_17-07",
+      "main_17-08",
+      "main_17-09",
+      "main_17-10",
+      "main_17-11",
+      "main_17-12",
+      "main_17-13",
+      "main_17-14",
+      "main_17-15",
+      "main_17-16",
+      "main_17-17"
+    ]
   }
 ]
