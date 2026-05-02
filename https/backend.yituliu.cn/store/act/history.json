@@ -3,7 +3,7 @@
   "msg": "操作成功",
   "data": [
     {
-      "endTime": 1779393600000,
+      "endTime": 1779408000000,
       "actTagArea": [
         {
           "tagText": "模组数据块属不可再生资源，图中数值以红票计价",
@@ -32,6 +32,15 @@
           "itemArea": 1,
           "itemId": "31024",
           "itemName": "炽合金块",
+          "itemPPR": null,
+          "itemPrice": 60,
+          "itemQuantity": 1,
+          "itemStock": null
+        },
+        {
+          "itemArea": 1,
+          "itemId": "31104",
+          "itemName": "液化醚吸聚体",
           "itemPPR": null,
           "itemPrice": 60,
           "itemQuantity": 1,
@@ -174,8 +183,8 @@
         },
         {
           "itemArea": 2,
-          "itemId": "31093",
-          "itemName": "类凝结核",
+          "itemId": "31113",
+          "itemName": "电极单元",
           "itemPPR": null,
           "itemPrice": 20,
           "itemQuantity": 1,
