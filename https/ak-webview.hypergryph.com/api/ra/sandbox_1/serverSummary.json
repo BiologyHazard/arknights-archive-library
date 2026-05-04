@@ -5,53 +5,53 @@
   "data": {
     "unlockZone": {
       "1": "71.68",
-      "2": "9.82",
+      "2": "9.81",
       "3": "4.11",
-      "4": "4.49",
-      "5": "9.90"
+      "4": "4.48",
+      "5": "9.92"
     },
     "mainQuest": {
       "1": "8.99",
       "2": "5.90",
       "3": "4.73"
     },
-    "enemyKill": 56591726,
+    "enemyKill": 56603187,
     "boss": {
-      "enemy_7029_pilot": 478708,
-      "enemy_7030_skodo": 1147198,
-      "enemy_7031_ghking": 310297
+      "enemy_7029_pilot": 478825,
+      "enemy_7030_skodo": 1147464,
+      "enemy_7031_ghking": 310368
     },
-    "createRift": 10425305,
-    "gold": 20569477010,
+    "createRift": 10428982,
+    "gold": 20575165167,
     "foodEat": [
       {
         "id": "sandbox_1_food_11",
         "name": "脱水增味肉干",
-        "value": 11978086
+        "value": 11979634
       },
       {
         "id": "sandbox_1_food_14",
         "name": "提取脂凝晶",
-        "value": 3557588
+        "value": 3557818
       },
       {
         "id": "sandbox_1_food_18",
         "name": "脆肉薯条转醇",
-        "value": 2579966
+        "value": 2580126
       },
       {
         "id": "sandbox_1_food_30",
         "name": "炎国山水原液",
-        "value": 1709645
+        "value": 1709840
       },
       {
         "id": "sandbox_1_food_15",
         "name": "浓缩羹原液",
-        "value": 1409323
+        "value": 1409439
       }
     ],
-    "building": 405532,
-    "animalCatch": 9446078,
+    "building": 405604,
+    "animalCatch": 9448508,
     "animalPut": [
       {
         "id": "sandbox_1_animal_3",
@@ -66,12 +66,12 @@
         "name": "茂密苔生兽"
       }
     ],
-    "wheat": 5273941788,
-    "thiefGold": 496650188,
-    "foodGain": 641877,
-    "failFoodGain": 4316685,
+    "wheat": 5275597556,
+    "thiefGold": 496775739,
+    "foodGain": 641950,
+    "failFoodGain": 4317316,
     "passRift": 1892,
-    "racerCatchAll": 27082788,
+    "racerCatchAll": 27088980,
     "racerCatch": [
       {
         "id": "sandbox_1_insect_9",
@@ -86,12 +86,12 @@
         "name": "变异岩蛛"
       }
     ],
-    "racerMedalGet": 3757356,
-    "racerTrophy": 135488,
-    "enterChallenge": 520858,
+    "racerMedalGet": 3758122,
+    "racerTrophy": 135524,
+    "enterChallenge": 521005,
     "maxDayChallenge": 21399,
-    "riftRareKill": "50.54",
-    "riftRareCatch": "49.46",
+    "riftRareKill": "50.55",
+    "riftRareCatch": "49.45",
     "autoTacticalUse": [
       {
         "id": "sandbox_1_tactical_36",
@@ -106,6 +106,6 @@
         "name": "行动套装"
       }
     ],
-    "catchToolUse": 262558
+    "catchToolUse": 262636
   }
 }
