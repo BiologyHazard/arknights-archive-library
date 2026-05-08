@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1778194803",
+  "timestamp": "1778219800",
   "data": {
     "list": [
       {
@@ -425,34 +425,6 @@
             }
           },
           {
-            "id": 26,
-            "gameId": 1,
-            "name": "Bingo有礼",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/05/01/aa4beffd984891db3bd2300ec5e5ce27.png",
-              "width": 120,
-              "height": 120,
-              "size": 2665,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fanniversary-7th%3Fheader%3D0",
-            "position": 5,
-            "status": 2,
-            "startAtTs": 1706780972,
-            "pcLink": "https://act.skland.com/arknights/anniversary-7th?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1777124926",
-                "endAtTs": "1779724799"
-              },
-              "dotType": 0
-            }
-          },
-          {
             "id": 71,
             "gameId": 1,
             "name": "争锋投票",
@@ -466,7 +438,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fduel-channel%3Fheader%3D0",
-            "position": 6,
+            "position": 5,
             "status": 2,
             "startAtTs": 1777124400,
             "pcLink": "https://act.skland.com/arknights/duel-channel?header=0",
@@ -476,6 +448,34 @@
               "timeRange": {
                 "startAtTs": "1777124460",
                 "endAtTs": "1778256000"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 26,
+            "gameId": 1,
+            "name": "Bingo有礼",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/05/01/aa4beffd984891db3bd2300ec5e5ce27.png",
+              "width": 120,
+              "height": 120,
+              "size": 2665,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fanniversary-7th%3Fheader%3D0",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 1706780972,
+            "pcLink": "https://act.skland.com/arknights/anniversary-7th?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1777124926",
+                "endAtTs": "1779724799"
               },
               "dotType": 0
             }
