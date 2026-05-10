@@ -121852,14 +121852,6 @@
         }
       },
       {
-        "itemId": "30032",
-        "dropType": "NORMAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 1
-        }
-      },
-      {
         "itemId": "furni",
         "dropType": "FURNITURE",
         "bounds": {
@@ -121886,6 +121878,14 @@
         "bounds": {
           "lower": 0,
           "upper": 0
+        }
+      },
+      {
+        "itemId": "30032",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
         }
       }
     ]
