@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1778453248",
+  "timestamp": "1778485184",
   "data": {
     "list": [
       {
@@ -397,34 +397,6 @@
             }
           },
           {
-            "id": 71,
-            "gameId": 1,
-            "name": "争锋投票",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/04/25/7fb6b0bcb9802160bcfe644229ae57e6.png",
-              "width": 120,
-              "height": 120,
-              "size": 24928,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fduel-channel%3Fheader%3D0",
-            "position": 5,
-            "status": 2,
-            "startAtTs": 1777124400,
-            "pcLink": "https://act.skland.com/arknights/duel-channel?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1777124460",
-                "endAtTs": "1778256000"
-              },
-              "dotType": 0
-            }
-          },
-          {
             "id": 26,
             "gameId": 1,
             "name": "Bingo有礼",
@@ -490,6 +462,34 @@
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 70,
+            "gameId": 1,
+            "name": "公招索引",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/04/09/7c70bfe544484237dde538f8eeadf6d1.png",
+              "width": 120,
+              "height": 120,
+              "size": 10296,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
+            "position": 13,
+            "status": 2,
+            "startAtTs": 1744183630,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
