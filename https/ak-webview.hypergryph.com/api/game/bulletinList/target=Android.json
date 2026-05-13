@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "5618",
+        "title": "中坚甄选\\n限时寻访开启",
+        "category": 1,
+        "displayTime": "2026-05-14",
+        "updatedAt": 1778221766,
+        "sticky": false
+      },
+      {
         "cid": "2956",
         "title": "常驻标准寻访\\n限时出率上升",
         "category": 1,
@@ -82,14 +90,6 @@
         "category": 1,
         "displayTime": "2026-05-01",
         "updatedAt": 1777519951,
-        "sticky": false
-      },
-      {
-        "cid": "3376",
-        "title": "中坚寻访\\n干员出率上升",
-        "category": 1,
-        "displayTime": "2026-04-30",
-        "updatedAt": 1777463238,
         "sticky": false
       },
       {
@@ -239,7 +239,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "5618"
     }
   }
 }
