@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1778713463",
+  "timestamp": "1778741146",
   "data": {
     "list": [
       {
@@ -1245,12 +1245,20 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0%26ctr_orientation%3Dlandscape",
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
             "position": 5,
             "status": 2,
             "startAtTs": 1769050800,
-            "pcLink": "https://game.skland.com/map/endfield?header=0&ctr_orientation=landscape",
-            "pcStatus": 2
+            "pcLink": "https://game.skland.com/map/endfield?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 92,
@@ -1265,12 +1273,20 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield",
+            "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
             "position": 6,
             "status": 2,
             "startAtTs": 1768966200,
-            "pcLink": "https://wiki.skland.com/endfield",
-            "pcStatus": 2
+            "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           },
           {
             "id": 90,
