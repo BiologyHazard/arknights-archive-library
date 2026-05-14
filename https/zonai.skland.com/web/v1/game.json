@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1778741148",
+  "timestamp": "1778759538",
   "data": {
     "list": [
       {
@@ -425,6 +425,26 @@
             }
           },
           {
+            "id": 15,
+            "gameId": 1,
+            "name": "WIKI",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/07/13/a47332bc07c087e04228ecbd984ac729.png",
+              "width": 120,
+              "height": 120,
+              "size": 3474,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1687858966,
+            "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
+            "pcStatus": 2
+          },
+          {
             "id": 53,
             "gameId": 1,
             "name": "助战检索",
@@ -438,7 +458,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 1725265437,
             "pcLink": "https://www.skland.com/download?type=akSupport",
@@ -458,7 +478,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 1740710860,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -486,37 +506,9 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 13,
-            "status": 2,
-            "startAtTs": 1744183630,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 69,
-            "gameId": 1,
-            "name": "养成计算器",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/04/09/d681134961510b4257d5b46a969d5ea1.png",
-              "width": 120,
-              "height": 120,
-              "size": 6779,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
             "position": 14,
             "status": 2,
-            "startAtTs": 1744170644,
+            "startAtTs": 1744183630,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
@@ -1252,10 +1244,10 @@
             "pcLink": "https://game.skland.com/map/endfield?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1778749200",
+                "endAtTs": "1778922000"
               },
               "dotType": 0
             }
@@ -1280,10 +1272,10 @@
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1778749200",
+                "endAtTs": "1778922000"
               },
               "dotType": 0
             }
