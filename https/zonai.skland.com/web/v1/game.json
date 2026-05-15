@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1778799354",
+  "timestamp": "1778828128",
   "data": {
     "list": [
       {
@@ -397,29 +397,29 @@
             }
           },
           {
-            "id": 26,
+            "id": 84,
             "gameId": 1,
-            "name": "Bingo有礼",
+            "name": "历程报告",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/05/01/aa4beffd984891db3bd2300ec5e5ce27.png",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
               "width": 120,
               "height": 120,
               "size": 2665,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fanniversary-7th%3Fheader%3D0",
-            "position": 6,
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act4mainss",
+            "position": 7,
             "status": 2,
-            "startAtTs": 1706780972,
-            "pcLink": "https://act.skland.com/arknights/anniversary-7th?header=0",
+            "startAtTs": 1769140687,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act4mainss",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1777124926",
-                "endAtTs": "1779724799"
+                "startAtTs": "1778827892",
+                "endAtTs": "1780934399"
               },
               "dotType": 0
             }
@@ -438,7 +438,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 1687858966,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -539,6 +539,34 @@
             "startAtTs": 1690790209,
             "pcLink": "https://strategy.skland.com/home",
             "pcStatus": 2
+          },
+          {
+            "id": 10,
+            "gameId": 1,
+            "name": "朝陇山",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/05/f84c43c14e170f528d66cb5cb0f388c0.png",
+              "width": 120,
+              "height": 120,
+              "size": 3994,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fmingrifangzhou.tmall.com%2Findex.htm%3Fspm%3Da1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
+            "position": 19,
+            "status": 2,
+            "startAtTs": 1687854359,
+            "pcLink": "https://mingrifangzhou.tmall.com/shop/view_shop.htm?appUid=RAzN8HWLT41iTXpr3zD21K691Ki2eywG7NCzJeEt6avxSPfrgvs&spm=a21n57.1.hoverItem.3",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
           }
         ],
         "tag": {
