@@ -5766,6 +5766,134 @@
     ],
     "ACT_REP": [
       {
+        "zoneName": "新活动关卡",
+        "zoneId": "act42sre_zone1",
+        "stageType": "ACT_REP",
+        "endTime": "2026-05-31T20:00:00.000+00:00",
+        "stageList": [
+          {
+            "stageId": "act42side_01_rep",
+            "stageCode": "MT-1",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 3.62,
+            "minClearTime": 149000
+          },
+          {
+            "stageId": "act42side_02_rep",
+            "stageCode": "MT-2",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 5.57,
+            "minClearTime": 97000
+          },
+          {
+            "stageId": "act42side_03_rep",
+            "stageCode": "MT-3",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 9,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 3.58,
+            "minClearTime": 151000
+          },
+          {
+            "stageId": "act42side_04_rep",
+            "stageCode": "MT-4",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 5.62,
+            "minClearTime": 128000
+          },
+          {
+            "stageId": "act42side_05_rep",
+            "stageCode": "MT-5",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 12,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 3.71,
+            "minClearTime": 194000
+          },
+          {
+            "stageId": "act42side_06_rep",
+            "stageCode": "MT-6",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 15,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 4.69,
+            "minClearTime": 192000
+          },
+          {
+            "stageId": "act42side_07_rep",
+            "stageCode": "MT-7",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 15,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 7.63,
+            "minClearTime": 118000
+          },
+          {
+            "stageId": "act42side_08_rep",
+            "stageCode": "MT-8",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 5.92,
+            "minClearTime": 213000
+          },
+          {
+            "stageId": "act42side_09_rep",
+            "stageCode": "MT-9",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 36.0,
+            "minClearTime": 35000
+          },
+          {
+            "stageId": "act42side_10_rep",
+            "stageCode": "MT-10",
+            "zoneId": "act42sre_zone1",
+            "zoneName": "新活动关卡",
+            "apCost": 21,
+            "stageType": "ACT_REP",
+            "startTime": "2026-05-22 16:00:00",
+            "endTime": "2026-06-01 04:00:00",
+            "spm": 7.08,
+            "minClearTime": 178000
+          }
+        ]
+      },
+      {
         "zoneName": "挽歌燃烧殆尽·复刻",
         "zoneId": "act41sre_zone1",
         "stageType": "ACT_REP",
