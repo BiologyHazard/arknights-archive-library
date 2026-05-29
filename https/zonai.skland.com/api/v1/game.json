@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1780010147",
+  "timestamp": "1780041312",
   "data": {
     "list": [
       {
@@ -325,17 +325,17 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://rn?moduleName=ArknightsGameSignIn",
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsign-in%3Fheader%3D0",
             "position": 1,
             "status": 2,
             "startAtTs": 1693497600,
-            "pcLink": "https://www.skland.com/download?type=checkIn",
+            "pcLink": "https://game.skland.com/arknights/sign-in?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1778817600",
-                "endAtTs": "1779638399"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
