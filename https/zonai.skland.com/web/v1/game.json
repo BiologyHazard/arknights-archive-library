@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1780268335",
+  "timestamp": "1780305922",
   "data": {
     "list": [
       {
@@ -369,6 +369,34 @@
             }
           },
           {
+            "id": 100,
+            "gameId": 1,
+            "name": "活动战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/05/01/937c2dbb6256a808f6b185cbd496bf60.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F2d0569488492-thunder-in-the-azure-dream-record%3Fheader%3D0",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 1780286401,
+            "pcLink": "https://www.skland.com/act/ak/2d0569488492-thunder-in-the-azure-dream-record?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1780293600",
+                "endAtTs": "1780502399"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 67,
             "gameId": 1,
             "name": "更新福利",
@@ -392,34 +420,6 @@
               "timeRange": {
                 "startAtTs": "1780265982",
                 "endAtTs": "1780847999"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 84,
-            "gameId": 1,
-            "name": "历程报告",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
-              "width": 120,
-              "height": 120,
-              "size": 2665,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act4mainss",
-            "position": 7,
-            "status": 2,
-            "startAtTs": 1769140687,
-            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act4mainss",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1778827892",
-                "endAtTs": "1780934399"
               },
               "dotType": 0
             }
