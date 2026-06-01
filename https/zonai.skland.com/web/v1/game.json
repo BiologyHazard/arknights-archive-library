@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1780305922",
+  "timestamp": "1780329685",
   "data": {
     "list": [
       {
@@ -425,6 +425,34 @@
             }
           },
           {
+            "id": 84,
+            "gameId": 1,
+            "name": "历程报告",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "width": 120,
+              "height": 120,
+              "size": 2665,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act4mainss",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 1769140687,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act4mainss",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1778827892",
+                "endAtTs": "1780934399"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 15,
             "gameId": 1,
             "name": "WIKI",
@@ -442,26 +470,6 @@
             "status": 2,
             "startAtTs": 1687858966,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
-            "pcStatus": 2
-          },
-          {
-            "id": 53,
-            "gameId": 1,
-            "name": "助战检索",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/09/02/e00752bd63751f1da71387f0e9e5b413.png",
-              "width": 120,
-              "height": 120,
-              "size": 3409,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fsupport%3Fheader%3D0",
-            "position": 11,
-            "status": 2,
-            "startAtTs": 1725265437,
-            "pcLink": "https://www.skland.com/download?type=akSupport",
             "pcStatus": 2
           },
           {
