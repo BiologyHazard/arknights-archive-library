@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1780389429",
+  "timestamp": "1780408861",
   "data": {
     "list": [
       {
@@ -328,7 +328,7 @@
             "link": "skland://rn?moduleName=ArknightsGameSignIn",
             "position": 1,
             "status": 2,
-            "startAtTs": 1693497600,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/sign-in?header=0",
             "pcStatus": 2,
             "redDot": {
@@ -341,7 +341,7 @@
             }
           },
           {
-            "id": 51,
+            "id": 31,
             "gameId": 1,
             "name": "工具箱",
             "icon": {
@@ -356,11 +356,11 @@
             "link": "skland://rn?moduleName=Toolbox&gameId=1",
             "position": 2,
             "status": 2,
-            "startAtTs": 1709539674,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1751975399",
                 "endAtTs": "1752422399"
@@ -369,7 +369,7 @@
             }
           },
           {
-            "id": 100,
+            "id": 79,
             "gameId": 1,
             "name": "活动战绩",
             "icon": {
@@ -384,7 +384,7 @@
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F2d0569488492-thunder-in-the-azure-dream-record%3Fheader%3D0",
             "position": 3,
             "status": 2,
-            "startAtTs": 1780286401,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/act/ak/2d0569488492-thunder-in-the-azure-dream-record?header=0",
             "pcStatus": 2,
             "redDot": {
@@ -397,7 +397,7 @@
             }
           },
           {
-            "id": 67,
+            "id": 47,
             "gameId": 1,
             "name": "更新福利",
             "icon": {
@@ -412,7 +412,7 @@
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_184148",
             "position": 4,
             "status": 2,
-            "startAtTs": 1773094776,
+            "startAtTs": 0,
             "pcLink": "skland://detail?id=2699001&viewKind=3",
             "pcStatus": 1,
             "redDot": {
@@ -425,7 +425,7 @@
             }
           },
           {
-            "id": 84,
+            "id": 64,
             "gameId": 1,
             "name": "历程报告",
             "icon": {
@@ -440,7 +440,7 @@
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act4mainss",
             "position": 7,
             "status": 2,
-            "startAtTs": 1769140687,
+            "startAtTs": 0,
             "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act4mainss",
             "pcStatus": 2,
             "redDot": {
@@ -468,12 +468,16 @@
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
             "position": 8,
             "status": 2,
-            "startAtTs": 1687858966,
+            "startAtTs": 0,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
-            "id": 66,
+            "id": 46,
             "gameId": 1,
             "name": "干员图鉴",
             "icon": {
@@ -488,7 +492,7 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
             "position": 12,
             "status": 2,
-            "startAtTs": 1740710860,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
             "pcStatus": 2,
             "redDot": {
@@ -501,7 +505,7 @@
             }
           },
           {
-            "id": 70,
+            "id": 50,
             "gameId": 1,
             "name": "公招索引",
             "icon": {
@@ -516,7 +520,7 @@
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
             "position": 14,
             "status": 2,
-            "startAtTs": 1744183630,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
@@ -544,9 +548,13 @@
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
             "position": 17,
             "status": 2,
-            "startAtTs": 1690790209,
+            "startAtTs": 0,
             "pcLink": "https://strategy.skland.com/home",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
             "id": 10,
@@ -564,7 +572,7 @@
             "link": "skland://web?url=https%3A%2F%2Fmingrifangzhou.tmall.com%2Findex.htm%3Fspm%3Da1z10.1-b-s.w5002-22044789647.2.4b3566ad7wPujL",
             "position": 19,
             "status": 2,
-            "startAtTs": 1687854359,
+            "startAtTs": 0,
             "pcLink": "https://mingrifangzhou.tmall.com/shop/view_shop.htm?appUid=RAzN8HWLT41iTXpr3zD21K691Ki2eywG7NCzJeEt6avxSPfrgvs&spm=a21n57.1.hoverItem.3",
             "pcStatus": 2,
             "redDot": {
@@ -811,12 +819,16 @@
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fexa-buy%3Fheader%3D0",
             "position": 1,
             "status": 2,
-            "startAtTs": 1708963200,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/act/exa-buy?header=0",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
-            "id": 50,
+            "id": 30,
             "gameId": 2,
             "name": "成就系统",
             "icon": {
@@ -831,9 +843,13 @@
             "link": "skland://rn?moduleName=ExaGameData",
             "position": 2,
             "status": 2,
-            "startAtTs": 1708963200,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=exa",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
             "id": 25,
@@ -851,9 +867,13 @@
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fexa%2Fhome%3Fheader%3D0",
             "position": 3,
             "status": 2,
-            "startAtTs": 1709178072,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/game/exastris?cateId=23",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
             "id": 27,
@@ -871,9 +891,13 @@
             "link": "skland://web?url=https%3A%2F%2Fexa.hypergryph.com%2Factivity%2Freiseprotokoll%3Fheader%3D0%26source_from%3Dskland",
             "position": 4,
             "status": 2,
-            "startAtTs": 1708056000,
+            "startAtTs": 0,
             "pcLink": "https://exa.hypergryph.com/activity/reiseprotokoll?header=0&source_from=skland",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
             "id": 24,
@@ -891,9 +915,13 @@
             "link": "skland://web?url=https%3A%2F%2Fexa.hypergryph.com%2F",
             "position": 5,
             "status": 2,
-            "startAtTs": 1706239329,
+            "startAtTs": 0,
             "pcLink": "https://exa.hypergryph.com/",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           }
         ],
         "tag": {
@@ -1185,7 +1213,7 @@
         ],
         "quickaccesses": [
           {
-            "id": 93,
+            "id": 73,
             "gameId": 3,
             "name": "每日签到",
             "icon": {
@@ -1200,11 +1228,11 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fsign-in%3Fheader%3D0",
             "position": 1,
             "status": 2,
-            "startAtTs": 1769050800,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/endfield/sign-in?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1775029440",
                 "endAtTs": "1775491200"
@@ -1213,7 +1241,7 @@
             }
           },
           {
-            "id": 94,
+            "id": 74,
             "gameId": 3,
             "name": "协议终端",
             "icon": {
@@ -1228,11 +1256,11 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%3Fheader%3D0",
             "position": 2,
             "status": 2,
-            "startAtTs": 1769050800,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1779350880",
                 "endAtTs": "1779379199"
@@ -1241,7 +1269,7 @@
             }
           },
           {
-            "id": 95,
+            "id": 75,
             "gameId": 3,
             "name": "配队工具",
             "icon": {
@@ -1256,12 +1284,16 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
             "position": 4,
             "status": 2,
-            "startAtTs": 1769050800,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
-            "id": 96,
+            "id": 76,
             "gameId": 3,
             "name": "地图工具",
             "icon": {
@@ -1276,11 +1308,11 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
             "position": 5,
             "status": 2,
-            "startAtTs": 1769050800,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/map/endfield?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1778749200",
                 "endAtTs": "1778922000"
@@ -1289,7 +1321,7 @@
             }
           },
           {
-            "id": 92,
+            "id": 72,
             "gameId": 3,
             "name": "WIKI",
             "icon": {
@@ -1304,11 +1336,11 @@
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
             "position": 6,
             "status": 2,
-            "startAtTs": 1768966200,
+            "startAtTs": 0,
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1778749200",
                 "endAtTs": "1778922000"
@@ -1317,7 +1349,7 @@
             }
           },
           {
-            "id": 90,
+            "id": 70,
             "gameId": 3,
             "name": "养成建议",
             "icon": {
@@ -1332,7 +1364,7 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
             "position": 7,
             "status": 2,
-            "startAtTs": 1769050800,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
             "pcStatus": 2,
             "redDot": {
@@ -1345,7 +1377,7 @@
             }
           },
           {
-            "id": 98,
+            "id": 77,
             "gameId": 3,
             "name": "山团团",
             "icon": {
@@ -1360,7 +1392,7 @@
             "link": "skland://web?url=https%3A%2F%2Fshop.m.taobao.com%2Fshop%2Fshop_index.htm%3FsellerId%3D2221386384051%26shopId%3D414690138%26inShopPageId%3D461324255%26pathInfo%3Dshop%2Findex2",
             "position": 8,
             "status": 2,
-            "startAtTs": 1769606919,
+            "startAtTs": 0,
             "pcLink": "https://arknightsendfieldyx.tmall.com/shop/view_shop.htm?appUid=RAzN8HWTh9uNf9CUfmZgjthZPGWizPjBg6JNBgLoujPr8AsjU8n&spm=a21n57.1.hoverItem.3",
             "pcStatus": 2,
             "redDot": {
@@ -1388,7 +1420,7 @@
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
             "position": 11,
             "status": 2,
-            "startAtTs": 1698648105,
+            "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
             "pcStatus": 2,
             "redDot": {
@@ -1401,7 +1433,7 @@
             }
           },
           {
-            "id": 99,
+            "id": 78,
             "gameId": 3,
             "name": "塔卫二记事社",
             "icon": {
@@ -1416,7 +1448,7 @@
             "link": "skland://user?id=133",
             "position": 16,
             "status": 2,
-            "startAtTs": 1776655924,
+            "startAtTs": 0,
             "pcLink": "https://comic.hypergryph.com/talos-ii-historicus/",
             "pcStatus": 2,
             "redDot": {
@@ -1683,7 +1715,7 @@
         ],
         "quickaccesses": [
           {
-            "id": 74,
+            "id": 54,
             "gameId": 4,
             "name": "组队工具",
             "icon": {
@@ -1698,11 +1730,11 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fteam-building-tools%3Fheader%3D0",
             "position": 1,
             "status": 2,
-            "startAtTs": 1748833200,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/popucom/team-building-tools",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1748840149",
                 "endAtTs": "1751299200"
@@ -1711,7 +1743,7 @@
             }
           },
           {
-            "id": 75,
+            "id": 55,
             "gameId": 4,
             "name": "成就工具",
             "icon": {
@@ -1726,11 +1758,11 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fachieve%3Fheader%3D0",
             "position": 2,
             "status": 2,
-            "startAtTs": 1748833200,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/popucom/achieve",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1748931420",
                 "endAtTs": "1751299200"
@@ -1739,7 +1771,7 @@
             }
           },
           {
-            "id": 76,
+            "id": 56,
             "gameId": 4,
             "name": "购买游戏",
             "icon": {
@@ -1754,7 +1786,7 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpurchase%3Fheader%3D0",
             "position": 3,
             "status": 2,
-            "startAtTs": 1748833200,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/popucom/purchase",
             "pcStatus": 2,
             "redDot": {
@@ -1767,7 +1799,7 @@
             }
           },
           {
-            "id": 77,
+            "id": 57,
             "gameId": 4,
             "name": "攻略站",
             "icon": {
@@ -1782,7 +1814,7 @@
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fpopucom%2Fhome%3Fheader%3D0",
             "position": 4,
             "status": 2,
-            "startAtTs": 1748833200,
+            "startAtTs": 0,
             "pcLink": "https://strategy.skland.com/popucom/home",
             "pcStatus": 2,
             "redDot": {
@@ -1795,7 +1827,7 @@
             }
           },
           {
-            "id": 72,
+            "id": 52,
             "gameId": 4,
             "name": "FAQ",
             "icon": {
@@ -1810,7 +1842,7 @@
             "link": "skland://detail?id=2938736&viewKind=3",
             "position": 5,
             "status": 2,
-            "startAtTs": 1747975519,
+            "startAtTs": 0,
             "pcLink": "skland://detail?id=2938736&viewKind=3",
             "pcStatus": 2,
             "redDot": {
@@ -1823,7 +1855,7 @@
             }
           },
           {
-            "id": 55,
+            "id": 35,
             "gameId": 4,
             "name": "游戏官网",
             "icon": {
@@ -1838,12 +1870,16 @@
             "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2F",
             "position": 6,
             "status": 2,
-            "startAtTs": 1725521053,
+            "startAtTs": 0,
             "pcLink": "https://popucom.hypergryph.com/",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
-            "id": 56,
+            "id": 36,
             "gameId": 4,
             "name": "飞喵队长",
             "icon": {
@@ -1858,11 +1894,11 @@
             "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2Factivity%2Fcapt-kitty%3Fsource_from%3Dskland",
             "position": 7,
             "status": 2,
-            "startAtTs": 1747972840,
+            "startAtTs": 0,
             "pcLink": "https://popucom.hypergryph.com/activity/capt-kitty?source_from=skland",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1747972916",
                 "endAtTs": "1748620799"
@@ -1871,7 +1907,7 @@
             }
           },
           {
-            "id": 78,
+            "id": 58,
             "gameId": 4,
             "name": "泡噗高手",
             "icon": {
@@ -1886,9 +1922,13 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpopuu",
             "position": 8,
             "status": 2,
-            "startAtTs": 1748833200,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/popucom/popuu",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           }
         ],
         "tag": {
@@ -2075,7 +2115,7 @@
         ],
         "quickaccesses": [
           {
-            "id": 64,
+            "id": 44,
             "gameId": 101,
             "name": "比赛组队",
             "icon": {
@@ -2090,7 +2130,7 @@
             "link": "skland://tag?id=804",
             "position": 1,
             "status": 2,
-            "startAtTs": 1736352000,
+            "startAtTs": 0,
             "pcLink": "skland://detail?id=5589184&viewKind=3",
             "pcStatus": 2,
             "redDot": {
@@ -2103,7 +2143,7 @@
             }
           },
           {
-            "id": 57,
+            "id": 37,
             "gameId": 101,
             "name": "每日游报",
             "icon": {
@@ -2118,7 +2158,7 @@
             "link": "skland://detail?id=5857813&viewKind=3",
             "position": 2,
             "status": 2,
-            "startAtTs": 1726219370,
+            "startAtTs": 0,
             "pcLink": "skland://detail?id=5857813&viewKind=3",
             "pcStatus": 2,
             "redDot": {
@@ -2131,7 +2171,7 @@
             }
           },
           {
-            "id": 85,
+            "id": 65,
             "gameId": 101,
             "name": "新游速递",
             "icon": {
@@ -2146,7 +2186,7 @@
             "link": "skland://detail?id=5879732&viewKind=3",
             "position": 3,
             "status": 2,
-            "startAtTs": 1760179806,
+            "startAtTs": 0,
             "pcLink": "skland://detail?id=5879732&viewKind=3",
             "pcStatus": 2,
             "redDot": {
@@ -2159,7 +2199,7 @@
             }
           },
           {
-            "id": 60,
+            "id": 40,
             "gameId": 101,
             "name": "蒸友扩列",
             "icon": {
@@ -2174,7 +2214,7 @@
             "link": "skland://tag?id=877",
             "position": 5,
             "status": 2,
-            "startAtTs": 1727419360,
+            "startAtTs": 0,
             "pcLink": "https://www.skland.com/download",
             "pcStatus": 2,
             "redDot": {
@@ -2187,7 +2227,7 @@
             }
           },
           {
-            "id": 59,
+            "id": 39,
             "gameId": 101,
             "name": "账号绑定",
             "icon": {
@@ -2202,9 +2242,13 @@
             "link": "skland://detail?id=2127350&viewKind=3",
             "position": 6,
             "status": 2,
-            "startAtTs": 1726219988,
+            "startAtTs": 0,
             "pcLink": "skland://detail?id=2127350&viewKind=3",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           }
         ],
         "tag": {
@@ -2356,7 +2400,7 @@
         ],
         "quickaccesses": [
           {
-            "id": 80,
+            "id": 60,
             "gameId": 100,
             "name": "每周必看",
             "icon": {
@@ -2371,7 +2415,7 @@
             "link": "skland://weeklyMustWatch?id=60",
             "position": 1,
             "status": 2,
-            "startAtTs": 1755244980,
+            "startAtTs": 0,
             "pcLink": "",
             "pcStatus": 1,
             "redDot": {
@@ -2384,7 +2428,7 @@
             }
           },
           {
-            "id": 81,
+            "id": 61,
             "gameId": 100,
             "name": "活动情报站",
             "icon": {
@@ -2399,12 +2443,16 @@
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fbbs%2Foffline-activities-collection%3Fheader%3D0",
             "position": 2,
             "status": 2,
-            "startAtTs": 1755244970,
+            "startAtTs": 0,
             "pcLink": "",
-            "pcStatus": 1
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
-            "id": 83,
+            "id": 63,
             "gameId": 100,
             "name": "创作任务",
             "icon": {
@@ -2419,12 +2467,16 @@
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fcreator%2Fmission-center%3Fheader%3D0",
             "position": 4,
             "status": 2,
-            "startAtTs": 1755251825,
+            "startAtTs": 0,
             "pcLink": "https://game.skland.com/creator/mission-center?header=0",
-            "pcStatus": 2
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0
+            }
           },
           {
-            "id": 82,
+            "id": 62,
             "gameId": 100,
             "name": "社区公告",
             "icon": {
@@ -2439,7 +2491,7 @@
             "link": "skland://volume?id=1956266587816337408",
             "position": 5,
             "status": 2,
-            "startAtTs": 1755244800,
+            "startAtTs": 0,
             "pcLink": "",
             "pcStatus": 1,
             "redDot": {
