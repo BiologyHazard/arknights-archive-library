@@ -4050,7 +4050,7 @@
     },
     {
       "stageId": "main_14-07",
-      "times": 568
+      "times": 569
     },
     {
       "stageId": "act18d0_03",
@@ -4472,7 +4472,11 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 64
+      "times": 58
+    },
+    {
+      "stageId": "main_14-07",
+      "times": 1
     },
     {
       "stageId": "pro_a_2",
@@ -4488,7 +4492,7 @@
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 2
+      "times": 1
     }
   ],
   "totalItemQuantities": [
@@ -4654,7 +4658,7 @@
     },
     {
       "itemId": "31013",
-      "quantity": 38316
+      "quantity": 38317
     },
     {
       "itemId": "31014",
@@ -4789,5 +4793,5 @@
       "quantity": 343
     }
   ],
-  "totalApCost": 49727523
+  "totalApCost": 49727544
 }
