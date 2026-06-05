@@ -7273,5 +7273,46 @@
       "act42side_09_rep",
       "act42side_10_rep"
     ]
+  },
+  {
+    "zoneId": "act50side_zone1",
+    "zoneIndex": 1111,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "泡影苍霆",
+    "zoneName_i18n": {
+      "en": "泡影苍霆",
+      "ja": "泡影苍霆",
+      "ko": "泡影苍霆",
+      "zh": "泡影苍霆"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1780286400000,
+        "closeTime": 1781467200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act50side_01",
+      "act50side_02",
+      "act50side_03",
+      "act50side_04",
+      "act50side_05",
+      "act50side_06",
+      "act50side_07",
+      "act50side_08",
+      "act50side_gacha"
+    ]
   }
 ]

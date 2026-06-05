@@ -6711,5 +6711,244 @@
     "groupID": "elec",
     "alias": {},
     "pron": {}
+  },
+  {
+    "itemId": "act50side_melding_1",
+    "name": "破碎的骨片",
+    "name_i18n": {
+      "en": "破碎的骨片",
+      "ja": "破碎的骨片",
+      "ko": "破碎的骨片",
+      "zh": "破碎的骨片"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "ACTIVITY_ITEM",
+    "sortId": -10016,
+    "rarity": 0,
+    "groupID": "melding_2",
+    "alias": {
+      "zh": [
+        "破碎的骨片"
+      ]
+    },
+    "pron": {
+      "zh": [
+        "po`sui`de`gu`pian"
+      ]
+    }
+  },
+  {
+    "itemId": "act50side_melding_2",
+    "name": "烈竹",
+    "name_i18n": {
+      "en": "烈竹",
+      "ja": "烈竹",
+      "ko": "烈竹",
+      "zh": "烈竹"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "ACTIVITY_ITEM",
+    "sortId": -10017,
+    "rarity": 1,
+    "groupID": "melding_2",
+    "alias": {
+      "zh": [
+        "烈竹"
+      ]
+    },
+    "pron": {
+      "zh": [
+        "lie`zhu"
+      ]
+    }
+  },
+  {
+    "itemId": "act50side_melding_3",
+    "name": "萤虫",
+    "name_i18n": {
+      "en": "萤虫",
+      "ja": "萤虫",
+      "ko": "萤虫",
+      "zh": "萤虫"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "ACTIVITY_ITEM",
+    "sortId": -10018,
+    "rarity": 2,
+    "groupID": "melding_2",
+    "alias": {
+      "zh": [
+        "萤虫"
+      ]
+    },
+    "pron": {
+      "zh": [
+        "ying`chong"
+      ]
+    }
+  },
+  {
+    "itemId": "act50side_melding_4",
+    "name": "火竹炭",
+    "name_i18n": {
+      "en": "火竹炭",
+      "ja": "火竹炭",
+      "ko": "火竹炭",
+      "zh": "火竹炭"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "ACTIVITY_ITEM",
+    "sortId": -10019,
+    "rarity": 3,
+    "groupID": "melding_2",
+    "alias": {
+      "zh": [
+        "火竹炭"
+      ]
+    },
+    "pron": {
+      "zh": [
+        "huo`zhu`tan"
+      ]
+    }
+  },
+  {
+    "itemId": "act50side_melding_5",
+    "name": "熔火冰晶",
+    "name_i18n": {
+      "en": "熔火冰晶",
+      "ja": "熔火冰晶",
+      "ko": "熔火冰晶",
+      "zh": "熔火冰晶"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "ACTIVITY_ITEM",
+    "sortId": -10020,
+    "rarity": 4,
+    "groupID": "melding_2",
+    "alias": {
+      "zh": [
+        "熔火冰晶"
+      ]
+    },
+    "pron": {
+      "zh": [
+        "rong`huo`bing`jing"
+      ]
+    }
+  },
+  {
+    "itemId": "4001_10000",
+    "name": "龙门币10000",
+    "name_i18n": {
+      "en": "LMD10000",
+      "ja": "龍門幣10000",
+      "ko": "용문폐10000",
+      "zh": "龙门币10000"
+    },
+    "existence": {
+      "CN": {
+        "exist": true
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "itemType": "TEMP",
+    "sortId": -10000,
+    "rarity": 3,
+    "groupID": null,
+    "alias": {
+      "ja": [
+        "龍門幣10000",
+        "りゅうもんへい10000",
+        "リュウモンヘイ10000"
+      ],
+      "zh": [
+        "龙门币10000",
+        "钱"
+      ]
+    },
+    "pron": {
+      "ja": [
+        "ryuu`mon`hei`10000",
+        "ryuu`mon`hei`10000"
+      ],
+      "zh": [
+        "long`men`bi`10000",
+        "qian"
+      ]
+    }
   }
 ]
