@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1781252700",
+  "timestamp": "1781268757",
   "data": {
     "list": [
       {
@@ -1213,30 +1213,26 @@
             }
           },
           {
-            "id": 71,
+            "id": 84,
             "gameId": 3,
-            "name": "更新福利",
+            "name": "限时任务",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
+              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
               "width": 120,
               "height": 120,
-              "size": 53800,
-              "format": "gif",
+              "size": 1354,
+              "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_endfield_489893",
-            "position": 3,
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsketches-of-lost-heirlooms-part1%3Fheader%3D0%26activityId%3Dact_endfield_415158",
+            "position": 4,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "",
-            "pcStatus": 1,
+            "pcLink": "https://act.skland.com/endfield/sketches-of-lost-heirlooms-part1?header=0&activityId=act_endfield_415158",
+            "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "1780611772",
-                "endAtTs": "1781193599"
-              },
               "dotType": 0
             }
           },
@@ -1254,7 +1250,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
-            "position": 4,
+            "position": 5,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
@@ -1278,7 +1274,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/map/endfield?header=0",
@@ -1306,7 +1302,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
@@ -1334,7 +1330,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
@@ -1362,7 +1358,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fshop.m.taobao.com%2Fshop%2Fshop_index.htm%3FsellerId%3D2221386384051%26shopId%3D414690138%26inShopPageId%3D461324255%26pathInfo%3Dshop%2Findex2",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://arknightsendfieldyx.tmall.com/shop/view_shop.htm?appUid=RAzN8HWTh9uNf9CUfmZgjthZPGWizPjBg6JNBgLoujPr8AsjU8n&spm=a21n57.1.hoverItem.3",
@@ -1390,7 +1386,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
@@ -1418,7 +1414,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://user?id=133",
-            "position": 16,
+            "position": 17,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://comic.hypergryph.com/talos-ii-historicus/",
