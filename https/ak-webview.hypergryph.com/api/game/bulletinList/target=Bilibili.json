@@ -5,6 +5,22 @@
   "data": {
     "list": [
       {
+        "cid": "6785",
+        "title": "0011/韵\\n新装限时上架",
+        "category": 1,
+        "displayTime": "2026-06-17",
+        "updatedAt": 1781260032,
+        "sticky": false
+      },
+      {
+        "cid": "5607",
+        "title": "0011/韵\\n限时复刻上架",
+        "category": 1,
+        "displayTime": "2026-06-17",
+        "updatedAt": 1781259987,
+        "sticky": false
+      },
+      {
         "cid": "0413",
         "title": "端午节未成年人\\n游戏限时通知",
         "category": 2,
@@ -167,7 +183,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "6785"
     }
   }
 }
