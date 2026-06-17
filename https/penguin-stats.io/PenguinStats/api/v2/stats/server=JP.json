@@ -598,7 +598,7 @@
     },
     {
       "stageId": "wk_kc_4",
-      "times": 6788
+      "times": 6795
     },
     {
       "stageId": "tough_13-11",
@@ -730,7 +730,7 @@
     },
     {
       "stageId": "tough_13-12",
-      "times": 116
+      "times": 119
     },
     {
       "stageId": "tough_12-09",
@@ -986,7 +986,7 @@
     },
     {
       "stageId": "pro_d_2",
-      "times": 20838
+      "times": 20840
     },
     {
       "stageId": "main_12-10",
@@ -1426,7 +1426,7 @@
     },
     {
       "stageId": "pro_c_2",
-      "times": 11022
+      "times": 11023
     },
     {
       "stageId": "act16d5_06_rep",
@@ -1830,7 +1830,7 @@
     },
     {
       "stageId": "wk_armor_3",
-      "times": 2639
+      "times": 2640
     },
     {
       "stageId": "main_08-04",
@@ -3070,7 +3070,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1272967
+      "times": 1272991
     },
     {
       "stageId": "act21side_10",
@@ -3874,7 +3874,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 57120
+      "times": 57121
     },
     {
       "stageId": "act10d5_06",
@@ -4136,7 +4136,7 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 104
+      "times": 102
     },
     {
       "stageId": "main_07-06",
@@ -4148,22 +4148,6 @@
     },
     {
       "stageId": "main_08-13",
-      "times": 3
-    },
-    {
-      "stageId": "main_09-11",
-      "times": 1
-    },
-    {
-      "stageId": "main_13-12",
-      "times": 1
-    },
-    {
-      "stageId": "main_15-08",
-      "times": 1
-    },
-    {
-      "stageId": "pro_b_2",
       "times": 1
     },
     {
@@ -4172,19 +4156,23 @@
     },
     {
       "stageId": "pro_c_2",
-      "times": 8
+      "times": 9
     },
     {
       "stageId": "pro_d_1",
-      "times": 4
+      "times": 2
     },
     {
       "stageId": "pro_d_2",
-      "times": 5
+      "times": 4
     },
     {
       "stageId": "tough_13-12",
-      "times": 10
+      "times": 13
+    },
+    {
+      "stageId": "wk_armor_3",
+      "times": 1
     },
     {
       "stageId": "wk_armor_5",
@@ -4192,33 +4180,25 @@
     },
     {
       "stageId": "wk_kc_4",
-      "times": 7
-    },
-    {
-      "stageId": "wk_kc_5",
-      "times": 1
+      "times": 8
     },
     {
       "stageId": "wk_kc_6",
       "times": 12
-    },
-    {
-      "stageId": "wk_melee_6",
-      "times": 22
     }
   ],
   "totalItemQuantities": [
     {
       "itemId": "3003",
-      "quantity": 125920
+      "quantity": 125924
     },
     {
       "itemId": "30011",
-      "quantity": 200350
+      "quantity": 200353
     },
     {
       "itemId": "30012",
-      "quantity": 1672907
+      "quantity": 1672941
     },
     {
       "itemId": "30013",
@@ -4246,7 +4226,7 @@
     },
     {
       "itemId": "30031",
-      "quantity": 116032
+      "quantity": 116035
     },
     {
       "itemId": "30032",
@@ -4262,7 +4242,7 @@
     },
     {
       "itemId": "30021",
-      "quantity": 105011
+      "quantity": 105013
     },
     {
       "itemId": "30022",
@@ -4278,11 +4258,11 @@
     },
     {
       "itemId": "30041",
-      "quantity": 83949
+      "quantity": 83950
     },
     {
       "itemId": "30042",
-      "quantity": 29892
+      "quantity": 29894
     },
     {
       "itemId": "30043",
@@ -4294,7 +4274,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 91217
+      "quantity": 91218
     },
     {
       "itemId": "30052",
@@ -4346,11 +4326,11 @@
     },
     {
       "itemId": "3112",
-      "quantity": 2877
+      "quantity": 2878
     },
     {
       "itemId": "3113",
-      "quantity": 10344
+      "quantity": 10347
     },
     {
       "itemId": "3114",
@@ -4430,7 +4410,7 @@
     },
     {
       "itemId": "3222",
-      "quantity": 10486
+      "quantity": 10488
     },
     {
       "itemId": "3242",
@@ -4446,7 +4426,7 @@
     },
     {
       "itemId": "3272",
-      "quantity": 5505
+      "quantity": 5506
     },
     {
       "itemId": "3252",
@@ -4505,5 +4485,5 @@
       "quantity": 13
     }
   ],
-  "totalApCost": 39299684
+  "totalApCost": 39300230
 }
