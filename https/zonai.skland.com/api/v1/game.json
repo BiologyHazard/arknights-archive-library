@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1781738590",
+  "timestamp": "1781772425",
   "data": {
     "list": [
       {
@@ -2139,37 +2139,9 @@
             }
           },
           {
-            "id": 37,
-            "gameId": 101,
-            "name": "每日游报",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/09/13/91e8584ebe6b51c969cfd7cbacb5e1a7.png",
-              "width": 120,
-              "height": 120,
-              "size": 2888,
-              "format": "png",
-              "darkModeUrl": ""
-            },
-            "link": "skland://detail?id=5857813&viewKind=3",
-            "position": 2,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "skland://detail?id=5857813&viewKind=3",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0
-            }
-          },
-          {
             "id": 65,
             "gameId": 101,
-            "name": "新游速递",
+            "name": "赛事资讯",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2025/10/11/1de423d0842aab595b0fd16ad29355e5.png",
@@ -2179,11 +2151,11 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://detail?id=5912632&viewKind=3",
+            "link": "skland://user?id=106",
             "position": 3,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "skland://detail?id=5912632&viewKind=3",
+            "pcLink": "https://www.skland.com/profile?id=1193497506093",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
