@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1781826277",
+  "timestamp": "1781859897",
   "data": {
     "list": [
       {
@@ -1208,6 +1208,34 @@
               "timeRange": {
                 "startAtTs": "1775029440",
                 "endAtTs": "1775491200"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 85,
+            "gameId": 3,
+            "name": "危机合约",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/06/18/fc6ab09d8b0fabb3437a78a5d2e16a9d.png",
+              "width": 120,
+              "height": 120,
+              "size": 4004,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%2Fcrisis-contract%3Fheader%3D0%26contractId%3D6e5575e7972af7d4ae63a26b98b87e9f",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/endfield/game-data/crisis-contract?header=0&contractId=6e5575e7972af7d4ae63a26b98b87e9f",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1781859600",
+                "endAtTs": "1782143999"
               },
               "dotType": 0
             }
