@@ -1690,7 +1690,7 @@
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 84120
+      "times": 84126
     },
     {
       "stageId": "act12side_07",
@@ -3874,7 +3874,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 57162
+      "times": 57164
     },
     {
       "stageId": "act10d5_06",
@@ -4136,7 +4136,7 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 29
+      "times": 26
     },
     {
       "stageId": "main_07-06",
@@ -4151,12 +4151,16 @@
       "times": 7
     },
     {
+      "stageId": "wk_kc_6",
+      "times": 2
+    },
+    {
       "stageId": "wk_melee_6",
-      "times": 24
+      "times": 20
     },
     {
       "stageId": "wk_toxic_5",
-      "times": 23
+      "times": 27
     }
   ],
   "totalItemQuantities": [
@@ -4294,7 +4298,7 @@
     },
     {
       "itemId": "furni",
-      "quantity": 27352
+      "quantity": 27353
     },
     {
       "itemId": "3112",
@@ -4457,5 +4461,5 @@
       "quantity": 13
     }
   ],
-  "totalApCost": 39370418
+  "totalApCost": 39370670
 }
