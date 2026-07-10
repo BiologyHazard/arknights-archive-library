@@ -7356,5 +7356,45 @@
       "act24side_09_rep",
       "act24side_gacha_rep"
     ]
+  },
+  {
+    "zoneId": "act21mini_zone1",
+    "zoneIndex": 1113,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "丛林症结",
+    "zoneName_i18n": {
+      "en": "丛林症结",
+      "ja": "丛林症结",
+      "ko": "丛林症结",
+      "zh": "丛林症结"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act21mini_01",
+      "act21mini_02",
+      "act21mini_03",
+      "act21mini_04",
+      "act21mini_05",
+      "act21mini_06",
+      "act21mini_07",
+      "act21mini_08"
+    ]
   }
 ]

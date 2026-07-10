@@ -123459,5 +123459,1053 @@
       }
     },
     "minClearTime": null
+  },
+  {
+    "stageId": "act21mini_01",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-1",
+    "code_i18n": {
+      "en": "BD-1",
+      "ja": "BD-1",
+      "ko": "BD-1",
+      "zh": "BD-1"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 184000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_02",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-2",
+    "code_i18n": {
+      "en": "BD-2",
+      "ja": "BD-2",
+      "ko": "BD-2",
+      "zh": "BD-2"
+    },
+    "apCost": 9,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 186000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_03",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-3",
+    "code_i18n": {
+      "en": "BD-3",
+      "ja": "BD-3",
+      "ko": "BD-3",
+      "zh": "BD-3"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 195000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_04",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-4",
+    "code_i18n": {
+      "en": "BD-4",
+      "ja": "BD-4",
+      "ko": "BD-4",
+      "zh": "BD-4"
+    },
+    "apCost": 12,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 190000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30011",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 6
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_05",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-5",
+    "code_i18n": {
+      "en": "BD-5",
+      "ja": "BD-5",
+      "ko": "BD-5",
+      "zh": "BD-5"
+    },
+    "apCost": 15,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 163000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30012",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "3003",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30011",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30012",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30062",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30031",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30032",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 1,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_06",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-6",
+    "code_i18n": {
+      "en": "BD-6",
+      "ja": "BD-6",
+      "ko": "BD-6",
+      "zh": "BD-6"
+    },
+    "apCost": 15,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 181000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30062",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "2001",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "2002",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30022",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30042",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30051",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30052",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_07",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-7",
+    "code_i18n": {
+      "en": "BD-7",
+      "ja": "BD-7",
+      "ko": "BD-7",
+      "zh": "BD-7"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 178000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30013",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 2
+        }
+      },
+      {
+        "itemId": "3003",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30011",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30012",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30013",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30061",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30062",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30063",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30073",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31013",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31073",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31103",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
+  },
+  {
+    "stageId": "act21mini_08",
+    "zoneId": "act21mini_zone1",
+    "stageType": "ACTIVITY",
+    "code": "BD-8",
+    "code_i18n": {
+      "en": "BD-8",
+      "ja": "BD-8",
+      "ko": "BD-8",
+      "zh": "BD-8"
+    },
+    "apCost": 21,
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1783656000000,
+        "closeTime": 1784232000000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "minClearTime": 94000,
+    "recognitionOnly": [
+      "act21mini_token_shred"
+    ],
+    "dropInfos": [
+      {
+        "itemId": "30043",
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "2001",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "2002",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "2003",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30021",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30022",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30023",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30041",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 5
+        }
+      },
+      {
+        "itemId": "30042",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
+        }
+      },
+      {
+        "itemId": "30043",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "30083",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31023",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31063",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "31093",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "itemId": "furni",
+        "dropType": "FURNITURE",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "NORMAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
+        }
+      },
+      {
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 1
+        }
+      }
+    ]
   }
 ]
