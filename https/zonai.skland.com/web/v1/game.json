@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784135768",
+  "timestamp": "1784156225",
   "data": {
     "list": [
       {
@@ -1241,9 +1241,37 @@
             }
           },
           {
+            "id": 71,
+            "gameId": 3,
+            "name": "更新福利",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
+              "width": 120,
+              "height": 120,
+              "size": 53800,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_endfield_713763",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1784154157",
+                "endAtTs": "1784735999"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 84,
             "gameId": 3,
-            "name": "限时任务",
+            "name": "限时活动",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
@@ -1253,17 +1281,17 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsketches-of-lost-heirlooms-part2%3Fheader%3D0%26activityId%3Dact_endfield_187002",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fmini-game%2Fspecial-mission%3Fctr_orientation%3Dlandscape%26header%3D0%26c_c%3Dskd",
             "position": 5,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://act.skland.com/endfield/sketches-of-lost-heirlooms-part2?header=0&activityId=act_endfield_187002",
+            "pcLink": "https://act.skland.com/mini-game/special-mission?ctr_orientation=landscape&header=0&c_c=skd",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1782732900",
-                "endAtTs": "1784131200"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0
             }
