@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784156223",
+  "timestamp": "1784182611",
   "data": {
     "list": [
       {
@@ -1185,29 +1185,29 @@
             }
           },
           {
-            "id": 85,
+            "id": 86,
             "gameId": 3,
-            "name": "危机合约",
+            "name": "养成计算器",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/06/18/fc6ab09d8b0fabb3437a78a5d2e16a9d.png",
+              "url": "https://bbs.hycdn.cn/image/2026/07/16/6a01eab45201c44d3c416541060f64d6.png",
               "width": 120,
               "height": 120,
-              "size": 4004,
+              "size": 10521,
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%2Fcrisis-contract%3Fheader%3D0%26contractId%3D6e5575e7972af7d4ae63a26b98b87e9f",
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
             "position": 2,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://game.skland.com/endfield/game-data/crisis-contract?header=0&contractId=6e5575e7972af7d4ae63a26b98b87e9f",
+            "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1781859600",
-                "endAtTs": "1782143999"
+                "startAtTs": "1784182359",
+                "endAtTs": "1784476799"
               },
               "dotType": 0
             }
@@ -1226,7 +1226,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%3Fheader%3D0",
-            "position": 3,
+            "position": 4,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
@@ -1254,7 +1254,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_endfield_713763",
-            "position": 4,
+            "position": 5,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "",
@@ -1282,7 +1282,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fmini-game%2Fspecial-mission%3Fctr_orientation%3Dlandscape%26header%3D0%26c_c%3Dskd",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://act.skland.com/mini-game/special-mission?ctr_orientation=landscape&header=0&c_c=skd",
@@ -1310,7 +1310,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
@@ -1334,7 +1334,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/map/endfield?header=0",
@@ -1362,7 +1362,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
@@ -1390,7 +1390,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
@@ -1418,7 +1418,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Farknightsendfieldyx.tmall.com&fallback=https%3A%2F%2Farknightsendfieldyx.tmall.com&alert=true",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://arknightsendfieldyx.tmall.com",
@@ -1446,7 +1446,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
@@ -1474,7 +1474,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://user?id=133",
-            "position": 18,
+            "position": 19,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://comic.hypergryph.com/talos-ii-historicus/",
