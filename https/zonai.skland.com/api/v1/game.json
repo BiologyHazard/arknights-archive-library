@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784268852",
+  "timestamp": "1784287223",
   "data": {
     "list": [
       {
@@ -341,6 +341,34 @@
             }
           },
           {
+            "id": 45,
+            "gameId": 1,
+            "name": "集成战略",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "width": 120,
+              "height": 120,
+              "size": 2727,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&currentTopicId=rogue_6",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1784280360",
+                "endAtTs": "1784563199"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 31,
             "gameId": 1,
             "name": "工具箱",
@@ -354,7 +382,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://rn?moduleName=Toolbox&gameId=1",
-            "position": 2,
+            "position": 3,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -382,7 +410,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
