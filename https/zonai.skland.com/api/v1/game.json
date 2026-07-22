@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784701592",
+  "timestamp": "1784720747",
   "data": {
     "list": [
       {
@@ -410,7 +410,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 9,
+            "position": 4,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -434,10 +434,38 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 12,
+            "position": 5,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 10,
+            "gameId": 1,
+            "name": "朝陇山",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/05/f84c43c14e170f528d66cb5cb0f388c0.png",
+              "width": 120,
+              "height": 120,
+              "size": 3994,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Fmingrifangzhou.tmall.com&fallback=https%3A%2F%2Fmingrifangzhou.tmall.com&alert=true",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://mingrifangzhou.tmall.com",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -462,10 +490,38 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 14,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 11,
+            "gameId": 1,
+            "name": "塞壬唱片",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/06/27/59eb573135825733b5233f466be901ce.png",
+              "width": 120,
+              "height": 120,
+              "size": 2178,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "https://monster-siren.hypergryph.com/",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://monster-siren.hypergryph.com/",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -490,7 +546,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 17,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://strategy.skland.com/home",
@@ -501,30 +557,26 @@
             }
           },
           {
-            "id": 10,
+            "id": 87,
             "gameId": 1,
-            "name": "朝陇山",
+            "name": "支付中心",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/05/f84c43c14e170f528d66cb5cb0f388c0.png",
+              "url": "https://bbs.hycdn.cn/image/2026/07/22/941c351e095377bfe610372c4ed514d1.webp",
               "width": 120,
               "height": 120,
-              "size": 3994,
-              "format": "png",
+              "size": 4900,
+              "format": "webp",
               "darkModeUrl": ""
             },
-            "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Fmingrifangzhou.tmall.com&fallback=https%3A%2F%2Fmingrifangzhou.tmall.com&alert=true",
-            "position": 19,
+            "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights",
+            "position": 10,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://mingrifangzhou.tmall.com",
+            "pcLink": "https://user.hypergryph.com/payment/arknights",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
               "dotType": 0
             }
           }
