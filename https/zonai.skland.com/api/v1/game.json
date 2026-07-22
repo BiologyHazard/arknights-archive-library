@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1784720747",
+  "timestamp": "1784740656",
   "data": {
     "list": [
       {
@@ -1288,34 +1288,6 @@
               "timeRange": {
                 "startAtTs": "1779350880",
                 "endAtTs": "1779379199"
-              },
-              "dotType": 0
-            }
-          },
-          {
-            "id": 71,
-            "gameId": 3,
-            "name": "更新福利",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/20/b535e8b37b9f2023dc95bc67ed29baad.gif",
-              "width": 120,
-              "height": 120,
-              "size": 53800,
-              "format": "gif",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_endfield_713763",
-            "position": 5,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "",
-            "pcStatus": 1,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1784154157",
-                "endAtTs": "1784735999"
               },
               "dotType": 0
             }
