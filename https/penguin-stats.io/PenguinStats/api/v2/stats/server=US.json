@@ -1558,7 +1558,7 @@
     },
     {
       "stageId": "pro_c_2",
-      "times": 11000
+      "times": 11001
     },
     {
       "stageId": "act16d5_06_rep",
@@ -3310,7 +3310,7 @@
     },
     {
       "stageId": "main_01-07",
-      "times": 1726047
+      "times": 1726054
     },
     {
       "stageId": "act9d0_05_perm",
@@ -3802,7 +3802,7 @@
     },
     {
       "stageId": "pro_c_1",
-      "times": 7804
+      "times": 7805
     },
     {
       "stageId": "act9d0_07_rep",
@@ -4190,7 +4190,7 @@
     },
     {
       "stageId": "wk_kc_6",
-      "times": 67005
+      "times": 67010
     },
     {
       "stageId": "act18d3_05",
@@ -4472,23 +4472,19 @@
   "totalStageTimes_24h": [
     {
       "stageId": "main_01-07",
-      "times": 20
+      "times": 21
     },
     {
       "stageId": "pro_c_1",
-      "times": 2
+      "times": 3
     },
     {
       "stageId": "pro_c_2",
-      "times": 2
+      "times": 3
     },
     {
-      "stageId": "pro_d_2",
-      "times": 2
-    },
-    {
-      "stageId": "sub_03-2-2",
-      "times": 1
+      "stageId": "wk_kc_6",
+      "times": 5
     },
     {
       "stageId": "wk_toxic_5",
@@ -4498,7 +4494,7 @@
   "totalItemQuantities": [
     {
       "itemId": "3003",
-      "quantity": 182109
+      "quantity": 182111
     },
     {
       "itemId": "30011",
@@ -4506,7 +4502,7 @@
     },
     {
       "itemId": "30012",
-      "quantity": 2410525
+      "quantity": 2410535
     },
     {
       "itemId": "30013",
@@ -4582,7 +4578,7 @@
     },
     {
       "itemId": "30051",
-      "quantity": 124317
+      "quantity": 124318
     },
     {
       "itemId": "30052",
@@ -4702,7 +4698,7 @@
     },
     {
       "itemId": "3271",
-      "quantity": 3882
+      "quantity": 3883
     },
     {
       "itemId": "3251",
@@ -4734,7 +4730,7 @@
     },
     {
       "itemId": "3272",
-      "quantity": 5484
+      "quantity": 5485
     },
     {
       "itemId": "3252",
@@ -4793,5 +4789,5 @@
       "quantity": 343
     }
   ],
-  "totalApCost": 49822428
+  "totalApCost": 49822704
 }
