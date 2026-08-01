@@ -7436,5 +7436,46 @@
       "act43side_07_rep",
       "act43side_08_rep"
     ]
+  },
+  {
+    "zoneId": "act53side_zone1",
+    "zoneIndex": 1115,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "直到大地变成一颗酸橙",
+    "zoneName_i18n": {
+      "en": "直到大地变成一颗酸橙",
+      "ja": "直到大地变成一颗酸橙",
+      "ko": "直到大地变成一颗酸橙",
+      "zh": "直到大地变成一颗酸橙"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1785556800000,
+        "closeTime": 1787342400000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act53side_01",
+      "act53side_02",
+      "act53side_03",
+      "act53side_04",
+      "act53side_05",
+      "act53side_06",
+      "act53side_07",
+      "act53side_08",
+      "act53side_09"
+    ]
   }
 ]
