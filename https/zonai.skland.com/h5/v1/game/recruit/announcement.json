@@ -1,34 +1,34 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1785538752",
+  "timestamp": "1785565698",
   "data": {
-    "postedAtTs": 1777564800,
-    "description": "本次新增干员6★ 帕拉斯、1★ GALLUS²",
+    "postedAtTs": 1785558101,
+    "description": "本次新增干员：6★ 水月、5★ 羽毛笔",
     "characters": [
       {
-        "charId": "char_4227_gallus",
+        "charId": "char_437_mizuki",
         "tagIds": [
-          6,
-          10,
-          28,
-          24
-        ],
-        "name": "GALLUS²",
-        "rarity": 0,
-        "profession": "CASTER"
-      },
-      {
-        "charId": "char_485_pallas",
-        "tagIds": [
-          1,
+          7,
           11,
           9,
           19,
-          16
+          12
         ],
-        "name": "帕拉斯",
+        "name": "水月",
         "rarity": 5,
+        "profession": "SPECIAL"
+      },
+      {
+        "charId": "char_421_crow",
+        "tagIds": [
+          1,
+          14,
+          9,
+          19
+        ],
+        "name": "羽毛笔",
+        "rarity": 4,
         "profession": "WARRIOR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1785538730",
+  "timestamp": "1785565677",
   "data": {
     "list": [
       {
@@ -336,6 +336,34 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
+              },
+              "dotType": 0
+            }
+          },
+          {
+            "id": 79,
+            "gameId": 1,
+            "name": "活动战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/05/01/937c2dbb6256a808f6b185cbd496bf60.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F99a51c1f7096-till-the-lands-become-an-orange%3Fheader%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://www.skland.com/act/ak/99a51c1f7096-till-the-lands-become-an-orange?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1785558588",
+                "endAtTs": "1785859199"
               },
               "dotType": 0
             }

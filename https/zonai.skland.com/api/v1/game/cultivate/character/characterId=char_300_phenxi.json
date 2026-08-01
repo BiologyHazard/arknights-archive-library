@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1785538961",
+  "timestamp": "1785565940",
   "data": {
     "id": "char_300_phenxi",
     "mainSkillLevelCost": [
@@ -399,6 +399,41 @@
           }
         ],
         "shiningColor": "red"
+      },
+      {
+        "id": "uniequip_004_phenxi",
+        "name": "菲亚梅塔特限证章",
+        "typeName": "isw-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
       }
     ],
     "evolvePhaseCost": [
