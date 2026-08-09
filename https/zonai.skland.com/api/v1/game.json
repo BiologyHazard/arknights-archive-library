@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1786228056",
+  "timestamp": "1786251785",
   "data": {
     "list": [
       {
@@ -1323,7 +1323,7 @@
           {
             "id": 74,
             "gameId": 3,
-            "name": "协议终端",
+            "name": "游戏数据",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2026/01/21/38d2775ad760122e1551e43354e0d153.png",
@@ -1340,10 +1340,10 @@
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1779350880",
-                "endAtTs": "1779379199"
+                "startAtTs": "1786249484",
+                "endAtTs": "1786550399"
               },
               "dotType": 0
             }
@@ -1361,17 +1361,17 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fmini-game%2Fspecial-mission%3Fctr_orientation%3Dlandscape%26header%3D0%26c_c%3Dskd",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fshining-day%3Fheader%3D0%26c_c%3Dskd",
             "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://act.skland.com/mini-game/special-mission?ctr_orientation=landscape&header=0&c_c=skd",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1786249372",
+                "endAtTs": "1786377660"
               },
               "dotType": 0
             }
