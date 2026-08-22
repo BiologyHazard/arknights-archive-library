@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1787373058",
+  "timestamp": "1787394065",
   "data": {
     "list": [
       {
@@ -397,6 +397,34 @@
             }
           },
           {
+            "id": 64,
+            "gameId": 1,
+            "name": "历程报告",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/09/01/25cd34e74553fc2fd15e1f4393c9d2b6.png",
+              "width": 120,
+              "height": 120,
+              "size": 2665,
+              "format": "png",
+              "darkModeUrl": ""
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act53side",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act53side",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1787373313",
+                "endAtTs": "1789487999"
+              },
+              "dotType": 0
+            }
+          },
+          {
             "id": 31,
             "gameId": 1,
             "name": "工具箱",
@@ -410,7 +438,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://rn?moduleName=Toolbox&gameId=1",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -438,7 +466,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmini-game%2Fmessage-express%3Fctr_orientation%3Dlandscape%26header%3D0%26c_c%3Dskd",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/mini-game/message-express?ctr_orientation=landscape&header=0&c_c=skd",
@@ -466,7 +494,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -490,7 +518,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -518,7 +546,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Fmingrifangzhou.tmall.com&fallback=https%3A%2F%2Fmingrifangzhou.tmall.com&alert=true",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://mingrifangzhou.tmall.com",
@@ -546,7 +574,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -574,7 +602,7 @@
               "darkModeUrl": ""
             },
             "link": "https://monster-siren.hypergryph.com/",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://monster-siren.hypergryph.com/",
@@ -602,7 +630,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 12,
+            "position": 13,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://strategy.skland.com/home",
@@ -626,7 +654,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights",
