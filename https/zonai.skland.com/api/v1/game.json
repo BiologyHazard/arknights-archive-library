@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788172515",
+  "timestamp": "1788211096",
   "data": {
     "list": [
       {
@@ -364,11 +364,41 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/25f7872247ac5f3f3b9546db02e58d26.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
-            "position": 3,
+            "position": 4,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/game-record?header=0&currentTopicId=rogue_6",
             "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 47,
+            "gameId": 1,
+            "name": "更新福利",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/a7e45ecfa0a9fd92bb75753e96379572.gif",
+              "width": 120,
+              "height": 120,
+              "size": 131818,
+              "format": "gif",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/30173e41bcb1a0b8ed0b114a911296ad.gif"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_685997",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "",
+            "pcStatus": 1,
             "redDot": {
               "isEnabled": false,
               "timeRange": {
@@ -394,7 +424,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fak%2Freport%3Fheader%3D0%26activityId%3Dreport_act53side",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://act.skland.com/ak/report?header=0&activityId=report_act53side",
@@ -424,7 +454,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://rn?moduleName=Toolbox&gameId=1",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -454,7 +484,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -480,7 +510,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -510,7 +540,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Fmingrifangzhou.tmall.com&fallback=https%3A%2F%2Fmingrifangzhou.tmall.com&alert=true",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://mingrifangzhou.tmall.com",
@@ -540,7 +570,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fh%2Fak%2Frecruit-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -570,7 +600,7 @@
               "darkModeUrl": ""
             },
             "link": "https://monster-siren.hypergryph.com/",
-            "position": 12,
+            "position": 13,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://monster-siren.hypergryph.com/",
@@ -600,7 +630,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fhome%3Fheader%3D0",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://strategy.skland.com/home",
@@ -626,7 +656,7 @@
               "darkModeUrl": ""
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights",
-            "position": 14,
+            "position": 15,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights",
@@ -873,7 +903,7 @@
               "height": 120,
               "size": 9188,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/fa7968e65422f6ff4805957688836ab5.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fexa-buy%3Fheader%3D0",
             "position": 1,
@@ -883,6 +913,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -899,7 +933,7 @@
               "height": 120,
               "size": 9633,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/38a15c5c538b4a4dae35ea68d2611900.png"
             },
             "link": "skland://rn?moduleName=ExaGameData",
             "position": 2,
@@ -909,6 +943,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -925,7 +963,7 @@
               "height": 120,
               "size": 12985,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/e647d4ae115b2bd1744dcff57abcd321.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fexa%2Fhome%3Fheader%3D0",
             "position": 3,
@@ -935,6 +973,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -951,7 +993,7 @@
               "height": 120,
               "size": 12081,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/e017ecf86db301462e86c5921d026d4b.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fexa.hypergryph.com%2Factivity%2Freiseprotokoll%3Fheader%3D0%26source_from%3Dskland",
             "position": 4,
@@ -961,6 +1003,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -977,7 +1023,7 @@
               "height": 120,
               "size": 11989,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1e0b8b56ebd0974cb30942b007f8656a.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fexa.hypergryph.com%2F",
             "position": 5,
@@ -987,6 +1033,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -1299,7 +1349,7 @@
               "height": 120,
               "size": 3211,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/5851d61903cfbf877c10bf9aacc6800a.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fsign-in%3Fheader%3D0",
             "position": 1,
@@ -1310,8 +1360,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1775029440",
-                "endAtTs": "1775491200"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1329,7 +1379,7 @@
               "height": 120,
               "size": 10521,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
             "position": 2,
@@ -1340,8 +1390,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1784182359",
-                "endAtTs": "1784476799"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1359,7 +1409,7 @@
               "height": 120,
               "size": 4037,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/b86175c4ffea0a4d1b6d042117f74d1f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%3Fheader%3D0",
             "position": 4,
@@ -1370,8 +1420,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1786249484",
-                "endAtTs": "1786550399"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1389,7 +1439,7 @@
               "height": 120,
               "size": 1354,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/a29a9cf7ab00ed52351fcf8d8707b4e0.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fshining-day%3Fheader%3D0%26c_c%3Dskd",
             "position": 6,
@@ -1419,7 +1469,7 @@
               "height": 120,
               "size": 3415,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/bd4b50e7dfd0539127b70df8eb2814ff.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
             "position": 7,
@@ -1429,6 +1479,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -1445,7 +1499,7 @@
               "height": 120,
               "size": 5055,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/370f73745005bcf6216e9117c1b03c8e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
             "position": 8,
@@ -1456,8 +1510,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1778749200",
-                "endAtTs": "1778922000"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1475,7 +1529,7 @@
               "height": 120,
               "size": 4074,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/9c436735107d33fa7a14fbc7c0c4d1dc.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
             "position": 9,
@@ -1486,8 +1540,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1778749200",
-                "endAtTs": "1778922000"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1505,7 +1559,7 @@
               "height": 120,
               "size": 3158,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/5d21c19d0abf790326b8284f7fb58b1f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
             "position": 10,
@@ -1535,7 +1589,7 @@
               "height": 120,
               "size": 1611,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/c5aa882305a851080d40013a82b26ffd.png"
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Farknightsendfieldyx.tmall.com&fallback=https%3A%2F%2Farknightsendfieldyx.tmall.com&alert=true",
             "position": 11,
@@ -1565,7 +1619,7 @@
               "height": 120,
               "size": 3539,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/58ebb9276b030a9360ba19c2038b91eb.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
             "position": 14,
@@ -1595,7 +1649,7 @@
               "height": 120,
               "size": 10667,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/06e17ad3aff64b7eb441bdf968ff1d8b.png"
             },
             "link": "skland://user?id=133",
             "position": 19,
@@ -1885,7 +1939,7 @@
               "height": 120,
               "size": 1995,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/d07b423a7cc47297db92dc5fafb8708e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fteam-building-tools%3Fheader%3D0",
             "position": 1,
@@ -1896,8 +1950,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1748840149",
-                "endAtTs": "1751299200"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1915,7 +1969,7 @@
               "height": 120,
               "size": 2761,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/164953ea7397143780d99c71d91f15f3.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fachieve%3Fheader%3D0",
             "position": 2,
@@ -1926,8 +1980,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1748931420",
-                "endAtTs": "1751299200"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -1945,7 +1999,7 @@
               "height": 120,
               "size": 1742,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/6bdc28449f0755146ee9e4fe643c7f9f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpurchase%3Fheader%3D0",
             "position": 3,
@@ -1975,7 +2029,7 @@
               "height": 120,
               "size": 1598,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/4fd47dbd3c1ed167e11977b73eb32c7e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fstrategy.skland.com%2Fpopucom%2Fhome%3Fheader%3D0",
             "position": 4,
@@ -2005,7 +2059,7 @@
               "height": 120,
               "size": 5837,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/2d89ae4ccb90d129a96a8fd268ac761b.png"
             },
             "link": "skland://detail?id=2938736&viewKind=3",
             "position": 5,
@@ -2035,7 +2089,7 @@
               "height": 120,
               "size": 7462,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1e447ecd9f9350f526649a4d48632844.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2F",
             "position": 6,
@@ -2045,6 +2099,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -2061,7 +2119,7 @@
               "height": 120,
               "size": 8147,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/0a8dc8a317e090a4e43149b359e24e96.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fpopucom.hypergryph.com%2Factivity%2Fcapt-kitty%3Fsource_from%3Dskland",
             "position": 7,
@@ -2072,8 +2130,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1747972916",
-                "endAtTs": "1748620799"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -2091,7 +2149,7 @@
               "height": 120,
               "size": 7698,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/d472f6148ad96a3a994becddc770c28f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fpopucom%2Fpopuu",
             "position": 8,
@@ -2101,6 +2159,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -2335,7 +2397,7 @@
               "height": 120,
               "size": 7267,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/774582ecff89c31800551e16c8b2e650.png"
             },
             "link": "skland://user?id=106",
             "position": 3,
@@ -2365,7 +2427,7 @@
               "height": 120,
               "size": 4351,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/c0ac6584f3c1b7ffd9a22cf040f8a88d.png"
             },
             "link": "skland://tag?id=877",
             "position": 5,
@@ -2395,7 +2457,7 @@
               "height": 120,
               "size": 2310,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/862310724d460b44eebc31f71d06e9ab.png"
             },
             "link": "skland://detail?id=2127350&viewKind=3",
             "position": 6,
@@ -2405,6 +2467,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -2573,7 +2639,7 @@
               "height": 120,
               "size": 4707,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/e1a69bdf9d39e55319c90798f5e318e0.png"
             },
             "link": "skland://weeklyMustWatch?id=72",
             "position": 1,
@@ -2603,7 +2669,7 @@
               "height": 120,
               "size": 4982,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/cacd7c500b7678a325906a2d2d24aab2.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fbbs%2Foffline-activities-collection%3Fheader%3D0",
             "position": 2,
@@ -2613,6 +2679,10 @@
             "pcStatus": 1,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -2629,7 +2699,7 @@
               "height": 120,
               "size": 3869,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/7dd3ec248c4b4b50b8133478ded0584c.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fcreator%2Fmission-center%3Fheader%3D0",
             "position": 4,
@@ -2639,6 +2709,10 @@
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
@@ -2655,7 +2729,7 @@
               "height": 120,
               "size": 3787,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/a6faec8c8d7f86ba5434a9127f3f8cb5.png"
             },
             "link": "skland://volume?id=1956266587816337408",
             "position": 5,
