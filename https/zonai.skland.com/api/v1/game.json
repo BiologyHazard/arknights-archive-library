@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788135151",
+  "timestamp": "1788172515",
   "data": {
     "list": [
       {
@@ -331,7 +331,7 @@
               "height": 120,
               "size": 2121,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/64ed365633e85ba5059ce14d0d48bb0b.png"
             },
             "link": "skland://rn?moduleName=ArknightsGameSignIn",
             "position": 1,
@@ -351,36 +351,6 @@
             "subtitle": ""
           },
           {
-            "id": 79,
-            "gameId": 1,
-            "name": "活动战绩",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/05/01/937c2dbb6256a808f6b185cbd496bf60.gif",
-              "width": 120,
-              "height": 120,
-              "size": 70775,
-              "format": "gif",
-              "darkModeUrl": ""
-            },
-            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F99a51c1f7096-till-the-lands-become-an-orange%3Fheader%3D0",
-            "position": 2,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://www.skland.com/act/ak/99a51c1f7096-till-the-lands-become-an-orange?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "1785558588",
-                "endAtTs": "1785859199"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
             "id": 45,
             "gameId": 1,
             "name": "集成战略",
@@ -391,7 +361,7 @@
               "height": 120,
               "size": 2727,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/25f7872247ac5f3f3b9546db02e58d26.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
             "position": 3,
@@ -402,8 +372,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1784280360",
-                "endAtTs": "1784563199"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
