@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788306506",
+  "timestamp": "1788337500",
   "data": {
     "list": [
       {
@@ -32,7 +32,19 @@
           "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/arknights_pc_bg.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/arknights_pc_underlying.png",
           "backgroundStyle": 1,
-          "description": "明日方舟游戏相关讨论区"
+          "description": "明日方舟游戏相关讨论区",
+          "underlyingGraph": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/background/game/bg_section_arknights_light.png",
+            "width": 0,
+            "height": 0,
+            "size": 0,
+            "format": "",
+            "darkModeUrl": "https://bbs.hycdn.cn/asset/background/game/bg_section_arknights_dark.png"
+          },
+          "checkinIcon": {
+            "key": "gameId1"
+          }
         },
         "cates": [
           {
@@ -58,7 +70,15 @@
               "format": "",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/fa17817d41c7976eabdcfb3712686065.png",
+              "width": 150,
+              "height": 150,
+              "size": 1423,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
@@ -89,7 +109,15 @@
               "format": "jpg",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/d17b0cfe992bbedb75046830cc90e69c.png",
+              "width": 150,
+              "height": 150,
+              "size": 970,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -125,7 +153,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/578c347b5b4ff399c0469f770ae11d72.png",
+              "width": 150,
+              "height": 150,
+              "size": 1149,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 100,
             "allowedViewKinds": [
               1,
@@ -161,7 +197,15 @@
               "format": "jpg",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/0b3f886e44e98051cfb4f1a26d0e8fd2.png",
+              "width": 150,
+              "height": 150,
+              "size": 1291,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -197,7 +241,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/19f48c442e221798fb0ca24adb33bf47.png",
+              "width": 150,
+              "height": 150,
+              "size": 1050,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -233,7 +285,15 @@
               "format": "jpg",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/0b7f2a820a9c60a40db3c00371b98ce0.png",
+              "width": 150,
+              "height": 150,
+              "size": 814,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -269,7 +329,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/0bfc22a28027aaf497b111931d6b73cb.png",
+              "width": 150,
+              "height": 150,
+              "size": 1271,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -305,7 +373,15 @@
               "format": "jpg",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/78e61bfaa79b2d68cac6d40e499f4e50.png",
+              "width": 150,
+              "height": 150,
+              "size": 1695,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -694,7 +770,19 @@
           "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/exastris_pc_bg.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/exastris_pc_underlying.png",
           "backgroundStyle": 1,
-          "description": "来自星尘游戏相关讨论区"
+          "description": "来自星尘游戏相关讨论区",
+          "underlyingGraph": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/background/game/bg_section_exastris_light.png",
+            "width": 0,
+            "height": 0,
+            "size": 0,
+            "format": "",
+            "darkModeUrl": "https://bbs.hycdn.cn/asset/background/game/bg_section_exastris_dark.png"
+          },
+          "checkinIcon": {
+            "key": "gameId2"
+          }
         },
         "cates": [
           {
@@ -720,7 +808,15 @@
               "format": "",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/6fdcc442625e4c8be8e235ae9b4b5f2f.png",
+              "width": 150,
+              "height": 150,
+              "size": 1354,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
@@ -751,7 +847,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/50660116f5af5f17fdc91846c20a5af4.png",
+              "width": 150,
+              "height": 150,
+              "size": 1506,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -787,7 +891,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/cf9f9daabd87ab459239e781356e05e5.png",
+              "width": 150,
+              "height": 150,
+              "size": 1898,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 100,
             "allowedViewKinds": [
               1,
@@ -823,7 +935,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/b2a810c4f79c0777045f5864add8d5dd.png",
+              "width": 150,
+              "height": 150,
+              "size": 1572,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -859,7 +979,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/3ea7661d4836847261457b55d8753d75.png",
+              "width": 150,
+              "height": 150,
+              "size": 1356,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1068,7 +1196,19 @@
           "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/endfield_pc_ef2313c44552d077c58366b5abfb31ca.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/endfield_pc_underlying.png",
           "backgroundStyle": 1,
-          "description": "明日方舟：终末地游戏相关讨论区"
+          "description": "明日方舟：终末地游戏相关讨论区",
+          "underlyingGraph": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/background/game/bg_section_endfield_light.png",
+            "width": 0,
+            "height": 0,
+            "size": 0,
+            "format": "",
+            "darkModeUrl": "https://bbs.hycdn.cn/asset/background/game/bg_section_endfield_dark.png"
+          },
+          "checkinIcon": {
+            "key": "gameId3"
+          }
         },
         "cates": [
           {
@@ -1094,7 +1234,15 @@
               "format": "",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/e42db05be949292271e7371026d68ba0.png",
+              "width": 150,
+              "height": 150,
+              "size": 1368,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
@@ -1125,7 +1273,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/1411255af54793b3dbf2575915469f27.png",
+              "width": 150,
+              "height": 150,
+              "size": 556,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1161,7 +1317,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/53c616ee5d9e45ae83e1e120a3253ac9.png",
+              "width": 150,
+              "height": 150,
+              "size": 1198,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 100,
             "allowedViewKinds": [
               1,
@@ -1197,7 +1361,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/4ef28918fb0d26c23f078f066747309c.png",
+              "width": 150,
+              "height": 150,
+              "size": 804,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1233,7 +1405,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/08b2ef978cb17dd78a503372d189c7e2.png",
+              "width": 150,
+              "height": 150,
+              "size": 1158,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1269,7 +1449,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/e780f464faaef2477f787beee40ebabd.png",
+              "width": 150,
+              "height": 150,
+              "size": 1182,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1305,7 +1493,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/ddd799bf9157cd920cc83afbb79ecaaa.png",
+              "width": 150,
+              "height": 150,
+              "size": 1271,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1441,29 +1637,29 @@
             "subtitle": ""
           },
           {
-            "id": 84,
+            "id": 102,
             "gameId": 3,
-            "name": "限时活动",
+            "name": "开拓日志",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
+              "url": "https://bbs.hycdn.cn/image/2026/09/02/02418aa0a507f8d38aa3cb539867f480.png",
               "width": 120,
               "height": 120,
-              "size": 1354,
+              "size": 9282,
               "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
+              "darkModeUrl": ""
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fshining-day%3Fheader%3D0%26c_c%3Dskd",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fdata-report%3Fheader%3D0%26activityId%3Dhomecoming",
             "position": 6,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://act.skland.com/endfield/shining-day?header=0&c_c=skd",
+            "pcLink": "https://act.skland.com/endfield/data-report?header=0&activityId=homecoming",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1788323964",
+                "endAtTs": "1791388799"
               },
               "dotType": 0,
               "hotText": ""
@@ -1484,7 +1680,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/bd4b50e7dfd0539127b70df8eb2814ff.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
-            "position": 7,
+            "position": 8,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
@@ -1514,7 +1710,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/370f73745005bcf6216e9117c1b03c8e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/map/endfield?header=0",
@@ -1544,7 +1740,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/9c436735107d33fa7a14fbc7c0c4d1dc.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
@@ -1574,7 +1770,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/5d21c19d0abf790326b8284f7fb58b1f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
@@ -1604,7 +1800,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/c67dbd490886cf55ce393aa890932a70.png"
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Farknightsendfieldyx.tmall.com&fallback=https%3A%2F%2Farknightsendfieldyx.tmall.com&alert=true",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://arknightsendfieldyx.tmall.com",
@@ -1634,7 +1830,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/58ebb9276b030a9360ba19c2038b91eb.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
-            "position": 12,
+            "position": 13,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
@@ -1664,7 +1860,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/06e17ad3aff64b7eb441bdf968ff1d8b.png"
             },
             "link": "skland://user?id=133",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://comic.hypergryph.com/talos-ii-historicus/",
@@ -1724,7 +1920,19 @@
           "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/popucom_pc_bg.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/popucom_pc_underlying.png",
           "backgroundStyle": 1,
-          "description": "泡姆泡姆游戏相关讨论区"
+          "description": "泡姆泡姆游戏相关讨论区",
+          "underlyingGraph": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/background/game/bg_section_popucom_light.png",
+            "width": 0,
+            "height": 0,
+            "size": 0,
+            "format": "",
+            "darkModeUrl": "https://bbs.hycdn.cn/asset/background/game/bg_section_popucom_dark.png"
+          },
+          "checkinIcon": {
+            "key": "gameId4"
+          }
         },
         "cates": [
           {
@@ -1750,7 +1958,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/c7aa5622f71000ac4f22772e0697703b.png",
+              "width": 150,
+              "height": 150,
+              "size": 1717,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
@@ -1781,7 +1997,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/72b9d04cce294b83abd395c9e09a9e3b.png",
+              "width": 150,
+              "height": 150,
+              "size": 1889,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               2,
@@ -1817,7 +2041,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/8d91686390f5eb5fe11058a836a4334f.png",
+              "width": 150,
+              "height": 150,
+              "size": 1670,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 100,
             "allowedViewKinds": [
               1,
@@ -1853,7 +2085,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/199e2c29b917cb0b0f0eb41a2bcddd68.png",
+              "width": 150,
+              "height": 150,
+              "size": 1171,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1889,7 +2129,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/de52a406280dff446d0109a6de880b64.png",
+              "width": 150,
+              "height": 150,
+              "size": 1547,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -1925,7 +2173,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/530f5bd87793c012a8f88ac9c4c93e26.png",
+              "width": 150,
+              "height": 150,
+              "size": 1231,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -2224,7 +2480,19 @@
           "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/openup/pc.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/openup/pc_underlying.png",
           "backgroundStyle": 1,
-          "description": "单机/独立游戏相关讨论区"
+          "description": "单机/独立游戏相关讨论区",
+          "underlyingGraph": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/background/game/bg_section_coreblazer_light.png",
+            "width": 0,
+            "height": 0,
+            "size": 0,
+            "format": "",
+            "darkModeUrl": "https://bbs.hycdn.cn/asset/background/game/bg_section_coreblazer_dark.png"
+          },
+          "checkinIcon": {
+            "key": "gameId101"
+          }
         },
         "cates": [
           {
@@ -2250,7 +2518,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/3c17d262db62c280b1cd044433dba0e9.png",
+              "width": 150,
+              "height": 150,
+              "size": 1526,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
@@ -2281,7 +2557,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/f7b65e7115d4c9b67d13d09c58a181bd.png",
+              "width": 150,
+              "height": 150,
+              "size": 1071,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               2,
@@ -2317,7 +2601,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/042f9f3837567ae37d3f67f0e1b16a99.png",
+              "width": 150,
+              "height": 150,
+              "size": 1511,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 100,
             "allowedViewKinds": [
               1,
@@ -2353,7 +2645,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/88f36bf3b351d55cc831fbcad5dc9401.png",
+              "width": 150,
+              "height": 150,
+              "size": 1526,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -2532,7 +2832,19 @@
           "pcBackgroundUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2026summer/pc.png",
           "pcUnderlyingGraphUrl": "https://bbs.hycdn.cn/asset/background/nest_harbour/2026summer/pc_underlying_e2127430ac2ac5fe3596b657d130d3ef.png",
           "backgroundStyle": 2,
-          "description": "日常/生活等综合讨论区"
+          "description": "日常/生活等综合讨论区",
+          "underlyingGraph": {
+            "id": "",
+            "url": "https://bbs.hycdn.cn/asset/background/game/bg_section_nestharbour_light.png",
+            "width": 0,
+            "height": 0,
+            "size": 0,
+            "format": "",
+            "darkModeUrl": "https://bbs.hycdn.cn/asset/background/game/bg_section_nestharbour_dark.png"
+          },
+          "checkinIcon": {
+            "key": "gameId100"
+          }
         },
         "cates": [
           {
@@ -2558,7 +2870,15 @@
               "format": "",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/5fbb302989ecf9371a06f14cfb5f0356.png",
+              "width": 150,
+              "height": 150,
+              "size": 1592,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
@@ -2589,7 +2909,15 @@
               "format": "jpg",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/17c937d31c71f1a74a4cd27da7773ffe.png",
+              "width": 150,
+              "height": 150,
+              "size": 1556,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 20,
             "allowedViewKinds": [
               1,
@@ -2625,7 +2953,15 @@
               "format": "png",
               "darkModeUrl": ""
             },
-            "monoIcon": null,
+            "monoIcon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/08/31/dfe0a1a30080033d54f9cf0a23f14920.png",
+              "width": 150,
+              "height": 150,
+              "size": 1196,
+              "format": "png",
+              "darkModeUrl": ""
+            },
             "kind": 100,
             "allowedViewKinds": [
               1,
@@ -2777,6 +3113,19 @@
         }
       }
     ],
-    "homeTabs": []
+    "homeTabs": [
+      {
+        "name": "关注",
+        "kind": "FOLLOW"
+      },
+      {
+        "name": "推荐",
+        "kind": "RECOMMEND"
+      },
+      {
+        "name": "版区",
+        "kind": "GAME"
+      }
+    ]
   }
 }
