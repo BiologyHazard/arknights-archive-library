@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788337500",
+  "timestamp": "1788357945",
   "data": {
     "list": [
       {
@@ -1577,36 +1577,6 @@
             "subtitle": ""
           },
           {
-            "id": 86,
-            "gameId": 3,
-            "name": "养成计算器",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/07/16/6a01eab45201c44d3c416541060f64d6.png",
-              "width": 120,
-              "height": 120,
-              "size": 10521,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
-            "position": 3,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
             "id": 74,
             "gameId": 3,
             "name": "游戏数据",
@@ -1620,7 +1590,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/b86175c4ffea0a4d1b6d042117f74d1f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%3Fheader%3D0",
-            "position": 5,
+            "position": 3,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
@@ -1647,10 +1617,10 @@
               "height": 120,
               "size": 9282,
               "format": "png",
-              "darkModeUrl": ""
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/02/86bee4da373d3f2404f18dc1a1c06dee.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fdata-report%3Fheader%3D0%26activityId%3Dhomecoming",
-            "position": 6,
+            "position": 4,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://act.skland.com/endfield/data-report?header=0&activityId=homecoming",
@@ -1660,6 +1630,36 @@
               "timeRange": {
                 "startAtTs": "1788323964",
                 "endAtTs": "1791388799"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 86,
+            "gameId": 3,
+            "name": "养成计算器",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/07/16/6a01eab45201c44d3c416541060f64d6.png",
+              "width": 120,
+              "height": 120,
+              "size": 10521,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
@@ -2322,10 +2322,10 @@
             "name": "FAQ",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/05/23/93eed2535c627b0b4a4f43b57633318f.png",
+              "url": "https://bbs.hycdn.cn/image/2026/09/02/5222db79b46d6c68e58b87008870b226.png",
               "width": 120,
               "height": 120,
-              "size": 5837,
+              "size": 5700,
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/2d89ae4ccb90d129a96a8fd268ac761b.png"
             },
@@ -2352,10 +2352,10 @@
             "name": "游戏官网",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/09/05/fe42cae4f83eb928ccdde2e17ad840c7.png",
+              "url": "https://bbs.hycdn.cn/image/2026/09/02/06e5232bbdbb4a5028ccbea3a9a09e5b.png",
               "width": 120,
               "height": 120,
-              "size": 7462,
+              "size": 7353,
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1e447ecd9f9350f526649a4d48632844.png"
             },
@@ -2412,10 +2412,10 @@
             "name": "泡噗高手",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/06/01/d59d8191407aeaf876ea1d717f9820d9.png",
+              "url": "https://bbs.hycdn.cn/image/2026/09/02/6eda1a821f19c38604b6d915b65a6308.png",
               "width": 120,
               "height": 120,
-              "size": 7698,
+              "size": 7566,
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/d472f6148ad96a3a994becddc770c28f.png"
             },
