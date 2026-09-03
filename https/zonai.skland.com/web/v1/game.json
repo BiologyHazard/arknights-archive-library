@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788462407",
+  "timestamp": "1788479258",
   "data": {
     "list": [
       {
@@ -420,6 +420,36 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 47,
+            "gameId": 1,
+            "name": "更新福利",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/09/01/ba210adafb0240e25582d4140f5d693a.gif",
+              "width": 120,
+              "height": 120,
+              "size": 607717,
+              "format": "gif",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/02ef7648d81cc808ad40eae4cbc53045.gif"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_339264",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://act.skland.com/arknights/upgrade-download?header=0&activityId=act_arknights_339264",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1788474300",
+                "endAtTs": "1789055999"
               },
               "dotType": 0,
               "hotText": ""

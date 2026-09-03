@@ -5,6 +5,30 @@
   "data": {
     "list": [
       {
+        "cid": "8212",
+        "title": "石白深蓝之夜\\n限时寻访开启",
+        "category": 1,
+        "displayTime": "2026-09-04",
+        "updatedAt": 1788417268,
+        "sticky": false
+      },
+      {
+        "cid": "7584",
+        "title": "联动时装\\n限时上架",
+        "category": 1,
+        "displayTime": "2026-09-04",
+        "updatedAt": 1788249366,
+        "sticky": false
+      },
+      {
+        "cid": "0406",
+        "title": "罗德厨房系列\\n限时复刻上架",
+        "category": 1,
+        "displayTime": "2026-09-04",
+        "updatedAt": 1788249324,
+        "sticky": false
+      },
+      {
         "cid": "4849",
         "title": "中坚寻访\\n干员出率上升",
         "category": 1,
@@ -93,14 +117,6 @@
         "sticky": false
       },
       {
-        "cid": "4842",
-        "title": "奇象巡展\\n违规处理公示",
-        "category": 2,
-        "displayTime": "2026-08-12",
-        "updatedAt": 1786520058,
-        "sticky": false
-      },
-      {
         "cid": "6771",
         "title": "【奇象巡展】\\n网页活动开启",
         "category": 4,
@@ -143,7 +159,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "8212"
     }
   }
 }
