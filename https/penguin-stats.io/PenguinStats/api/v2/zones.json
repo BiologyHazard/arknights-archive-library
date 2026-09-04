@@ -7517,5 +7517,45 @@
       "act44side_07_rep",
       "act44side_08_rep"
     ]
+  },
+  {
+    "zoneId": "act54side_zone1",
+    "zoneIndex": 1117,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "月行水上",
+    "zoneName_i18n": {
+      "en": "月行水上",
+      "ja": "月行水上",
+      "ko": "月行水上",
+      "zh": "月行水上"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1788494400000,
+        "closeTime": 1789675200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act54side_01",
+      "act54side_02",
+      "act54side_03",
+      "act54side_04",
+      "act54side_05",
+      "act54side_06",
+      "act54side_07",
+      "act54side_08"
+    ]
   }
 ]
