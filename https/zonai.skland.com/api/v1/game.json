@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788943198",
+  "timestamp": "1788963020",
   "data": {
     "list": [
       {
@@ -487,23 +487,23 @@
             "subtitle": ""
           },
           {
-            "id": 45,
+            "id": 88,
             "gameId": 1,
-            "name": "集成战略",
+            "name": "限时活动",
             "icon": {
               "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "url": "https://bbs.hycdn.cn/image/2026/07/25/26c984d695e929405ff9c337023fe8d9.png",
               "width": 120,
               "height": 120,
-              "size": 2727,
+              "size": 4174,
               "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/25f7872247ac5f3f3b9546db02e58d26.png"
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/530e42bf1e47fccfa6e88b344c409351.png"
             },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fp3r%3Fheader%3D0%26activityId%3Dact_arknights_035945%26c_c%3Dskd",
             "position": 5,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://game.skland.com/arknights/game-record?header=0&currentTopicId=rogue_6",
+            "pcLink": "https://act.skland.com/arknights/p3r?header=0&activityId=act_arknights_035945&c_c=skd",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -564,6 +564,36 @@
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 45,
+            "gameId": 1,
+            "name": "集成战略",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/02/20/09cdb0ebf0892543cd91e24f4ddfafab.png",
+              "width": 120,
+              "height": 120,
+              "size": 2727,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/25f7872247ac5f3f3b9546db02e58d26.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
+            "position": 8,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/arknights/game-record?header=0&currentTopicId=rogue_6",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
