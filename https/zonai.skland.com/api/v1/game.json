@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1788911455",
+  "timestamp": "1788943198",
   "data": {
     "list": [
       {
@@ -1690,6 +1690,36 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 84,
+            "gameId": 3,
+            "name": "限时活动",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
+              "width": 120,
+              "height": 120,
+              "size": 1354,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fmini-game%2Ffrostwind-arrow%3Fheader%3D0%26c_c%3Dskd",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://act.skland.com/mini-game/frostwind-arrow?header=0&c_c=skd",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1788926532",
+                "endAtTs": "1789056000"
               },
               "dotType": 0,
               "hotText": ""
