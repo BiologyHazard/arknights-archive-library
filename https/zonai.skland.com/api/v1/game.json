@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1789083863",
+  "timestamp": "1789115772",
   "data": {
     "list": [
       {
@@ -1787,6 +1787,32 @@
             "subtitle": ""
           },
           {
+            "id": 103,
+            "gameId": 3,
+            "name": "云游戏",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/09/11/3f6b38e825d40d81d9129c9126034f5f.png",
+              "width": 120,
+              "height": 120,
+              "size": 2615,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/11/ffc75026d67222a18cdbba81060b4ec6.png"
+            },
+            "link": "skland://gameCenterDetail?appCode=EjOB8xSdBmtLnzCX",
+            "position": 10,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "",
+            "pcStatus": 1,
+            "redDot": {
+              "isEnabled": false,
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 72,
             "gameId": 3,
             "name": "WIKI",
@@ -1800,7 +1826,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/9c436735107d33fa7a14fbc7c0c4d1dc.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
@@ -1830,7 +1856,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/5d21c19d0abf790326b8284f7fb58b1f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
@@ -1860,7 +1886,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/c67dbd490886cf55ce393aa890932a70.png"
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Farknightsendfieldyx.tmall.com&fallback=https%3A%2F%2Farknightsendfieldyx.tmall.com&alert=true",
-            "position": 12,
+            "position": 13,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://arknightsendfieldyx.tmall.com",
@@ -1890,7 +1916,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/58ebb9276b030a9360ba19c2038b91eb.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
@@ -1920,7 +1946,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/06e17ad3aff64b7eb441bdf968ff1d8b.png"
             },
             "link": "skland://user?id=133",
-            "position": 14,
+            "position": 15,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://comic.hypergryph.com/talos-ii-historicus/",
