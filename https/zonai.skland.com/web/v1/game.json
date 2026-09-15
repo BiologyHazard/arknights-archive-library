@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1789431551",
+  "timestamp": "1789463561",
   "data": {
     "list": [
       {
@@ -3075,7 +3075,7 @@
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/e1a69bdf9d39e55319c90798f5e318e0.png"
             },
-            "link": "skland://weeklyMustWatch?id=74",
+            "link": "skland://weeklyMustWatch?id=75",
             "position": 1,
             "status": 2,
             "startAtTs": 0,
@@ -3211,6 +3211,22 @@
       {
         "name": "版区",
         "kind": "GAME"
+      },
+      {
+        "name": "周年环岛赛",
+        "icon": {
+          "id": "",
+          "url": "https://bbs.hycdn.cn/image/common/20260914/407089/6aa76261eac312a50a66439b_13673ac9.png",
+          "width": 319,
+          "height": 78,
+          "size": 0,
+          "format": "",
+          "darkModeUrl": ""
+        },
+        "kind": "H5",
+        "h5": {
+          "url": "https://act.skland.com/bbs/anni-3rd?header=0&c_c=skd"
+        }
       }
     ]
   }
