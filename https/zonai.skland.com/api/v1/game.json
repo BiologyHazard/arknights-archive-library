@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1789740407",
+  "timestamp": "1789757600",
   "data": {
     "list": [
       {
@@ -510,6 +510,36 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 64,
+            "gameId": 1,
+            "name": "历程报告",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/09/01/57955649fa9ccf03ec285b66e00c4c6b.png",
+              "width": 120,
+              "height": 120,
+              "size": 2619,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/e0f5983e980d17c6a019b878002ed8a9.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fevent.skland.com%2Factivity%2Fak_act_report%2Fak_act_report-h8su1xw7%3Fheader%3D0",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://event.skland.com/activity/ak_act_report/ak_act_report-h8su1xw7?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1789747200",
+                "endAtTs": "1791820799"
               },
               "dotType": 0,
               "hotText": ""
