@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "7581",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2026-09-24",
+        "updatedAt": 1789471658,
+        "sticky": false
+      },
+      {
         "cid": "1067",
         "title": "国庆节未成年人\\n游戏限时通知",
         "category": 2,
@@ -34,14 +42,6 @@
         "category": 1,
         "displayTime": "2026-09-15",
         "updatedAt": 1789465750,
-        "sticky": false
-      },
-      {
-        "cid": "4848",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2026-09-10",
-        "updatedAt": 1788765486,
         "sticky": false
       },
       {
@@ -111,7 +111,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "7581"
     }
   }
 }
