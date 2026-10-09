@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1791510304",
+  "timestamp": "1791544082",
   "data": {
     "list": [
       {
@@ -427,6 +427,36 @@
             "subtitle": ""
           },
           {
+            "id": 79,
+            "gameId": 1,
+            "name": "活动战绩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/05/01/937c2dbb6256a808f6b185cbd496bf60.gif",
+              "width": 120,
+              "height": 120,
+              "size": 70775,
+              "format": "gif",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/eca773df0f80344316d0ba7db02cadd3.gif"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2F36ded9133804-yet-another-wave%3Fheader%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://www.skland.com/act/ak/36ded9133804-yet-another-wave?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1791519254",
+                "endAtTs": "1791907199"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 31,
             "gameId": 1,
             "name": "工具箱",
@@ -440,7 +470,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/e13af5ebb542b033453e95e1fd897c6a.png"
             },
             "link": "skland://gameTools?fallback=skland%3A%2F%2Frn%3FmoduleName%3DToolbox%26gameId%3D1",
-            "position": 4,
+            "position": 3,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
@@ -470,7 +500,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/02ef7648d81cc808ad40eae4cbc53045.gif"
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_898344",
-            "position": 5,
+            "position": 4,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://act.skland.com/arknights/upgrade-download?header=0&activityId=act_arknights_898344",
@@ -480,6 +510,36 @@
               "timeRange": {
                 "startAtTs": "1791498000",
                 "endAtTs": "1792079999"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 88,
+            "gameId": 1,
+            "name": "限时任务",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/07/25/26c984d695e929405ff9c337023fe8d9.png",
+              "width": 120,
+              "height": 120,
+              "size": 4174,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/530e42bf1e47fccfa6e88b344c409351.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fcollab-mission%3Fheader%3D0%26activityId%3Dact_arknights_253103",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://act.skland.com/arknights/collab-mission?header=0&activityId=act_arknights_253103",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1791518616",
+                "endAtTs": "1792699199"
               },
               "dotType": 0,
               "hotText": ""
