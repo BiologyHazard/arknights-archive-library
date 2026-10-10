@@ -7557,5 +7557,45 @@
       "act54side_07",
       "act54side_08"
     ]
+  },
+  {
+    "zoneId": "act52side_zone1",
+    "zoneIndex": 1118,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "昨日海",
+    "zoneName_i18n": {
+      "en": "昨日海",
+      "ja": "昨日海",
+      "ko": "昨日海",
+      "zh": "昨日海"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1791518400000,
+        "closeTime": 1792699200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": null,
+    "stages": [
+      "act52side_01",
+      "act52side_02",
+      "act52side_03",
+      "act52side_04",
+      "act52side_05",
+      "act52side_06",
+      "act52side_07",
+      "act52side_08"
+    ]
   }
 ]
