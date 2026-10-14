@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1791989595",
+  "timestamp": "1792007953",
   "data": {
     "list": [
       {
@@ -1620,7 +1620,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/b86175c4ffea0a4d1b6d042117f74d1f.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fendfield%2Fgame-data%3Fheader%3D0",
-            "position": 3,
+            "position": 2,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
@@ -1660,36 +1660,6 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
-            "id": 84,
-            "gameId": 3,
-            "name": "限时任务",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
-              "width": 120,
-              "height": 120,
-              "size": 1354,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fdreamscape%3Fheader%3D0%26activityId%3Dact_endfield_049760",
-            "position": 7,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://act.skland.com/endfield/dreamscape?header=0&activityId=act_endfield_049760",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1790223680",
-                "endAtTs": "1791993600"
               },
               "dotType": 0,
               "hotText": ""
