@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1792054390",
+  "timestamp": "1792075218",
   "data": {
     "list": [
       {
@@ -480,36 +480,6 @@
               "timeRange": {
                 "startAtTs": "0",
                 "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
-            "id": 47,
-            "gameId": 1,
-            "name": "更新福利",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/09/01/ba210adafb0240e25582d4140f5d693a.gif",
-              "width": 120,
-              "height": 120,
-              "size": 607717,
-              "format": "gif",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/02ef7648d81cc808ad40eae4cbc53045.gif"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_898344",
-            "position": 4,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://act.skland.com/arknights/upgrade-download?header=0&activityId=act_arknights_898344",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1791498000",
-                "endAtTs": "1792079999"
               },
               "dotType": 0,
               "hotText": ""
@@ -1697,6 +1667,36 @@
             "subtitle": ""
           },
           {
+            "id": 103,
+            "gameId": 3,
+            "name": "一键云玩",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/09/11/3f6b38e825d40d81d9129c9126034f5f.png",
+              "width": 120,
+              "height": 120,
+              "size": 2615,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/11/ffc75026d67222a18cdbba81060b4ec6.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2Fcloud%3Fheader%3D0%26ctr_orientation%3Dlandscape%26hg_media%3Dskland",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://endfield.hypergryph.com/cloud?header=0&ctr_orientation=landscape&hg_media=skland",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 86,
             "gameId": 3,
             "name": "养成计算器",
@@ -1710,7 +1710,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
-            "position": 6,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
@@ -1740,7 +1740,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/bd4b50e7dfd0539127b70df8eb2814ff.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
-            "position": 8,
+            "position": 9,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
@@ -1770,40 +1770,10 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/370f73745005bcf6216e9117c1b03c8e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
-            "position": 9,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://game.skland.com/map/endfield?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
-            "id": 103,
-            "gameId": 3,
-            "name": "一键云玩",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/09/11/3f6b38e825d40d81d9129c9126034f5f.png",
-              "width": 120,
-              "height": 120,
-              "size": 2615,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/11/ffc75026d67222a18cdbba81060b4ec6.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2Fcloud%3Fheader%3D0%26ctr_orientation%3Dlandscape%26hg_media%3Dskland",
             "position": 10,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://endfield.hypergryph.com/cloud?header=0&ctr_orientation=landscape&hg_media=skland",
+            "pcLink": "https://game.skland.com/map/endfield?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
