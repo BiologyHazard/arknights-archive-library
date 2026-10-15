@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1792023451",
+  "timestamp": "1792054387",
   "data": {
     "list": [
       {
@@ -1667,6 +1667,36 @@
             "subtitle": ""
           },
           {
+            "id": 84,
+            "gameId": 3,
+            "name": "限时任务",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
+              "width": 120,
+              "height": 120,
+              "size": 1354,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsanctuary%3Fheader%3D0%26activityId%3Dact_endfield_948507",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://act.skland.com/endfield/sanctuary?header=0&activityId=act_endfield_948507",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1792041352",
+                "endAtTs": "1793829599"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 86,
             "gameId": 3,
             "name": "养成计算器",
@@ -1680,7 +1710,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
@@ -1759,7 +1789,7 @@
           {
             "id": 103,
             "gameId": 3,
-            "name": "云游戏",
+            "name": "一键云玩",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2026/09/11/3f6b38e825d40d81d9129c9126034f5f.png",
@@ -1769,14 +1799,18 @@
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/11/ffc75026d67222a18cdbba81060b4ec6.png"
             },
-            "link": "skland://gameCenterDetail?appCode=EjOB8xSdBmtLnzCX",
+            "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2Fcloud%3Fheader%3D0%26ctr_orientation%3Dlandscape%26hg_media%3Dskland",
             "position": 10,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "",
-            "pcStatus": 1,
+            "pcLink": "https://endfield.hypergryph.com/cloud?header=0&ctr_orientation=landscape&hg_media=skland",
+            "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
               "dotType": 0,
               "hotText": ""
             },
