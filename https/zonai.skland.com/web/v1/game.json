@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1792628763",
+  "timestamp": "1792660240",
   "data": {
     "list": [
       {
@@ -1637,6 +1637,36 @@
             "subtitle": ""
           },
           {
+            "id": 102,
+            "gameId": 3,
+            "name": "开拓日志",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/09/02/02418aa0a507f8d38aa3cb539867f480.png",
+              "width": 120,
+              "height": 120,
+              "size": 9282,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/02/86bee4da373d3f2404f18dc1a1c06dee.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fevent.skland.com%2Factivity%2Fendfield_data_report%2Fdreamscape%3Fheader%3D0",
+            "position": 5,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://event.skland.com/activity/endfield_data_report/dreamscape?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1792655301",
+                "endAtTs": "1795103999"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 103,
             "gameId": 3,
             "name": "一键云玩",
@@ -1650,7 +1680,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/11/ffc75026d67222a18cdbba81060b4ec6.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2Fcloud%3Fheader%3D0%26ctr_orientation%3Dlandscape%26hg_media%3Dskland",
-            "position": 5,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://endfield.hypergryph.com/cloud?header=0&ctr_orientation=landscape&hg_media=skland",
