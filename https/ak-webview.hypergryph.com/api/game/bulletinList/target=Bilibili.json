@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "5688",
+        "title": "常驻标准寻访\\n限时出率上升",
+        "category": 1,
+        "displayTime": "2026-10-22",
+        "updatedAt": 1792479968,
+        "sticky": false
+      },
+      {
         "cid": "7571",
         "title": "「制作组通讯」\\n#70期",
         "category": 2,
@@ -85,14 +93,6 @@
         "sticky": false
       },
       {
-        "cid": "2932",
-        "title": "常驻标准寻访\\n限时出率上升",
-        "category": 1,
-        "displayTime": "2026-10-08",
-        "updatedAt": 1790675712,
-        "sticky": false
-      },
-      {
         "cid": "6774",
         "title": "【昨日海】\\n活动即将开启",
         "category": 1,
@@ -127,7 +127,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "5688"
     }
   }
 }
