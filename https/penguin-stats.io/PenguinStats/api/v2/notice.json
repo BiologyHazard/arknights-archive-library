@@ -46,29 +46,5 @@
       "ko": "You can switch server using the switcher at the top-right corner.\nFollow us on Twitter at [@penguin_stats](https://twitter.com/penguin_stats)",
       "zh": "企鹅物流数据统计官方 iOS App 已正式上线！[前往 App Store 下载](https://apps.apple.com/app/apple-store/id1533665292?pt=122166281&ct=web:zh&mt=8)\n若您在使用中遇到问题，可通过首页右下的客服系统联系我们。"
     }
-  },
-  {
-    "id": 7,
-    "existence": {
-      "CN": {
-        "exist": true
-      },
-      "JP": {
-        "exist": true
-      },
-      "KR": {
-        "exist": true
-      },
-      "US": {
-        "exist": true
-      }
-    },
-    "severity": 0,
-    "content_i18n": {
-      "en": "## Database migration\n\nPenguin Statistics will migrate its database from 15:00 to about 20:00 UTC on October 23, 2026:\n\n- Pacific Time (PDT, UTC−7): 8:00 AM to about 1:00 PM\n- Central Time (CDT, UTC−5): 10:00 AM to about 3:00 PM\n- Eastern Time (EDT, UTC−4): 11:00 AM to about 4:00 PM\n\nReporting and browsing are expected to work as usual. Drop statistics pause during the migration; every report is counted once it finishes, and none is lost.\n\nThe migration may take longer; if it does, we will post an update.",
-      "ja": "## データベース移行メンテナンス\n\nペンギン急便は日本時間（UTC+9）2026 年 10 月 23 日 24:00 ～ 10 月 24 日 5:00 頃にデータベースの移行を行います。\n\n報告と閲覧への影響はない見込みです。期間中はドロップ統計の更新が停止しますが、すべての報告は移行後に反映され、失われることはありません。\n\n作業が延長される場合があります。その際は改めてお知らせします。",
-      "ko": "## 데이터베이스 이전 점검\n\n펭귄 물류는 한국 시간(UTC+9) 2026년 10월 24일 00:00 ~ 05:00경 데이터베이스 이전 작업을 진행합니다.\n\n보고와 사이트 이용에는 영향이 없을 것으로 예상됩니다. 작업 중에는 드롭 통계 갱신이 일시 중지되며, 모든 보고는 이전 완료 후 반영되어 사라지지 않습니다.\n\n작업이 연장될 수 있으며, 변경 시 다시 안내드리겠습니다.",
-      "zh": "## 数据库迁移闪断更新\n\n企鹅物流计划将于北京时间（UTC+8）2026 年 10 月 23 日 23:00 ~ 10 月 24 日 04:00 期间进行数据库迁移闪断更新。\n\n预计上报和访问都不会受到影响。期间掉落统计暂停刷新，所有上报都会在迁移完成后计入，不会丢失。\n\n本次更新不排除延长的可能，如有变化将另行通知。"
-    }
   }
 ]

@@ -5040,17 +5040,17 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 1,
           "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       }
     ]
@@ -5556,17 +5556,17 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 1,
           "upper": 2
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       }
     ]
@@ -6556,17 +6556,17 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 1,
           "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       }
     ]
@@ -7482,13 +7482,6 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "NORMAL_DROP",
         "bounds": {
           "lower": 0,
@@ -7508,6 +7501,13 @@
         "bounds": {
           "lower": 0,
           "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       },
       {
@@ -14631,14 +14631,14 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
+        "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 0,
           "upper": 0
         }
       },
       {
-        "dropType": "EXTRA_DROP",
+        "dropType": "SPECIAL_DROP",
         "bounds": {
           "lower": 0,
           "upper": 0
@@ -21146,18 +21146,18 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "itemId": "31043",
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 0,
           "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       },
       {
@@ -43838,14 +43838,6 @@
         }
       },
       {
-        "itemId": "2001",
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 2
-        }
-      },
-      {
         "itemId": "30022",
         "dropType": "EXTRA_DROP",
         "bounds": {
@@ -43897,6 +43889,14 @@
         "bounds": {
           "lower": 0,
           "upper": 0
+        }
+      },
+      {
+        "itemId": "2001",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 2
         }
       },
       {
@@ -52347,17 +52347,17 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 1,
           "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       },
       {
@@ -55336,13 +55336,6 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 0,
@@ -55355,6 +55348,13 @@
         "bounds": {
           "lower": 0,
           "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       }
     ]
@@ -63519,17 +63519,17 @@
         }
       },
       {
-        "dropType": "SPECIAL_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 0
-        }
-      },
-      {
         "dropType": "EXTRA_DROP",
         "bounds": {
           "lower": 0,
           "upper": 1
+        }
+      },
+      {
+        "dropType": "SPECIAL_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 0
         }
       },
       {
@@ -89716,14 +89716,6 @@
     "minClearTime": 257000,
     "dropInfos": [
       {
-        "itemId": "2001",
-        "dropType": "EXTRA_DROP",
-        "bounds": {
-          "lower": 0,
-          "upper": 3
-        }
-      },
-      {
         "itemId": "30021",
         "dropType": "EXTRA_DROP",
         "bounds": {
@@ -89822,6 +89814,14 @@
         "bounds": {
           "lower": 0,
           "upper": 1
+        }
+      },
+      {
+        "itemId": "2001",
+        "dropType": "EXTRA_DROP",
+        "bounds": {
+          "lower": 0,
+          "upper": 3
         }
       },
       {
