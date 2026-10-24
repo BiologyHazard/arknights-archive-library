@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1792831204",
+  "timestamp": "1792849810",
   "data": {
     "list": [
       {
@@ -3185,8 +3185,24 @@
       {
         "name": "版区",
         "kind": "GAME"
+      },
+      {
+        "name": "前瞻直播",
+        "icon": {
+          "id": "",
+          "url": "https://bbs.hycdn.cn/image/2026/10/23/cd60bdb5197f115120c6f1d2187a5b93.png",
+          "width": 198,
+          "height": 78,
+          "size": 14023,
+          "format": "png",
+          "darkModeUrl": ""
+        },
+        "kind": "H5",
+        "h5": {
+          "url": "https://act.skland.com/community/live?liveId=live_skland_240942&header=0"
+        }
       }
     ],
-    "nextRefreshAtTs": "1792832463"
+    "nextRefreshAtTs": "1792854003"
   }
 }
