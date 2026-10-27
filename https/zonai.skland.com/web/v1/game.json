@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1793063409",
+  "timestamp": "1793093847",
   "data": {
     "list": [
       {
@@ -457,36 +457,6 @@
             "subtitle": ""
           },
           {
-            "id": 31,
-            "gameId": 1,
-            "name": "工具箱",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2024/03/27/5d2c710278d3ae6ed1bf7ea52c8ef12f.png",
-              "width": 120,
-              "height": 120,
-              "size": 9580,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/e13af5ebb542b033453e95e1fd897c6a.png"
-            },
-            "link": "skland://gameTools?fallback=skland%3A%2F%2Frn%3FmoduleName%3DToolbox%26gameId%3D1",
-            "position": 3,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://www.skland.com/download?type=akToolbox",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
             "id": 64,
             "gameId": 1,
             "name": "历程报告",
@@ -500,7 +470,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/e0f5983e980d17c6a019b878002ed8a9.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fevent.skland.com%2Factivity%2Fak_act_report%2Fak_act_report-yet%3Fheader%3D0",
-            "position": 6,
+            "position": 5,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://event.skland.com/activity/ak_act_report/ak_act_report-yet?header=0",
@@ -530,7 +500,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/25f7872247ac5f3f3b9546db02e58d26.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
-            "position": 7,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/game-record?header=0&currentTopicId=rogue_6",
@@ -560,7 +530,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/84f32b749426559b305043a473932046.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 8,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
@@ -590,10 +560,40 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/8fc2cbee05d09584462b34733b373007.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 9,
+            "position": 8,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 31,
+            "gameId": 1,
+            "name": "工具箱",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2024/03/27/5d2c710278d3ae6ed1bf7ea52c8ef12f.png",
+              "width": 120,
+              "height": 120,
+              "size": 9580,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/e13af5ebb542b033453e95e1fd897c6a.png"
+            },
+            "link": "skland://gameTools?fallback=skland%3A%2F%2Frn%3FmoduleName%3DToolbox%26gameId%3D1",
+            "position": 9,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://www.skland.com/download?type=akToolbox",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -3049,7 +3049,7 @@
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/e1a69bdf9d39e55319c90798f5e318e0.png"
             },
-            "link": "skland://weeklyMustWatch?id=80",
+            "link": "skland://weeklyMustWatch?id=81",
             "position": 1,
             "status": 2,
             "startAtTs": 0,
