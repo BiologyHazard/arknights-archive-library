@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1793493966",
+  "timestamp": "1793531145",
   "data": {
     "id": "char_4039_horn",
     "mainSkillLevelCost": [
@@ -399,6 +399,41 @@
           }
         ],
         "shiningColor": "red"
+      },
+      {
+        "id": "uniequip_004_horn",
+        "name": "号角特限证章",
+        "typeName": "isw-a",
+        "levelCost": [
+          {
+            "level": 1,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 2,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "level": 3,
+            "items": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "shiningColor": "purple"
       }
     ],
     "evolvePhaseCost": [

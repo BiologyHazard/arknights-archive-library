@@ -1,35 +1,47 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1793493755",
+  "timestamp": "1793530950",
   "data": {
-    "postedAtTs": 1785558101,
-    "description": "本次新增干员：6★ 水月、5★ 羽毛笔",
+    "postedAtTs": 1793505600,
+    "description": "本次新增干员：6★ 琴柳 、 5★ 桑葚  、4★ 罗比菈塔",
     "characters": [
       {
-        "charId": "char_437_mizuki",
+        "charId": "char_479_sleach",
         "tagIds": [
-          7,
+          8,
           11,
           9,
-          19,
-          12
+          18,
+          16
         ],
-        "name": "水月",
+        "name": "琴柳",
         "rarity": 5,
-        "profession": "SPECIAL"
+        "profession": "PIONEER"
       },
       {
-        "charId": "char_421_crow",
+        "charId": "char_473_mberry",
         "tagIds": [
-          1,
+          4,
           14,
-          9,
-          19
+          10,
+          15
         ],
-        "name": "羽毛笔",
+        "name": "桑葚",
         "rarity": 4,
-        "profession": "WARRIOR"
+        "profession": "MEDIC"
+      },
+      {
+        "charId": "char_484_robrta",
+        "tagIds": [
+          5,
+          9,
+          22,
+          16
+        ],
+        "name": "罗比菈塔",
+        "rarity": 3,
+        "profession": "SUPPORT"
       }
     ]
   }
