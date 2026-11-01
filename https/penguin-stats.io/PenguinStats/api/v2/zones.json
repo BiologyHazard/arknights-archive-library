@@ -7597,5 +7597,47 @@
       "act52side_07",
       "act52side_08"
     ]
+  },
+  {
+    "zoneId": "act55side_zone1",
+    "zoneIndex": 1119,
+    "type": "ACTIVITY",
+    "subType": null,
+    "zoneName": "时间啊，向前！",
+    "zoneName_i18n": {
+      "en": "时间啊，向前！",
+      "ja": "时间啊，向前！",
+      "ko": "时间啊，向前！",
+      "zh": "时间啊，向前！"
+    },
+    "existence": {
+      "CN": {
+        "exist": true,
+        "openTime": 1793505600000,
+        "closeTime": 1795291200000
+      },
+      "JP": {
+        "exist": false
+      },
+      "KR": {
+        "exist": false
+      },
+      "US": {
+        "exist": false
+      }
+    },
+    "background": "/backgrounds/zones/act55side_zone1.jpg",
+    "stages": [
+      "act55side_01",
+      "act55side_02",
+      "act55side_03",
+      "act55side_04",
+      "act55side_05",
+      "act55side_06",
+      "act55side_07",
+      "act55side_08",
+      "act55side_09",
+      "act55side_10"
+    ]
   }
 ]
