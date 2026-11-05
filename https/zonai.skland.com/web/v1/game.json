@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1793843969",
+  "timestamp": "1793879592",
   "data": {
     "list": [
       {
@@ -1626,10 +1626,10 @@
             "pcLink": "https://game.skland.com/endfield/game-data?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
+                "startAtTs": "1793874435",
+                "endAtTs": "1794326399"
               },
               "dotType": 0,
               "hotText": ""
@@ -1649,17 +1649,17 @@
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
             },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsanctuary%3Fheader%3D0%26activityId%3Dact_endfield_948507",
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsanctuary-part2%3FactivityId%3Dact_endfield_788423%26header%3D0",
             "position": 4,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://act.skland.com/endfield/sanctuary?header=0&activityId=act_endfield_948507",
+            "pcLink": "https://act.skland.com/endfield/sanctuary-part2?activityId=act_endfield_788423&header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": false,
+              "isEnabled": true,
               "timeRange": {
-                "startAtTs": "1792041352",
-                "endAtTs": "1793829599"
+                "startAtTs": "1793851933",
+                "endAtTs": "1795557599"
               },
               "dotType": 0,
               "hotText": ""
