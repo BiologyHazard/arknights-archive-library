@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1794135766",
+  "timestamp": "1794168746",
   "data": {
     "list": [
       {
@@ -427,6 +427,36 @@
             "subtitle": ""
           },
           {
+            "id": 104,
+            "gameId": 1,
+            "name": "卫戍协议攻略",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/11/08/abc9bce4a1b7d64a5eec9bf4f914fc4a.png",
+              "width": 120,
+              "height": 120,
+              "size": 9849,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/11/08/5c73e64b51e87d4b94b4790604c36dc8.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fstronghold-guide%3Fheader%3D0",
+            "position": 2,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/arknights/stronghold-guide?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1794137060",
+                "endAtTs": "1794758399"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 79,
             "gameId": 1,
             "name": "活动战绩",
@@ -440,13 +470,13 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/eca773df0f80344316d0ba7db02cadd3.gif"
             },
             "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fact%2Fak%2Fa07d31b5853c-vremya-vperyod%3Fheader%3D0",
-            "position": 2,
+            "position": 3,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/act/ak/a07d31b5853c-vremya-vperyod?header=0",
             "pcStatus": 2,
             "redDot": {
-              "isEnabled": true,
+              "isEnabled": false,
               "timeRange": {
                 "startAtTs": "1793507768",
                 "endAtTs": "1794153599"
@@ -487,36 +517,6 @@
             "subtitle": ""
           },
           {
-            "id": 47,
-            "gameId": 1,
-            "name": "更新福利",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/09/01/ba210adafb0240e25582d4140f5d693a.gif",
-              "width": 120,
-              "height": 120,
-              "size": 607717,
-              "format": "gif",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/02ef7648d81cc808ad40eae4cbc53045.gif"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Farknights%2Fupgrade-download%3Fheader%3D0%26activityId%3Dact_arknights_324553",
-            "position": 5,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://act.skland.com/arknights/upgrade-download?header=0&activityId=act_arknights_324553",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "1793485200",
-                "endAtTs": "1794067199"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
             "id": 45,
             "gameId": 1,
             "name": "集成战略",
@@ -530,40 +530,10 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/25f7872247ac5f3f3b9546db02e58d26.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fgame-record%3Fheader%3D0%26currentTopicId%3Drogue_6",
-            "position": 6,
+            "position": 5,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/game-record?header=0&currentTopicId=rogue_6",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
-            "id": 15,
-            "gameId": 1,
-            "name": "WIKI",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2023/07/13/a47332bc07c087e04228ecbd984ac729.png",
-              "width": 120,
-              "height": 120,
-              "size": 3474,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/84f32b749426559b305043a473932046.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
-            "position": 7,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -590,7 +560,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/8fc2cbee05d09584462b34733b373007.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Foperator%2Flist%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 8,
+            "position": 6,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/arknights/operator/list?header=0&bg_color=1e1e1e",
@@ -727,36 +697,6 @@
             "subtitle": ""
           },
           {
-            "id": 87,
-            "gameId": 1,
-            "name": "支付中心",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/07/22/941c351e095377bfe610372c4ed514d1.webp",
-              "width": 120,
-              "height": 120,
-              "size": 4900,
-              "format": "webp",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/15d909af27462d607d2e24a102027c88.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights",
-            "position": 13,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://user.hypergryph.com/payment/arknights",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
             "id": 49,
             "gameId": 1,
             "name": "养成计算器",
@@ -770,10 +710,70 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/c309bd783c337ce1a1ad6a25837bf8e1.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Farknights%2Fcost-calculator%3Fheader%3D0%26bg_color%3D1e1e1e",
-            "position": 14,
+            "position": 13,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://www.skland.com/download?type=akToolbox",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 15,
+            "gameId": 1,
+            "name": "WIKI",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2023/07/13/a47332bc07c087e04228ecbd984ac729.png",
+              "width": 120,
+              "height": 120,
+              "size": 3474,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/84f32b749426559b305043a473932046.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fm.prts.wiki%2Fw%2F%25E9%25A6%2596%25E9%25A1%25B5",
+            "position": 14,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://prts.wiki/w/%E9%A6%96%E9%A1%B5",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": false,
+              "timeRange": {
+                "startAtTs": "0",
+                "endAtTs": "0"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 87,
+            "gameId": 1,
+            "name": "支付中心",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/07/22/941c351e095377bfe610372c4ed514d1.webp",
+              "width": 120,
+              "height": 120,
+              "size": 4900,
+              "format": "webp",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/15d909af27462d607d2e24a102027c88.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights",
+            "position": 15,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://user.hypergryph.com/payment/arknights",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
