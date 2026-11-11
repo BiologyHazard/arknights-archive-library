@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "4835",
+        "title": "【中坚甄选】\\n限时寻访开启",
+        "category": 1,
+        "displayTime": "2026-11-12",
+        "updatedAt": 1794307937,
+        "sticky": false
+      },
+      {
         "cid": "7577",
         "title": "卫戍协议\\n攻略工具上线",
         "category": 4,
@@ -106,14 +114,6 @@
         "category": 4,
         "displayTime": "2026-10-30",
         "updatedAt": 1793006677,
-        "sticky": false
-      },
-      {
-        "cid": "0495",
-        "title": "中坚寻访\\n干员出率上升",
-        "category": 1,
-        "displayTime": "2026-10-29",
-        "updatedAt": 1793189361,
         "sticky": false
       },
       {
@@ -263,7 +263,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "7577"
     }
   }
 }
