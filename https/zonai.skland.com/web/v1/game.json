@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1794792903",
+  "timestamp": "1794831986",
   "data": {
     "list": [
       {
@@ -429,7 +429,7 @@
           {
             "id": 41,
             "gameId": 1,
-            "name": "卫戍协议战绩",
+            "name": "卫戍战绩",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2026/09/01/890179bdcc45c40a721ac8e3d0cc0279.png",
@@ -459,7 +459,7 @@
           {
             "id": 104,
             "gameId": 1,
-            "name": "卫戍协议攻略",
+            "name": "卫戍攻略",
             "icon": {
               "id": "",
               "url": "https://bbs.hycdn.cn/image/2026/11/08/abc9bce4a1b7d64a5eec9bf4f914fc4a.png",
@@ -478,8 +478,8 @@
             "redDot": {
               "isEnabled": false,
               "timeRange": {
-                "startAtTs": "1794137060",
-                "endAtTs": "1794758399"
+                "startAtTs": "0",
+                "endAtTs": "0"
               },
               "dotType": 0,
               "hotText": ""
