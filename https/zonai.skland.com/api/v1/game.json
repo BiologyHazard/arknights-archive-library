@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1795128865",
+  "timestamp": "1795177831",
   "data": {
     "list": [
       {
@@ -1637,6 +1637,96 @@
             "subtitle": ""
           },
           {
+            "id": 75,
+            "gameId": 3,
+            "name": "配队工具",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/01/21/960653d9094eaf8c4e57bd9b06906e84.png",
+              "width": 120,
+              "height": 120,
+              "size": 3415,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/bd4b50e7dfd0539127b70df8eb2814ff.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fsmart-rec-list%3Fheader%3D0%26routeId%3D0%26ctr_orientation%3Dlandscape",
+            "position": 3,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/tools/endfield/smart-rec-list?header=0&routeId=0&ctr_orientation=landscape",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1795147260",
+                "endAtTs": "1795449600"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 70,
+            "gameId": 3,
+            "name": "养成建议",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2025/11/28/f39eeca296a785584976473006a512b9.png",
+              "width": 120,
+              "height": 120,
+              "size": 3158,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/5d21c19d0abf790326b8284f7fb58b1f.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fsmart-build-guide%3Fheader%3D0%26routeId%3D1%26ctr_orientation%3Dlandscape",
+            "position": 4,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://game.skland.com/tools/endfield/smart-build-guide?header=0&routeId=1&ctr_orientation=landscape",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1795147260",
+                "endAtTs": "1795449600"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
+            "id": 102,
+            "gameId": 3,
+            "name": "开拓日志",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/09/02/02418aa0a507f8d38aa3cb539867f480.png",
+              "width": 120,
+              "height": 120,
+              "size": 9282,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/02/86bee4da373d3f2404f18dc1a1c06dee.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fevent.skland.com%2Factivity%2Fendfield_data_report%2Fsanctuary%3Fheader%3D0",
+            "position": 6,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://event.skland.com/activity/endfield_data_report/sanctuary?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1795172061",
+                "endAtTs": "1795795199"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 84,
             "gameId": 3,
             "name": "限时任务",
@@ -1650,7 +1740,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsanctuary-part2%3FactivityId%3Dact_endfield_788423%26header%3D0",
-            "position": 4,
+            "position": 7,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://act.skland.com/endfield/sanctuary-part2?activityId=act_endfield_788423&header=0",
@@ -1680,7 +1770,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/11/ffc75026d67222a18cdbba81060b4ec6.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fendfield.hypergryph.com%2Fcloud%3Fheader%3D0%26ctr_orientation%3Dlandscape%26hg_media%3Dskland",
-            "position": 6,
+            "position": 8,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://endfield.hypergryph.com/cloud?header=0&ctr_orientation=landscape&hg_media=skland",
@@ -1710,40 +1800,10 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
-            "position": 7,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
-            "id": 75,
-            "gameId": 3,
-            "name": "配队工具",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/01/21/960653d9094eaf8c4e57bd9b06906e84.png",
-              "width": 120,
-              "height": 120,
-              "size": 3415,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/bd4b50e7dfd0539127b70df8eb2814ff.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Frec-team%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D0",
             "position": 9,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://game.skland.com/tools/endfield/rec-team?header=0&ctr_orientation=landscape&routeId=0",
+            "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -1770,7 +1830,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/370f73745005bcf6216e9117c1b03c8e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
-            "position": 10,
+            "position": 11,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/map/endfield?header=0",
@@ -1800,40 +1860,10 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/9c436735107d33fa7a14fbc7c0c4d1dc.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
-            "position": 11,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": false,
-              "timeRange": {
-                "startAtTs": "0",
-                "endAtTs": "0"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
-            "id": 70,
-            "gameId": 3,
-            "name": "养成建议",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2025/11/28/f39eeca296a785584976473006a512b9.png",
-              "width": 120,
-              "height": 120,
-              "size": 3158,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/5d21c19d0abf790326b8284f7fb58b1f.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fbuild-guide%3Fheader%3D0%26ctr_orientation%3Dlandscape%26routeId%3D1",
             "position": 12,
             "status": 2,
             "startAtTs": 0,
-            "pcLink": "https://game.skland.com/tools/endfield/build-guide?header=0&ctr_orientation=landscape&routeId=1",
+            "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
             "pcStatus": 2,
             "redDot": {
               "isEnabled": false,
@@ -3185,7 +3215,24 @@
       {
         "name": "版区",
         "kind": "GAME"
+      },
+      {
+        "name": "前瞻直播",
+        "icon": {
+          "id": "",
+          "url": "https://bbs.hycdn.cn/image/2026/11/20/002e48ab53d44e58a7a2f96d9b374ab0.png",
+          "width": 198,
+          "height": 78,
+          "size": 14023,
+          "format": "png",
+          "darkModeUrl": ""
+        },
+        "kind": "H5",
+        "h5": {
+          "url": "https://act.skland.com/community/live?liveId=live_skland_079568&header=0"
+        }
       }
-    ]
+    ],
+    "nextRefreshAtTs": "1795273203"
   }
 }
