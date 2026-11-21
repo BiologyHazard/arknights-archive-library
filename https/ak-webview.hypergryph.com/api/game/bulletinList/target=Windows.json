@@ -5,6 +5,14 @@
   "data": {
     "list": [
       {
+        "cid": "8205",
+        "title": "雷神推进者系列\\n新装限时上架",
+        "category": 1,
+        "displayTime": "2026-11-22",
+        "updatedAt": 1794983770,
+        "sticky": false
+      },
+      {
         "cid": "5683",
         "title": "常驻标准寻访\\n限时出率上升",
         "category": 1,
@@ -66,14 +74,6 @@
         "category": 1,
         "displayTime": "2026-11-08",
         "updatedAt": 1794062481,
-        "sticky": false
-      },
-      {
-        "cid": "6769",
-        "title": "卫戍时装回顾展\\n限时开启",
-        "category": 1,
-        "displayTime": "2026-11-08",
-        "updatedAt": 1794062411,
         "sticky": false
       },
       {
@@ -191,7 +191,7 @@
     ],
     "popup": {
       "popupList": [],
-      "defaultPopup": null
+      "defaultPopup": "8205"
     }
   }
 }
