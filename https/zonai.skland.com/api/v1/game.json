@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1795488290",
+  "timestamp": "1795530809",
   "data": {
     "list": [
       {
@@ -1757,36 +1757,6 @@
             "subtitle": ""
           },
           {
-            "id": 84,
-            "gameId": 3,
-            "name": "限时任务",
-            "icon": {
-              "id": "",
-              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
-              "width": 120,
-              "height": 120,
-              "size": 1354,
-              "format": "png",
-              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
-            },
-            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fsanctuary-part2%3FactivityId%3Dact_endfield_788423%26header%3D0",
-            "position": 7,
-            "status": 2,
-            "startAtTs": 0,
-            "pcLink": "https://act.skland.com/endfield/sanctuary-part2?activityId=act_endfield_788423&header=0",
-            "pcStatus": 2,
-            "redDot": {
-              "isEnabled": true,
-              "timeRange": {
-                "startAtTs": "1793851933",
-                "endAtTs": "1795557599"
-              },
-              "dotType": 0,
-              "hotText": ""
-            },
-            "subtitle": ""
-          },
-          {
             "id": 103,
             "gameId": 3,
             "name": "一键云玩",
@@ -3109,7 +3079,7 @@
               "format": "png",
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/e1a69bdf9d39e55319c90798f5e318e0.png"
             },
-            "link": "skland://weeklyMustWatch?id=84",
+            "link": "skland://weeklyMustWatch?id=85",
             "position": 1,
             "status": 2,
             "startAtTs": 0,
