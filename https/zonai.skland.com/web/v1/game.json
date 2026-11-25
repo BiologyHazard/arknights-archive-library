@@ -1,7 +1,7 @@
 {
   "code": 0,
   "message": "OK",
-  "timestamp": "1795566143",
+  "timestamp": "1795614860",
   "data": {
     "list": [
       {
@@ -82,6 +82,7 @@
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -126,6 +127,7 @@
               4
             ],
             "defaultSortType": 4,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -170,6 +172,7 @@
               4
             ],
             "defaultSortType": 2,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -214,6 +217,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -258,6 +262,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -302,6 +307,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -346,6 +352,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -390,6 +397,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -910,6 +918,7 @@
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -954,6 +963,7 @@
               4
             ],
             "defaultSortType": 4,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -998,6 +1008,7 @@
               4
             ],
             "defaultSortType": 2,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1042,6 +1053,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1086,6 +1098,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1336,6 +1349,7 @@
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1380,6 +1394,7 @@
               4
             ],
             "defaultSortType": 4,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1424,6 +1439,7 @@
               4
             ],
             "defaultSortType": 2,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1468,6 +1484,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1512,6 +1529,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1556,6 +1574,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1600,6 +1619,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -1787,6 +1807,36 @@
             "subtitle": ""
           },
           {
+            "id": 84,
+            "gameId": 3,
+            "name": "限时任务",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/06/12/1514e694a9ecc831414a6b73d39520bf.png",
+              "width": 120,
+              "height": 120,
+              "size": 1354,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/f70f14691e411244a3e26744cd758446.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fact.skland.com%2Fendfield%2Fmushroom-reunion%3Fheader%3D0%26activityId%3Dact_endfield_414177",
+            "position": 7,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://act.skland.com/endfield/mushroom-reunion?header=0&activityId=act_endfield_414177",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1795610992",
+                "endAtTs": "1799337599"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 103,
             "gameId": 3,
             "name": "一键云玩",
@@ -1817,6 +1867,36 @@
             "subtitle": ""
           },
           {
+            "id": 105,
+            "gameId": 3,
+            "name": "版本日历",
+            "icon": {
+              "id": "",
+              "url": "https://bbs.hycdn.cn/image/2026/11/25/84290137df4baf72e8831c8ddce33b7e.png",
+              "width": 120,
+              "height": 120,
+              "size": 1070,
+              "format": "png",
+              "darkModeUrl": "https://bbs.hycdn.cn/image/2026/11/25/a987c9364361358567c54d52ab5b5e75.png"
+            },
+            "link": "skland://web?url=https%3A%2F%2Fwww.skland.com%2Fgame%2Fendfield%2Fcalendar%3Fheader%3D0",
+            "position": 9,
+            "status": 2,
+            "startAtTs": 0,
+            "pcLink": "https://www.skland.com/game/endfield/calendar?header=0",
+            "pcStatus": 2,
+            "redDot": {
+              "isEnabled": true,
+              "timeRange": {
+                "startAtTs": "1795581098",
+                "endAtTs": "1795968000"
+              },
+              "dotType": 0,
+              "hotText": ""
+            },
+            "subtitle": ""
+          },
+          {
             "id": 86,
             "gameId": 3,
             "name": "养成计算器",
@@ -1830,7 +1910,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/1eb6f7402e8677c9e80408b2d89ebffe.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Ftools%2Fendfield%2Fcost-calculator%3Fheader%3D0",
-            "position": 9,
+            "position": 10,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/tools/endfield/cost-calculator?header=0",
@@ -1860,7 +1940,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/370f73745005bcf6216e9117c1b03c8e.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fgame.skland.com%2Fmap%2Fendfield%3Fheader%3D0",
-            "position": 11,
+            "position": 12,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://game.skland.com/map/endfield?header=0",
@@ -1890,7 +1970,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/9c436735107d33fa7a14fbc7c0c4d1dc.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fwiki.skland.com%2Fendfield%3Fheader%3D0%26hg_media%3Dskland%26hg_link_campaign%3Dtools",
-            "position": 12,
+            "position": 13,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://wiki.skland.com/endfield?header=0&hg_media=skland&hg_link_campaign=tools",
@@ -1920,7 +2000,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/09/01/c67dbd490886cf55ce393aa890932a70.png"
             },
             "link": "skland://openExternalApp?ulink=taobao%3A%2F%2Farknightsendfieldyx.tmall.com&fallback=https%3A%2F%2Farknightsendfieldyx.tmall.com&alert=true",
-            "position": 13,
+            "position": 14,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://arknightsendfieldyx.tmall.com",
@@ -1950,7 +2030,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/58ebb9276b030a9360ba19c2038b91eb.png"
             },
             "link": "skland://web?url=https%3A%2F%2Fuser.hypergryph.com%2Fpayment%2Farknights_endfield%3Fsource%3Dskland",
-            "position": 14,
+            "position": 15,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://user.hypergryph.com/payment/arknights_endfield?source=skland",
@@ -1980,7 +2060,7 @@
               "darkModeUrl": "https://bbs.hycdn.cn/image/2026/08/31/06e17ad3aff64b7eb441bdf968ff1d8b.png"
             },
             "link": "skland://user?id=133",
-            "position": 15,
+            "position": 16,
             "status": 2,
             "startAtTs": 0,
             "pcLink": "https://comic.hypergryph.com/talos-ii-historicus/",
@@ -2090,6 +2170,7 @@
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2134,6 +2215,7 @@
               1
             ],
             "defaultSortType": 4,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2178,6 +2260,7 @@
               4
             ],
             "defaultSortType": 2,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2222,6 +2305,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2266,6 +2350,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2310,6 +2395,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2650,6 +2736,7 @@
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2694,6 +2781,7 @@
               1
             ],
             "defaultSortType": 4,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2738,6 +2826,7 @@
               4
             ],
             "defaultSortType": 2,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -2782,6 +2871,7 @@
               4
             ],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -3002,6 +3092,7 @@
             "kind": 30,
             "allowedViewKinds": [],
             "defaultSortType": 1,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -3046,6 +3137,7 @@
               4
             ],
             "defaultSortType": 4,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
@@ -3090,6 +3182,7 @@
               4
             ],
             "defaultSortType": 2,
+            "contentCategories": [],
             "bannerOnOff": 0,
             "headlineOnOff": 0,
             "billboardOnOff": 0
